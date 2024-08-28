@@ -1,0 +1,577 @@
+dataset,character,topCharacter,result,excludeNovel,metric
+scaled-booknlp-quotes,Admiral Croft,Mrs. Croft,1,0,Top10success
+scaled-booknlp-quotes,Admiral Croft,Frank Churchill,0,1,Top10success
+scaled-booknlp-quotes,Anna Weston,Emma Woodhouse,1,0,Top10success
+scaled-booknlp-quotes,Anna Weston,Anne Elliot,1,1,Top10success
+scaled-booknlp-quotes,Anne Elliot,Fanny Price,0,0,Top10success
+scaled-booknlp-quotes,Anne Elliot,Fanny Price,0,1,Top10success
+scaled-booknlp-quotes,Captain Benwick,Anne Elliot,0,0,Top10success
+scaled-booknlp-quotes,Captain Benwick,Marianne Dashwood,1,1,Top10success
+scaled-booknlp-quotes,Captain Harville,Admiral Croft,0,0,Top10success
+scaled-booknlp-quotes,Captain Harville,Edmund Bertram,0,1,Top10success
+scaled-booknlp-quotes,Captain Wentworth,Anne Elliot,1,0,Top10success
+scaled-booknlp-quotes,Captain Wentworth,Fitzwilliam Darcy,0,1,Top10success
+scaled-booknlp-quotes,Caroline Bingley,Mrs. Hurst,0,0,Top10success
+scaled-booknlp-quotes,Caroline Bingley,Mary Crawford,0,1,Top10success
+scaled-booknlp-quotes,Catherine Morland,Emma Woodhouse,0,0,Top10success
+scaled-booknlp-quotes,Catherine Morland,Emma Woodhouse,0,1,Top10success
+scaled-booknlp-quotes,Charles Bingley,Caroline Bingley,1,0,Top10success
+scaled-booknlp-quotes,Charles Bingley,Edward Ferrars,0,1,Top10success
+scaled-booknlp-quotes,Charles Musgrove,Mary Musgrove,1,0,Top10success
+scaled-booknlp-quotes,Charles Musgrove,William Collins,0,1,Top10success
+scaled-booknlp-quotes,Charlotte Lucas,Elizabeth Bennet,1,0,Top10success
+scaled-booknlp-quotes,Charlotte Lucas,Lucy Steele,0,1,Top10success
+scaled-booknlp-quotes,Charlotte Palmer,Mrs. Jennings,1,0,Top10success
+scaled-booknlp-quotes,Charlotte Palmer,Mrs. Bennet,0,1,Top10success
+scaled-booknlp-quotes,Colonel Brandon,Edward Ferrars,1,0,Top10success
+scaled-booknlp-quotes,Colonel Brandon,George Knightley,0,1,Top10success
+scaled-booknlp-quotes,Colonel Fitzwilliam,Charles Bingley,0,0,Top10success
+scaled-booknlp-quotes,Colonel Fitzwilliam,Edward Ferrars,1,1,Top10success
+scaled-booknlp-quotes,Dr. Grant,General Tilney,1,0,Top10success
+scaled-booknlp-quotes,Dr. Grant,General Tilney,1,1,Top10success
+scaled-booknlp-quotes,Edmund Bertram,Fanny Price,1,0,Top10success
+scaled-booknlp-quotes,Edmund Bertram,Edward Ferrars,0,1,Top10success
+scaled-booknlp-quotes,Edward Ferrars,Edmund Bertram,0,0,Top10success
+scaled-booknlp-quotes,Edward Ferrars,Edmund Bertram,0,1,Top10success
+scaled-booknlp-quotes,Eleanor Tilney,Henry Tilney,1,0,Top10success
+scaled-booknlp-quotes,Eleanor Tilney,Elinor Dashwood,0,1,Top10success
+scaled-booknlp-quotes,Elinor Dashwood,Marianne Dashwood,1,0,Top10success
+scaled-booknlp-quotes,Elinor Dashwood,Anne Elliot,1,1,Top10success
+scaled-booknlp-quotes,Elizabeth Bennet,Emma Woodhouse,0,0,Top10success
+scaled-booknlp-quotes,Elizabeth Bennet,Emma Woodhouse,0,1,Top10success
+scaled-booknlp-quotes,Elizabeth Elliot,Sir Walter Elliot,1,0,Top10success
+scaled-booknlp-quotes,Elizabeth Elliot,Maria Bertram,0,1,Top10success
+scaled-booknlp-quotes,Emma Woodhouse,Elizabeth Bennet,0,0,Top10success
+scaled-booknlp-quotes,Emma Woodhouse,Elizabeth Bennet,0,1,Top10success
+scaled-booknlp-quotes,Fanny Dashwood,John Dashwood,0,0,Top10success
+scaled-booknlp-quotes,Fanny Dashwood,General Tilney,0,1,Top10success
+scaled-booknlp-quotes,Fanny Price,Anne Elliot,0,0,Top10success
+scaled-booknlp-quotes,Fanny Price,Anne Elliot,0,1,Top10success
+scaled-booknlp-quotes,Fitzwilliam Darcy,George Knightley,0,0,Top10success
+scaled-booknlp-quotes,Fitzwilliam Darcy,George Knightley,0,1,Top10success
+scaled-booknlp-quotes,Frank Churchill,Emma Woodhouse,1,0,Top10success
+scaled-booknlp-quotes,Frank Churchill,Henry Crawford,0,1,Top10success
+scaled-booknlp-quotes,Frederick Tilney,General Tilney,0,0,Top10success
+scaled-booknlp-quotes,Frederick Tilney,George Wickham,0,1,Top10success
+scaled-booknlp-quotes,General Tilney,John Thorpe,0,0,Top10success
+scaled-booknlp-quotes,General Tilney,Sir Walter Elliot,0,1,Top10success
+scaled-booknlp-quotes,George Knightley,Emma Woodhouse,1,0,Top10success
+scaled-booknlp-quotes,George Knightley,Fitzwilliam Darcy,0,1,Top10success
+scaled-booknlp-quotes,George Wickham,John Willoughby,0,0,Top10success
+scaled-booknlp-quotes,George Wickham,John Willoughby,0,1,Top10success
+scaled-booknlp-quotes,Georgiana Darcy,Fitzwilliam Darcy,0,0,Top10success
+scaled-booknlp-quotes,Georgiana Darcy,Emma Woodhouse,0,1,Top10success
+scaled-booknlp-quotes,Harriet Smith,Jane Fairfax,1,0,Top10success
+scaled-booknlp-quotes,Harriet Smith,Fanny Price,0,1,Top10success
+scaled-booknlp-quotes,Henrietta Musgrove,Louisa Musgrove,1,0,Top10success
+scaled-booknlp-quotes,Henrietta Musgrove,Julia Bertram,0,1,Top10success
+scaled-booknlp-quotes,Henry Crawford,Mary Crawford,1,0,Top10success
+scaled-booknlp-quotes,Henry Crawford,John Willoughby,0,1,Top10success
+scaled-booknlp-quotes,Henry Tilney,Edmund Bertram,1,0,Top10success
+scaled-booknlp-quotes,Henry Tilney,Edmund Bertram,1,1,Top10success
+scaled-booknlp-quotes,Isabella Knightley,Mr. Woodhouse,1,0,Top10success
+scaled-booknlp-quotes,Isabella Knightley,Fanny Price,0,1,Top10success
+scaled-booknlp-quotes,Isabella Thorpe,John Thorpe,1,0,Top10success
+scaled-booknlp-quotes,Isabella Thorpe,Mary Crawford,1,1,Top10success
+scaled-booknlp-quotes,James Morland,Edmund Bertram,0,0,Top10success
+scaled-booknlp-quotes,James Morland,Edmund Bertram,0,1,Top10success
+scaled-booknlp-quotes,Jane Bennet,Elizabeth Bennet,1,0,Top10success
+scaled-booknlp-quotes,Jane Bennet,Marianne Dashwood,0,1,Top10success
+scaled-booknlp-quotes,Jane Fairfax,Frank Churchill,1,0,Top10success
+scaled-booknlp-quotes,Jane Fairfax,Marianne Dashwood,0,1,Top10success
+scaled-booknlp-quotes,John Dashwood,Fanny Dashwood,0,0,Top10success
+scaled-booknlp-quotes,John Dashwood,Mrs. Norris,1,1,Top10success
+scaled-booknlp-quotes,John Thorpe,Isabella Thorpe,1,0,Top10success
+scaled-booknlp-quotes,John Thorpe,John Willoughby,0,1,Top10success
+scaled-booknlp-quotes,John Willoughby,George Wickham,0,0,Top10success
+scaled-booknlp-quotes,John Willoughby,George Wickham,0,1,Top10success
+scaled-booknlp-quotes,Julia Bertram,Maria Bertram,1,0,Top10success
+scaled-booknlp-quotes,Julia Bertram,Lydia Bennet,0,1,Top10success
+scaled-booknlp-quotes,Lady Bertram,Mrs. Norris,0,0,Top10success
+scaled-booknlp-quotes,Lady Bertram,Mrs. Bennet,0,1,Top10success
+scaled-booknlp-quotes,Lady Catherine de Bourgh,William Collins,1,0,Top10success
+scaled-booknlp-quotes,Lady Catherine de Bourgh,Emma Woodhouse,0,1,Top10success
+scaled-booknlp-quotes,Lady Lucas,Caroline Bingley,0,0,Top10success
+scaled-booknlp-quotes,Lady Lucas,Fanny Dashwood,0,1,Top10success
+scaled-booknlp-quotes,Lady Middleton,Fanny Dashwood,0,0,Top10success
+scaled-booknlp-quotes,Lady Middleton,Mrs. Bennet,0,1,Top10success
+scaled-booknlp-quotes,Lady Russell,Sir Walter Elliot,1,0,Top10success
+scaled-booknlp-quotes,Lady Russell,General Tilney,0,1,Top10success
+scaled-booknlp-quotes,Louisa Musgrove,Henrietta Musgrove,1,0,Top10success
+scaled-booknlp-quotes,Louisa Musgrove,Caroline Bingley,0,1,Top10success
+scaled-booknlp-quotes,Lucy Steele,Isabella Thorpe,0,0,Top10success
+scaled-booknlp-quotes,Lucy Steele,Isabella Thorpe,0,1,Top10success
+scaled-booknlp-quotes,Lydia Bennet,Elizabeth Bennet,0,0,Top10success
+scaled-booknlp-quotes,Lydia Bennet,Julia Bertram,0,1,Top10success
+scaled-booknlp-quotes,Margaret Dashwood,Anne Elliot,0,0,Top10success
+scaled-booknlp-quotes,Margaret Dashwood,Anne Elliot,0,1,Top10success
+scaled-booknlp-quotes,Maria Bertram,Julia Bertram,1,0,Top10success
+scaled-booknlp-quotes,Maria Bertram,Elizabeth Elliot,0,1,Top10success
+scaled-booknlp-quotes,Marianne Dashwood,Elinor Dashwood,1,0,Top10success
+scaled-booknlp-quotes,Marianne Dashwood,Elizabeth Bennet,1,1,Top10success
+scaled-booknlp-quotes,Mary Bennet,Lydia Bennet,0,0,Top10success
+scaled-booknlp-quotes,Mary Bennet,Fanny Price,1,1,Top10success
+scaled-booknlp-quotes,Mary Crawford,Henry Crawford,1,0,Top10success
+scaled-booknlp-quotes,Mary Crawford,Isabella Thorpe,1,1,Top10success
+scaled-booknlp-quotes,Mary Musgrove,Elizabeth Elliot,1,0,Top10success
+scaled-booknlp-quotes,Mary Musgrove,Mrs. Bennet,0,1,Top10success
+scaled-booknlp-quotes,Miss Bates,Jane Fairfax,1,0,Top10success
+scaled-booknlp-quotes,Miss Bates,Mrs. Jennings,0,1,Top10success
+scaled-booknlp-quotes,Mr. Allen,Mr. Bennet,0,0,Top10success
+scaled-booknlp-quotes,Mr. Allen,Mr. Bennet,1,1,Top10success
+scaled-booknlp-quotes,Mr. Bennet,Elizabeth Bennet,1,0,Top10success
+scaled-booknlp-quotes,Mr. Bennet,Emma Woodhouse,0,1,Top10success
+scaled-booknlp-quotes,William Collins,Lady Catherine de Bourgh,1,0,Top10success
+scaled-booknlp-quotes,William Collins,Philip Elton,1,1,Top10success
+scaled-booknlp-quotes,Philip Elton,Frank Churchill,1,0,Top10success
+scaled-booknlp-quotes,Philip Elton,William Collins,1,1,Top10success
+scaled-booknlp-quotes,Mr. Gardiner,Mrs. Gardiner,1,0,Top10success
+scaled-booknlp-quotes,Mr. Gardiner,Admiral Croft,1,1,Top10success
+scaled-booknlp-quotes,Mr. Hurst,Henry Crawford,0,0,Top10success
+scaled-booknlp-quotes,Mr. Hurst,Henry Crawford,0,1,Top10success
+scaled-booknlp-quotes,Thomas Palmer,Charlotte Palmer,0,0,Top10success
+scaled-booknlp-quotes,Thomas Palmer,Sir Thomas Bertram,0,1,Top10success
+scaled-booknlp-quotes,Mr. Rushworth,Henry Crawford,0,0,Top10success
+scaled-booknlp-quotes,Mr. Rushworth,John Thorpe,1,1,Top10success
+scaled-booknlp-quotes,Mr. Weston,Mr. Woodhouse,0,0,Top10success
+scaled-booknlp-quotes,Mr. Weston,Henry Crawford,0,1,Top10success
+scaled-booknlp-quotes,Mr. Woodhouse,Isabella Knightley,0,0,Top10success
+scaled-booknlp-quotes,Mr. Woodhouse,Mary Musgrove,0,1,Top10success
+scaled-booknlp-quotes,Mr. Yates,Mary Crawford,1,0,Top10success
+scaled-booknlp-quotes,Mr. Yates,Admiral Croft,0,1,Top10success
+scaled-booknlp-quotes,Mrs. Allen,Isabella Thorpe,0,0,Top10success
+scaled-booknlp-quotes,Mrs. Allen,Mrs. Bennet,0,1,Top10success
+scaled-booknlp-quotes,Mrs. Bates,Jane Fairfax,1,0,Top10success
+scaled-booknlp-quotes,Mrs. Bates,Mrs. Smith,0,1,Top10success
+scaled-booknlp-quotes,Mrs. Bennet,Lydia Bennet,1,0,Top10success
+scaled-booknlp-quotes,Mrs. Bennet,Mrs. Dashwood,0,1,Top10success
+scaled-booknlp-quotes,Mrs. Croft,Anne Elliot,1,0,Top10success
+scaled-booknlp-quotes,Mrs. Croft,Elizabeth Bennet,0,1,Top10success
+scaled-booknlp-quotes,Mrs. Dashwood,Marianne Dashwood,1,0,Top10success
+scaled-booknlp-quotes,Mrs. Dashwood,Mrs. Bennet,0,1,Top10success
+scaled-booknlp-quotes,Augusta Elton,Emma Woodhouse,0,0,Top10success
+scaled-booknlp-quotes,Augusta Elton,Lady Catherine de Bourgh,1,1,Top10success
+scaled-booknlp-quotes,Mrs. Ferrars,Fanny Dashwood,1,0,Top10success
+scaled-booknlp-quotes,Mrs. Ferrars,Lady Catherine de Bourgh,0,1,Top10success
+scaled-booknlp-quotes,Mrs. Gardiner,Mr. Gardiner,1,0,Top10success
+scaled-booknlp-quotes,Mrs. Gardiner,Lady Russell,0,1,Top10success
+scaled-booknlp-quotes,Mrs. Grant,Fanny Price,0,0,Top10success
+scaled-booknlp-quotes,Mrs. Grant,Charlotte Lucas,0,1,Top10success
+scaled-booknlp-quotes,Mrs. Harville,Captain Harville,0,0,Top10success
+scaled-booknlp-quotes,Mrs. Harville,Anna Weston,1,1,Top10success
+scaled-booknlp-quotes,Mrs. Hurst,Caroline Bingley,0,0,Top10success
+scaled-booknlp-quotes,Mrs. Hurst,Emma Woodhouse,0,1,Top10success
+scaled-booknlp-quotes,Mrs. Jennings,Sir John Middleton,1,0,Top10success
+scaled-booknlp-quotes,Mrs. Jennings,Miss Bates,0,1,Top10success
+scaled-booknlp-quotes,Mrs. Morland,Mrs. Dashwood,0,0,Top10success
+scaled-booknlp-quotes,Mrs. Morland,Mrs. Dashwood,0,1,Top10success
+scaled-booknlp-quotes,Mrs. Norris,Lady Bertram,0,0,Top10success
+scaled-booknlp-quotes,Mrs. Norris,Lady Catherine de Bourgh,0,1,Top10success
+scaled-booknlp-quotes,Mrs. Price,Lady Bertram,1,0,Top10success
+scaled-booknlp-quotes,Mrs. Price,Mrs. Bennet,0,1,Top10success
+scaled-booknlp-quotes,Mrs. Smith,Anne Elliot,1,0,Top10success
+scaled-booknlp-quotes,Mrs. Smith,Miss Bates,1,1,Top10success
+scaled-booknlp-quotes,Mrs. Thorpe,Mrs. Bates,0,0,Top10success
+scaled-booknlp-quotes,Mrs. Thorpe,Mrs. Bates,0,1,Top10success
+scaled-booknlp-quotes,Mrs. Clay,William Elliot,1,0,Top10success
+scaled-booknlp-quotes,Mrs. Clay,Lucy Steele,0,1,Top10success
+scaled-booknlp-quotes,Robert Ferrars,Lucy Steele,1,0,Top10success
+scaled-booknlp-quotes,Robert Ferrars,Sir Walter Elliot,0,1,Top10success
+scaled-booknlp-quotes,Sir John Middleton,Mrs. Jennings,1,0,Top10success
+scaled-booknlp-quotes,Sir John Middleton,Catherine Morland,1,1,Top10success
+scaled-booknlp-quotes,Sir Thomas Bertram,Lady Bertram,1,0,Top10success
+scaled-booknlp-quotes,Sir Thomas Bertram,Mr. Bennet,1,1,Top10success
+scaled-booknlp-quotes,Sir Walter Elliot,Elizabeth Elliot,1,0,Top10success
+scaled-booknlp-quotes,Sir Walter Elliot,Lady Catherine de Bourgh,0,1,Top10success
+scaled-booknlp-quotes,Sir William Lucas,Caroline Bingley,1,0,Top10success
+scaled-booknlp-quotes,Sir William Lucas,Admiral Croft,0,1,Top10success
+scaled-booknlp-quotes,Susan Price,Fanny Price,0,0,Top10success
+scaled-booknlp-quotes,Susan Price,Elizabeth Bennet,0,1,Top10success
+scaled-booknlp-quotes,William Elliot,John Willoughby,0,0,Top10success
+scaled-booknlp-quotes,William Elliot,John Willoughby,0,1,Top10success
+scaled-booknlp-quotes,William Price,Edmund Bertram,1,0,Top10success
+scaled-booknlp-quotes,William Price,Captain Wentworth,0,1,Top10success
+scaled-booknlp-quotes,Admiral Croft,,0.0,0,Jaccard
+scaled-booknlp-quotes,Admiral Croft,,0.05263157894736842,1,Jaccard
+scaled-booknlp-quotes,Anna Weston,,0.1111111111111111,0,Jaccard
+scaled-booknlp-quotes,Anna Weston,,0.05263157894736842,1,Jaccard
+scaled-booknlp-quotes,Anne Elliot,,0.05263157894736842,0,Jaccard
+scaled-booknlp-quotes,Anne Elliot,,0.0,1,Jaccard
+scaled-booknlp-quotes,Captain Benwick,,0.05263157894736842,0,Jaccard
+scaled-booknlp-quotes,Captain Benwick,,0.05263157894736842,1,Jaccard
+scaled-booknlp-quotes,Captain Harville,,0.0,0,Jaccard
+scaled-booknlp-quotes,Captain Harville,,0.0,1,Jaccard
+scaled-booknlp-quotes,Captain Wentworth,,0.0,0,Jaccard
+scaled-booknlp-quotes,Captain Wentworth,,0.0,1,Jaccard
+scaled-booknlp-quotes,Caroline Bingley,,0.0,0,Jaccard
+scaled-booknlp-quotes,Caroline Bingley,,0.05263157894736842,1,Jaccard
+scaled-booknlp-quotes,Catherine Morland,,0.05263157894736842,0,Jaccard
+scaled-booknlp-quotes,Catherine Morland,,0.0,1,Jaccard
+scaled-booknlp-quotes,Charles Bingley,,0.0,0,Jaccard
+scaled-booknlp-quotes,Charles Bingley,,0.0,1,Jaccard
+scaled-booknlp-quotes,Charles Musgrove,,0.1111111111111111,0,Jaccard
+scaled-booknlp-quotes,Charles Musgrove,,0.0,1,Jaccard
+scaled-booknlp-quotes,Charlotte Lucas,,0.0,0,Jaccard
+scaled-booknlp-quotes,Charlotte Lucas,,0.0,1,Jaccard
+scaled-booknlp-quotes,Charlotte Palmer,,0.05263157894736842,0,Jaccard
+scaled-booknlp-quotes,Charlotte Palmer,,0.0,1,Jaccard
+scaled-booknlp-quotes,Colonel Brandon,,0.0,0,Jaccard
+scaled-booknlp-quotes,Colonel Brandon,,0.05263157894736842,1,Jaccard
+scaled-booknlp-quotes,Colonel Fitzwilliam,,0.0,0,Jaccard
+scaled-booknlp-quotes,Colonel Fitzwilliam,,0.0,1,Jaccard
+scaled-booknlp-quotes,Dr. Grant,,0.05263157894736842,0,Jaccard
+scaled-booknlp-quotes,Dr. Grant,,0.05263157894736842,1,Jaccard
+scaled-booknlp-quotes,Edmund Bertram,,0.0,0,Jaccard
+scaled-booknlp-quotes,Edmund Bertram,,0.0,1,Jaccard
+scaled-booknlp-quotes,Edward Ferrars,,0.05263157894736842,0,Jaccard
+scaled-booknlp-quotes,Edward Ferrars,,0.0,1,Jaccard
+scaled-booknlp-quotes,Eleanor Tilney,,0.05263157894736842,0,Jaccard
+scaled-booknlp-quotes,Eleanor Tilney,,0.05263157894736842,1,Jaccard
+scaled-booknlp-quotes,Elinor Dashwood,,0.05263157894736842,0,Jaccard
+scaled-booknlp-quotes,Elinor Dashwood,,0.05263157894736842,1,Jaccard
+scaled-booknlp-quotes,Elizabeth Bennet,,0.1111111111111111,0,Jaccard
+scaled-booknlp-quotes,Elizabeth Bennet,,0.0,1,Jaccard
+scaled-booknlp-quotes,Elizabeth Elliot,,0.0,0,Jaccard
+scaled-booknlp-quotes,Elizabeth Elliot,,0.0,1,Jaccard
+scaled-booknlp-quotes,Emma Woodhouse,,0.05263157894736842,0,Jaccard
+scaled-booknlp-quotes,Emma Woodhouse,,0.0,1,Jaccard
+scaled-booknlp-quotes,Fanny Dashwood,,0.05263157894736842,0,Jaccard
+scaled-booknlp-quotes,Fanny Dashwood,,0.0,1,Jaccard
+scaled-booknlp-quotes,Fanny Price,,0.0,0,Jaccard
+scaled-booknlp-quotes,Fanny Price,,0.0,1,Jaccard
+scaled-booknlp-quotes,Fitzwilliam Darcy,,0.05263157894736842,0,Jaccard
+scaled-booknlp-quotes,Fitzwilliam Darcy,,0.0,1,Jaccard
+scaled-booknlp-quotes,Frank Churchill,,0.0,0,Jaccard
+scaled-booknlp-quotes,Frank Churchill,,0.0,1,Jaccard
+scaled-booknlp-quotes,Frederick Tilney,,0.05263157894736842,0,Jaccard
+scaled-booknlp-quotes,Frederick Tilney,,0.0,1,Jaccard
+scaled-booknlp-quotes,General Tilney,,0.0,0,Jaccard
+scaled-booknlp-quotes,General Tilney,,0.0,1,Jaccard
+scaled-booknlp-quotes,George Knightley,,0.05263157894736842,0,Jaccard
+scaled-booknlp-quotes,George Knightley,,0.0,1,Jaccard
+scaled-booknlp-quotes,George Wickham,,0.0,0,Jaccard
+scaled-booknlp-quotes,George Wickham,,0.05263157894736842,1,Jaccard
+scaled-booknlp-quotes,Georgiana Darcy,,0.05263157894736842,0,Jaccard
+scaled-booknlp-quotes,Georgiana Darcy,,0.0,1,Jaccard
+scaled-booknlp-quotes,Harriet Smith,,0.0,0,Jaccard
+scaled-booknlp-quotes,Harriet Smith,,0.1111111111111111,1,Jaccard
+scaled-booknlp-quotes,Henrietta Musgrove,,0.0,0,Jaccard
+scaled-booknlp-quotes,Henrietta Musgrove,,0.0,1,Jaccard
+scaled-booknlp-quotes,Henry Crawford,,0.05263157894736842,0,Jaccard
+scaled-booknlp-quotes,Henry Crawford,,0.0,1,Jaccard
+scaled-booknlp-quotes,Henry Tilney,,0.0,0,Jaccard
+scaled-booknlp-quotes,Henry Tilney,,0.0,1,Jaccard
+scaled-booknlp-quotes,Isabella Knightley,,0.0,0,Jaccard
+scaled-booknlp-quotes,Isabella Knightley,,0.0,1,Jaccard
+scaled-booknlp-quotes,Isabella Thorpe,,0.0,0,Jaccard
+scaled-booknlp-quotes,Isabella Thorpe,,0.0,1,Jaccard
+scaled-booknlp-quotes,James Morland,,0.0,0,Jaccard
+scaled-booknlp-quotes,James Morland,,0.0,1,Jaccard
+scaled-booknlp-quotes,Jane Bennet,,0.05263157894736842,0,Jaccard
+scaled-booknlp-quotes,Jane Bennet,,0.0,1,Jaccard
+scaled-booknlp-quotes,Jane Fairfax,,0.0,0,Jaccard
+scaled-booknlp-quotes,Jane Fairfax,,0.0,1,Jaccard
+scaled-booknlp-quotes,John Dashwood,,0.05263157894736842,0,Jaccard
+scaled-booknlp-quotes,John Dashwood,,0.0,1,Jaccard
+scaled-booknlp-quotes,John Thorpe,,0.0,0,Jaccard
+scaled-booknlp-quotes,John Thorpe,,0.0,1,Jaccard
+scaled-booknlp-quotes,John Willoughby,,0.0,0,Jaccard
+scaled-booknlp-quotes,John Willoughby,,0.0,1,Jaccard
+scaled-booknlp-quotes,Julia Bertram,,0.1111111111111111,0,Jaccard
+scaled-booknlp-quotes,Julia Bertram,,0.0,1,Jaccard
+scaled-booknlp-quotes,Lady Bertram,,0.1111111111111111,0,Jaccard
+scaled-booknlp-quotes,Lady Bertram,,0.0,1,Jaccard
+scaled-booknlp-quotes,Lady Catherine de Bourgh,,0.0,0,Jaccard
+scaled-booknlp-quotes,Lady Catherine de Bourgh,,0.0,1,Jaccard
+scaled-booknlp-quotes,Lady Lucas,,0.0,0,Jaccard
+scaled-booknlp-quotes,Lady Lucas,,0.1111111111111111,1,Jaccard
+scaled-booknlp-quotes,Lady Middleton,,0.0,0,Jaccard
+scaled-booknlp-quotes,Lady Middleton,,0.0,1,Jaccard
+scaled-booknlp-quotes,Lady Russell,,0.05263157894736842,0,Jaccard
+scaled-booknlp-quotes,Lady Russell,,0.0,1,Jaccard
+scaled-booknlp-quotes,Louisa Musgrove,,0.05263157894736842,0,Jaccard
+scaled-booknlp-quotes,Louisa Musgrove,,0.0,1,Jaccard
+scaled-booknlp-quotes,Lucy Steele,,0.05263157894736842,0,Jaccard
+scaled-booknlp-quotes,Lucy Steele,,0.0,1,Jaccard
+scaled-booknlp-quotes,Lydia Bennet,,0.0,0,Jaccard
+scaled-booknlp-quotes,Lydia Bennet,,0.05263157894736842,1,Jaccard
+scaled-booknlp-quotes,Margaret Dashwood,,0.05263157894736842,0,Jaccard
+scaled-booknlp-quotes,Margaret Dashwood,,0.05263157894736842,1,Jaccard
+scaled-booknlp-quotes,Maria Bertram,,0.0,0,Jaccard
+scaled-booknlp-quotes,Maria Bertram,,0.0,1,Jaccard
+scaled-booknlp-quotes,Marianne Dashwood,,0.05263157894736842,0,Jaccard
+scaled-booknlp-quotes,Marianne Dashwood,,0.0,1,Jaccard
+scaled-booknlp-quotes,Mary Bennet,,0.0,0,Jaccard
+scaled-booknlp-quotes,Mary Bennet,,0.05263157894736842,1,Jaccard
+scaled-booknlp-quotes,Mary Crawford,,0.05263157894736842,0,Jaccard
+scaled-booknlp-quotes,Mary Crawford,,0.0,1,Jaccard
+scaled-booknlp-quotes,Mary Musgrove,,0.0,0,Jaccard
+scaled-booknlp-quotes,Mary Musgrove,,0.0,1,Jaccard
+scaled-booknlp-quotes,Miss Bates,,0.05263157894736842,0,Jaccard
+scaled-booknlp-quotes,Miss Bates,,0.0,1,Jaccard
+scaled-booknlp-quotes,Mr. Allen,,0.05263157894736842,0,Jaccard
+scaled-booknlp-quotes,Mr. Allen,,0.0,1,Jaccard
+scaled-booknlp-quotes,Mr. Bennet,,0.05263157894736842,0,Jaccard
+scaled-booknlp-quotes,Mr. Bennet,,0.0,1,Jaccard
+scaled-booknlp-quotes,William Collins,,0.0,0,Jaccard
+scaled-booknlp-quotes,William Collins,,0.05263157894736842,1,Jaccard
+scaled-booknlp-quotes,Philip Elton,,0.17647058823529413,0,Jaccard
+scaled-booknlp-quotes,Philip Elton,,0.0,1,Jaccard
+scaled-booknlp-quotes,Mr. Gardiner,,0.05263157894736842,0,Jaccard
+scaled-booknlp-quotes,Mr. Gardiner,,0.05263157894736842,1,Jaccard
+scaled-booknlp-quotes,Mr. Hurst,,0.0,0,Jaccard
+scaled-booknlp-quotes,Mr. Hurst,,0.0,1,Jaccard
+scaled-booknlp-quotes,Thomas Palmer,,0.0,0,Jaccard
+scaled-booknlp-quotes,Thomas Palmer,,0.0,1,Jaccard
+scaled-booknlp-quotes,Mr. Rushworth,,0.0,0,Jaccard
+scaled-booknlp-quotes,Mr. Rushworth,,0.0,1,Jaccard
+scaled-booknlp-quotes,Mr. Weston,,0.0,0,Jaccard
+scaled-booknlp-quotes,Mr. Weston,,0.0,1,Jaccard
+scaled-booknlp-quotes,Mr. Woodhouse,,0.0,0,Jaccard
+scaled-booknlp-quotes,Mr. Woodhouse,,0.0,1,Jaccard
+scaled-booknlp-quotes,Mr. Yates,,0.0,0,Jaccard
+scaled-booknlp-quotes,Mr. Yates,,0.0,1,Jaccard
+scaled-booknlp-quotes,Mrs. Allen,,0.0,0,Jaccard
+scaled-booknlp-quotes,Mrs. Allen,,0.0,1,Jaccard
+scaled-booknlp-quotes,Mrs. Bates,,0.0,0,Jaccard
+scaled-booknlp-quotes,Mrs. Bates,,0.05263157894736842,1,Jaccard
+scaled-booknlp-quotes,Mrs. Bennet,,0.05263157894736842,0,Jaccard
+scaled-booknlp-quotes,Mrs. Bennet,,0.0,1,Jaccard
+scaled-booknlp-quotes,Mrs. Croft,,0.05263157894736842,0,Jaccard
+scaled-booknlp-quotes,Mrs. Croft,,0.0,1,Jaccard
+scaled-booknlp-quotes,Mrs. Dashwood,,0.05263157894736842,0,Jaccard
+scaled-booknlp-quotes,Mrs. Dashwood,,0.0,1,Jaccard
+scaled-booknlp-quotes,Augusta Elton,,0.05263157894736842,0,Jaccard
+scaled-booknlp-quotes,Augusta Elton,,0.0,1,Jaccard
+scaled-booknlp-quotes,Mrs. Ferrars,,0.0,0,Jaccard
+scaled-booknlp-quotes,Mrs. Ferrars,,0.05263157894736842,1,Jaccard
+scaled-booknlp-quotes,Mrs. Gardiner,,0.0,0,Jaccard
+scaled-booknlp-quotes,Mrs. Gardiner,,0.0,1,Jaccard
+scaled-booknlp-quotes,Mrs. Grant,,0.0,0,Jaccard
+scaled-booknlp-quotes,Mrs. Grant,,0.0,1,Jaccard
+scaled-booknlp-quotes,Mrs. Harville,,0.0,0,Jaccard
+scaled-booknlp-quotes,Mrs. Harville,,0.0,1,Jaccard
+scaled-booknlp-quotes,Mrs. Hurst,,0.0,0,Jaccard
+scaled-booknlp-quotes,Mrs. Hurst,,0.0,1,Jaccard
+scaled-booknlp-quotes,Mrs. Jennings,,0.1111111111111111,0,Jaccard
+scaled-booknlp-quotes,Mrs. Jennings,,0.0,1,Jaccard
+scaled-booknlp-quotes,Mrs. Morland,,0.0,0,Jaccard
+scaled-booknlp-quotes,Mrs. Morland,,0.0,1,Jaccard
+scaled-booknlp-quotes,Mrs. Norris,,0.0,0,Jaccard
+scaled-booknlp-quotes,Mrs. Norris,,0.0,1,Jaccard
+scaled-booknlp-quotes,Mrs. Price,,0.05263157894736842,0,Jaccard
+scaled-booknlp-quotes,Mrs. Price,,0.0,1,Jaccard
+scaled-booknlp-quotes,Mrs. Smith,,0.05263157894736842,0,Jaccard
+scaled-booknlp-quotes,Mrs. Smith,,0.05263157894736842,1,Jaccard
+scaled-booknlp-quotes,Mrs. Thorpe,,0.05263157894736842,0,Jaccard
+scaled-booknlp-quotes,Mrs. Thorpe,,0.05263157894736842,1,Jaccard
+scaled-booknlp-quotes,Mrs. Clay,,0.05263157894736842,0,Jaccard
+scaled-booknlp-quotes,Mrs. Clay,,0.0,1,Jaccard
+scaled-booknlp-quotes,Robert Ferrars,,0.0,0,Jaccard
+scaled-booknlp-quotes,Robert Ferrars,,0.0,1,Jaccard
+scaled-booknlp-quotes,Sir John Middleton,,0.05263157894736842,0,Jaccard
+scaled-booknlp-quotes,Sir John Middleton,,0.0,1,Jaccard
+scaled-booknlp-quotes,Sir Thomas Bertram,,0.0,0,Jaccard
+scaled-booknlp-quotes,Sir Thomas Bertram,,0.1111111111111111,1,Jaccard
+scaled-booknlp-quotes,Sir Walter Elliot,,0.0,0,Jaccard
+scaled-booknlp-quotes,Sir Walter Elliot,,0.0,1,Jaccard
+scaled-booknlp-quotes,Sir William Lucas,,0.05263157894736842,0,Jaccard
+scaled-booknlp-quotes,Sir William Lucas,,0.0,1,Jaccard
+scaled-booknlp-quotes,Susan Price,,0.05263157894736842,0,Jaccard
+scaled-booknlp-quotes,Susan Price,,0.0,1,Jaccard
+scaled-booknlp-quotes,William Elliot,,0.0,0,Jaccard
+scaled-booknlp-quotes,William Elliot,,0.0,1,Jaccard
+scaled-booknlp-quotes,William Price,,0.0,0,Jaccard
+scaled-booknlp-quotes,William Price,,0.0,1,Jaccard
+scaled-booknlp-quotes,Admiral Croft,,0.15555555555555553,0,KendallTau
+scaled-booknlp-quotes,Admiral Croft,,0.06666666666666667,1,KendallTau
+scaled-booknlp-quotes,Anna Weston,,0.28888888888888886,0,KendallTau
+scaled-booknlp-quotes,Anna Weston,,0.4666666666666666,1,KendallTau
+scaled-booknlp-quotes,Anne Elliot,,-0.06666666666666667,0,KendallTau
+scaled-booknlp-quotes,Anne Elliot,,0.06666666666666667,1,KendallTau
+scaled-booknlp-quotes,Captain Benwick,,0.06666666666666667,0,KendallTau
+scaled-booknlp-quotes,Captain Benwick,,0.3333333333333333,1,KendallTau
+scaled-booknlp-quotes,Captain Harville,,0.24444444444444444,0,KendallTau
+scaled-booknlp-quotes,Captain Harville,,0.3333333333333333,1,KendallTau
+scaled-booknlp-quotes,Captain Wentworth,,-0.19999999999999998,0,KendallTau
+scaled-booknlp-quotes,Captain Wentworth,,-0.37777777777777777,1,KendallTau
+scaled-booknlp-quotes,Caroline Bingley,,-0.28888888888888886,0,KendallTau
+scaled-booknlp-quotes,Caroline Bingley,,0.24444444444444444,1,KendallTau
+scaled-booknlp-quotes,Catherine Morland,,0.1111111111111111,0,KendallTau
+scaled-booknlp-quotes,Catherine Morland,,0.37777777777777777,1,KendallTau
+scaled-booknlp-quotes,Charles Bingley,,0.37777777777777777,0,KendallTau
+scaled-booknlp-quotes,Charles Bingley,,0.37777777777777777,1,KendallTau
+scaled-booknlp-quotes,Charles Musgrove,,0.24444444444444444,0,KendallTau
+scaled-booknlp-quotes,Charles Musgrove,,0.4222222222222222,1,KendallTau
+scaled-booknlp-quotes,Charlotte Lucas,,-0.022222222222222223,0,KendallTau
+scaled-booknlp-quotes,Charlotte Lucas,,-0.24444444444444444,1,KendallTau
+scaled-booknlp-quotes,Charlotte Palmer,,0.3333333333333333,0,KendallTau
+scaled-booknlp-quotes,Charlotte Palmer,,0.1111111111111111,1,KendallTau
+scaled-booknlp-quotes,Colonel Brandon,,0.28888888888888886,0,KendallTau
+scaled-booknlp-quotes,Colonel Brandon,,0.3333333333333333,1,KendallTau
+scaled-booknlp-quotes,Colonel Fitzwilliam,,0.24444444444444444,0,KendallTau
+scaled-booknlp-quotes,Colonel Fitzwilliam,,0.4666666666666666,1,KendallTau
+scaled-booknlp-quotes,Dr. Grant,,0.1111111111111111,0,KendallTau
+scaled-booknlp-quotes,Dr. Grant,,-0.28888888888888886,1,KendallTau
+scaled-booknlp-quotes,Edmund Bertram,,-0.3333333333333333,0,KendallTau
+scaled-booknlp-quotes,Edmund Bertram,,0.24444444444444444,1,KendallTau
+scaled-booknlp-quotes,Edward Ferrars,,0.022222222222222223,0,KendallTau
+scaled-booknlp-quotes,Edward Ferrars,,-0.24444444444444444,1,KendallTau
+scaled-booknlp-quotes,Eleanor Tilney,,0.5555555555555555,0,KendallTau
+scaled-booknlp-quotes,Eleanor Tilney,,0.5555555555555555,1,KendallTau
+scaled-booknlp-quotes,Elinor Dashwood,,-0.06666666666666667,0,KendallTau
+scaled-booknlp-quotes,Elinor Dashwood,,0.24444444444444444,1,KendallTau
+scaled-booknlp-quotes,Elizabeth Bennet,,0.19999999999999998,0,KendallTau
+scaled-booknlp-quotes,Elizabeth Bennet,,0.19999999999999998,1,KendallTau
+scaled-booknlp-quotes,Elizabeth Elliot,,-0.1111111111111111,0,KendallTau
+scaled-booknlp-quotes,Elizabeth Elliot,,-0.1111111111111111,1,KendallTau
+scaled-booknlp-quotes,Emma Woodhouse,,-0.06666666666666667,0,KendallTau
+scaled-booknlp-quotes,Emma Woodhouse,,0.06666666666666667,1,KendallTau
+scaled-booknlp-quotes,Fanny Dashwood,,0.24444444444444444,0,KendallTau
+scaled-booknlp-quotes,Fanny Dashwood,,-0.28888888888888886,1,KendallTau
+scaled-booknlp-quotes,Fanny Price,,-0.06666666666666667,0,KendallTau
+scaled-booknlp-quotes,Fanny Price,,0.06666666666666667,1,KendallTau
+scaled-booknlp-quotes,Fitzwilliam Darcy,,-0.1111111111111111,0,KendallTau
+scaled-booknlp-quotes,Fitzwilliam Darcy,,-0.19999999999999998,1,KendallTau
+scaled-booknlp-quotes,Frank Churchill,,-0.06666666666666667,0,KendallTau
+scaled-booknlp-quotes,Frank Churchill,,0.19999999999999998,1,KendallTau
+scaled-booknlp-quotes,Frederick Tilney,,0.4222222222222222,0,KendallTau
+scaled-booknlp-quotes,Frederick Tilney,,-0.022222222222222223,1,KendallTau
+scaled-booknlp-quotes,General Tilney,,-0.1111111111111111,0,KendallTau
+scaled-booknlp-quotes,General Tilney,,0.022222222222222223,1,KendallTau
+scaled-booknlp-quotes,George Knightley,,-0.022222222222222223,0,KendallTau
+scaled-booknlp-quotes,George Knightley,,0.15555555555555553,1,KendallTau
+scaled-booknlp-quotes,George Wickham,,0.022222222222222223,0,KendallTau
+scaled-booknlp-quotes,George Wickham,,-0.06666666666666667,1,KendallTau
+scaled-booknlp-quotes,Georgiana Darcy,,-0.06666666666666667,0,KendallTau
+scaled-booknlp-quotes,Georgiana Darcy,,0.4222222222222222,1,KendallTau
+scaled-booknlp-quotes,Harriet Smith,,0.1111111111111111,0,KendallTau
+scaled-booknlp-quotes,Harriet Smith,,0.06666666666666667,1,KendallTau
+scaled-booknlp-quotes,Henrietta Musgrove,,0.37777777777777777,0,KendallTau
+scaled-booknlp-quotes,Henrietta Musgrove,,0.37777777777777777,1,KendallTau
+scaled-booknlp-quotes,Henry Crawford,,-0.24444444444444444,0,KendallTau
+scaled-booknlp-quotes,Henry Crawford,,-0.19999999999999998,1,KendallTau
+scaled-booknlp-quotes,Henry Tilney,,0.022222222222222223,0,KendallTau
+scaled-booknlp-quotes,Henry Tilney,,0.5555555555555555,1,KendallTau
+scaled-booknlp-quotes,Isabella Knightley,,0.5111111111111111,0,KendallTau
+scaled-booknlp-quotes,Isabella Knightley,,-0.1111111111111111,1,KendallTau
+scaled-booknlp-quotes,Isabella Thorpe,,0.37777777777777777,0,KendallTau
+scaled-booknlp-quotes,Isabella Thorpe,,0.1111111111111111,1,KendallTau
+scaled-booknlp-quotes,James Morland,,0.15555555555555553,0,KendallTau
+scaled-booknlp-quotes,James Morland,,-0.15555555555555553,1,KendallTau
+scaled-booknlp-quotes,Jane Bennet,,0.37777777777777777,0,KendallTau
+scaled-booknlp-quotes,Jane Bennet,,0.24444444444444444,1,KendallTau
+scaled-booknlp-quotes,Jane Fairfax,,0.19999999999999998,0,KendallTau
+scaled-booknlp-quotes,Jane Fairfax,,-0.1111111111111111,1,KendallTau
+scaled-booknlp-quotes,John Dashwood,,0.3333333333333333,0,KendallTau
+scaled-booknlp-quotes,John Dashwood,,0.5555555555555555,1,KendallTau
+scaled-booknlp-quotes,John Thorpe,,0.1111111111111111,0,KendallTau
+scaled-booknlp-quotes,John Thorpe,,0.1111111111111111,1,KendallTau
+scaled-booknlp-quotes,John Willoughby,,-0.06666666666666667,0,KendallTau
+scaled-booknlp-quotes,John Willoughby,,-0.1111111111111111,1,KendallTau
+scaled-booknlp-quotes,Julia Bertram,,0.3333333333333333,0,KendallTau
+scaled-booknlp-quotes,Julia Bertram,,0.1111111111111111,1,KendallTau
+scaled-booknlp-quotes,Lady Bertram,,0.28888888888888886,0,KendallTau
+scaled-booknlp-quotes,Lady Bertram,,-0.022222222222222223,1,KendallTau
+scaled-booknlp-quotes,Lady Catherine de Bourgh,,0.1111111111111111,0,KendallTau
+scaled-booknlp-quotes,Lady Catherine de Bourgh,,0.15555555555555553,1,KendallTau
+scaled-booknlp-quotes,Lady Lucas,,0.3333333333333333,0,KendallTau
+scaled-booknlp-quotes,Lady Lucas,,-0.19999999999999998,1,KendallTau
+scaled-booknlp-quotes,Lady Middleton,,-0.06666666666666667,0,KendallTau
+scaled-booknlp-quotes,Lady Middleton,,-0.24444444444444444,1,KendallTau
+scaled-booknlp-quotes,Lady Russell,,0.6444444444444444,0,KendallTau
+scaled-booknlp-quotes,Lady Russell,,0.4666666666666666,1,KendallTau
+scaled-booknlp-quotes,Louisa Musgrove,,0.4666666666666666,0,KendallTau
+scaled-booknlp-quotes,Louisa Musgrove,,0.24444444444444444,1,KendallTau
+scaled-booknlp-quotes,Lucy Steele,,-0.24444444444444444,0,KendallTau
+scaled-booknlp-quotes,Lucy Steele,,-0.28888888888888886,1,KendallTau
+scaled-booknlp-quotes,Lydia Bennet,,-0.06666666666666667,0,KendallTau
+scaled-booknlp-quotes,Lydia Bennet,,0.24444444444444444,1,KendallTau
+scaled-booknlp-quotes,Margaret Dashwood,,-0.06666666666666667,0,KendallTau
+scaled-booknlp-quotes,Margaret Dashwood,,0.1111111111111111,1,KendallTau
+scaled-booknlp-quotes,Maria Bertram,,0.5111111111111111,0,KendallTau
+scaled-booknlp-quotes,Maria Bertram,,-0.6888888888888888,1,KendallTau
+scaled-booknlp-quotes,Marianne Dashwood,,0.19999999999999998,0,KendallTau
+scaled-booknlp-quotes,Marianne Dashwood,,0.4222222222222222,1,KendallTau
+scaled-booknlp-quotes,Mary Bennet,,0.022222222222222223,0,KendallTau
+scaled-booknlp-quotes,Mary Bennet,,0.19999999999999998,1,KendallTau
+scaled-booknlp-quotes,Mary Crawford,,0.15555555555555553,0,KendallTau
+scaled-booknlp-quotes,Mary Crawford,,0.28888888888888886,1,KendallTau
+scaled-booknlp-quotes,Mary Musgrove,,0.19999999999999998,0,KendallTau
+scaled-booknlp-quotes,Mary Musgrove,,0.37777777777777777,1,KendallTau
+scaled-booknlp-quotes,Miss Bates,,-0.1111111111111111,0,KendallTau
+scaled-booknlp-quotes,Miss Bates,,0.5555555555555555,1,KendallTau
+scaled-booknlp-quotes,Mr. Allen,,0.1111111111111111,0,KendallTau
+scaled-booknlp-quotes,Mr. Allen,,0.15555555555555553,1,KendallTau
+scaled-booknlp-quotes,Mr. Bennet,,0.24444444444444444,0,KendallTau
+scaled-booknlp-quotes,Mr. Bennet,,-0.022222222222222223,1,KendallTau
+scaled-booknlp-quotes,William Collins,,-0.022222222222222223,0,KendallTau
+scaled-booknlp-quotes,William Collins,,0.15555555555555553,1,KendallTau
+scaled-booknlp-quotes,Philip Elton,,0.4222222222222222,0,KendallTau
+scaled-booknlp-quotes,Philip Elton,,-0.19999999999999998,1,KendallTau
+scaled-booknlp-quotes,Mr. Gardiner,,-0.06666666666666667,0,KendallTau
+scaled-booknlp-quotes,Mr. Gardiner,,0.3333333333333333,1,KendallTau
+scaled-booknlp-quotes,Mr. Hurst,,-0.3333333333333333,0,KendallTau
+scaled-booknlp-quotes,Mr. Hurst,,0.06666666666666667,1,KendallTau
+scaled-booknlp-quotes,Thomas Palmer,,-0.022222222222222223,0,KendallTau
+scaled-booknlp-quotes,Thomas Palmer,,0.06666666666666667,1,KendallTau
+scaled-booknlp-quotes,Mr. Rushworth,,0.022222222222222223,0,KendallTau
+scaled-booknlp-quotes,Mr. Rushworth,,0.022222222222222223,1,KendallTau
+scaled-booknlp-quotes,Mr. Weston,,0.24444444444444444,0,KendallTau
+scaled-booknlp-quotes,Mr. Weston,,0.4222222222222222,1,KendallTau
+scaled-booknlp-quotes,Mr. Woodhouse,,-0.1111111111111111,0,KendallTau
+scaled-booknlp-quotes,Mr. Woodhouse,,0.1111111111111111,1,KendallTau
+scaled-booknlp-quotes,Mr. Yates,,0.1111111111111111,0,KendallTau
+scaled-booknlp-quotes,Mr. Yates,,-0.022222222222222223,1,KendallTau
+scaled-booknlp-quotes,Mrs. Allen,,0.15555555555555553,0,KendallTau
+scaled-booknlp-quotes,Mrs. Allen,,0.5555555555555555,1,KendallTau
+scaled-booknlp-quotes,Mrs. Bates,,0.37777777777777777,0,KendallTau
+scaled-booknlp-quotes,Mrs. Bates,,-0.28888888888888886,1,KendallTau
+scaled-booknlp-quotes,Mrs. Bennet,,-0.15555555555555553,0,KendallTau
+scaled-booknlp-quotes,Mrs. Bennet,,-0.28888888888888886,1,KendallTau
+scaled-booknlp-quotes,Mrs. Croft,,0.15555555555555553,0,KendallTau
+scaled-booknlp-quotes,Mrs. Croft,,-0.24444444444444444,1,KendallTau
+scaled-booknlp-quotes,Mrs. Dashwood,,0.19999999999999998,0,KendallTau
+scaled-booknlp-quotes,Mrs. Dashwood,,-0.06666666666666667,1,KendallTau
+scaled-booknlp-quotes,Augusta Elton,,0.19999999999999998,0,KendallTau
+scaled-booknlp-quotes,Augusta Elton,,-0.022222222222222223,1,KendallTau
+scaled-booknlp-quotes,Mrs. Ferrars,,0.5111111111111111,0,KendallTau
+scaled-booknlp-quotes,Mrs. Ferrars,,0.022222222222222223,1,KendallTau
+scaled-booknlp-quotes,Mrs. Gardiner,,0.19999999999999998,0,KendallTau
+scaled-booknlp-quotes,Mrs. Gardiner,,0.3333333333333333,1,KendallTau
+scaled-booknlp-quotes,Mrs. Grant,,-0.19999999999999998,0,KendallTau
+scaled-booknlp-quotes,Mrs. Grant,,0.24444444444444444,1,KendallTau
+scaled-booknlp-quotes,Mrs. Harville,,-0.19999999999999998,0,KendallTau
+scaled-booknlp-quotes,Mrs. Harville,,-0.06666666666666667,1,KendallTau
+scaled-booknlp-quotes,Mrs. Hurst,,0.37777777777777777,0,KendallTau
+scaled-booknlp-quotes,Mrs. Hurst,,-0.19999999999999998,1,KendallTau
+scaled-booknlp-quotes,Mrs. Jennings,,0.5555555555555555,0,KendallTau
+scaled-booknlp-quotes,Mrs. Jennings,,0.4222222222222222,1,KendallTau
+scaled-booknlp-quotes,Mrs. Morland,,0.1111111111111111,0,KendallTau
+scaled-booknlp-quotes,Mrs. Morland,,0.28888888888888886,1,KendallTau
+scaled-booknlp-quotes,Mrs. Norris,,0.022222222222222223,0,KendallTau
+scaled-booknlp-quotes,Mrs. Norris,,0.3333333333333333,1,KendallTau
+scaled-booknlp-quotes,Mrs. Price,,0.28888888888888886,0,KendallTau
+scaled-booknlp-quotes,Mrs. Price,,0.19999999999999998,1,KendallTau
+scaled-booknlp-quotes,Mrs. Smith,,0.4666666666666666,0,KendallTau
+scaled-booknlp-quotes,Mrs. Smith,,0.37777777777777777,1,KendallTau
+scaled-booknlp-quotes,Mrs. Thorpe,,-0.5111111111111111,0,KendallTau
+scaled-booknlp-quotes,Mrs. Thorpe,,-0.28888888888888886,1,KendallTau
+scaled-booknlp-quotes,Mrs. Clay,,0.022222222222222223,0,KendallTau
+scaled-booknlp-quotes,Mrs. Clay,,-0.022222222222222223,1,KendallTau
+scaled-booknlp-quotes,Robert Ferrars,,-0.06666666666666667,0,KendallTau
+scaled-booknlp-quotes,Robert Ferrars,,-0.1111111111111111,1,KendallTau
+scaled-booknlp-quotes,Sir John Middleton,,0.19999999999999998,0,KendallTau
+scaled-booknlp-quotes,Sir John Middleton,,-0.022222222222222223,1,KendallTau
+scaled-booknlp-quotes,Sir Thomas Bertram,,0.6,0,KendallTau
+scaled-booknlp-quotes,Sir Thomas Bertram,,0.19999999999999998,1,KendallTau
+scaled-booknlp-quotes,Sir Walter Elliot,,0.3333333333333333,0,KendallTau
+scaled-booknlp-quotes,Sir Walter Elliot,,0.24444444444444444,1,KendallTau
+scaled-booknlp-quotes,Sir William Lucas,,0.6,0,KendallTau
+scaled-booknlp-quotes,Sir William Lucas,,-0.06666666666666667,1,KendallTau
+scaled-booknlp-quotes,Susan Price,,0.15555555555555553,0,KendallTau
+scaled-booknlp-quotes,Susan Price,,-0.022222222222222223,1,KendallTau
+scaled-booknlp-quotes,William Elliot,,-0.4222222222222222,0,KendallTau
+scaled-booknlp-quotes,William Elliot,,-0.15555555555555553,1,KendallTau
+scaled-booknlp-quotes,William Price,,0.6,0,KendallTau
+scaled-booknlp-quotes,William Price,,0.28888888888888886,1,KendallTau

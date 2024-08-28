@@ -1,0 +1,649 @@
+dataset,character,topCharacter,result,excludeNovel,metric
+scaled-fanfic-assertions,Admiral Croft,Mrs. Croft,1,0,Top10success
+scaled-fanfic-assertions,Admiral Croft,Frank Churchill,1,1,Top10success
+scaled-fanfic-assertions,Anna Weston,Emma Woodhouse,1,0,Top10success
+scaled-fanfic-assertions,Anna Weston,Anne Elliot,0,1,Top10success
+scaled-fanfic-assertions,Anne Elliot,Fanny Price,0,0,Top10success
+scaled-fanfic-assertions,Anne Elliot,Fanny Price,1,1,Top10success
+scaled-fanfic-assertions,Anne Steele,Lucy Steele,1,0,Top10success
+scaled-fanfic-assertions,Anne Steele,Julia Bertram,0,1,Top10success
+scaled-fanfic-assertions,Anne de Bourgh,Georgiana Darcy,1,0,Top10success
+scaled-fanfic-assertions,Anne de Bourgh,Captain Benwick,0,1,Top10success
+scaled-fanfic-assertions,Captain Benwick,Anne Elliot,1,0,Top10success
+scaled-fanfic-assertions,Captain Benwick,Marianne Dashwood,0,1,Top10success
+scaled-fanfic-assertions,Captain Harville,Admiral Croft,0,0,Top10success
+scaled-fanfic-assertions,Captain Harville,Edmund Bertram,1,1,Top10success
+scaled-fanfic-assertions,Captain Wentworth,Anne Elliot,1,0,Top10success
+scaled-fanfic-assertions,Captain Wentworth,Fitzwilliam Darcy,0,1,Top10success
+scaled-fanfic-assertions,Caroline Bingley,Mrs. Hurst,1,0,Top10success
+scaled-fanfic-assertions,Caroline Bingley,Mary Crawford,1,1,Top10success
+scaled-fanfic-assertions,Catherine Morland,Emma Woodhouse,0,0,Top10success
+scaled-fanfic-assertions,Catherine Morland,Emma Woodhouse,0,1,Top10success
+scaled-fanfic-assertions,Charles Bingley,Caroline Bingley,1,0,Top10success
+scaled-fanfic-assertions,Charles Bingley,Edward Ferrars,0,1,Top10success
+scaled-fanfic-assertions,Charles Hayter,Philip Elton,0,0,Top10success
+scaled-fanfic-assertions,Charles Hayter,Philip Elton,0,1,Top10success
+scaled-fanfic-assertions,Charles Musgrove,Mary Musgrove,1,0,Top10success
+scaled-fanfic-assertions,Charles Musgrove,William Collins,0,1,Top10success
+scaled-fanfic-assertions,Charlotte Lucas,Elizabeth Bennet,1,0,Top10success
+scaled-fanfic-assertions,Charlotte Lucas,Lucy Steele,0,1,Top10success
+scaled-fanfic-assertions,Charlotte Palmer,Mrs. Jennings,1,0,Top10success
+scaled-fanfic-assertions,Charlotte Palmer,Mrs. Bennet,0,1,Top10success
+scaled-fanfic-assertions,Colonel Brandon,Edward Ferrars,1,0,Top10success
+scaled-fanfic-assertions,Colonel Brandon,George Knightley,1,1,Top10success
+scaled-fanfic-assertions,Colonel Fitzwilliam,Charles Bingley,1,0,Top10success
+scaled-fanfic-assertions,Colonel Fitzwilliam,Edward Ferrars,0,1,Top10success
+scaled-fanfic-assertions,Dr. Grant,General Tilney,0,0,Top10success
+scaled-fanfic-assertions,Dr. Grant,General Tilney,0,1,Top10success
+scaled-fanfic-assertions,Edmund Bertram,Fanny Price,1,0,Top10success
+scaled-fanfic-assertions,Edmund Bertram,Edward Ferrars,1,1,Top10success
+scaled-fanfic-assertions,Edward Ferrars,Edmund Bertram,1,0,Top10success
+scaled-fanfic-assertions,Edward Ferrars,Edmund Bertram,1,1,Top10success
+scaled-fanfic-assertions,Eleanor Tilney,Henry Tilney,1,0,Top10success
+scaled-fanfic-assertions,Eleanor Tilney,Elinor Dashwood,0,1,Top10success
+scaled-fanfic-assertions,Elinor Dashwood,Marianne Dashwood,1,0,Top10success
+scaled-fanfic-assertions,Elinor Dashwood,Anne Elliot,0,1,Top10success
+scaled-fanfic-assertions,Elizabeth Bennet,Emma Woodhouse,0,0,Top10success
+scaled-fanfic-assertions,Elizabeth Bennet,Emma Woodhouse,1,1,Top10success
+scaled-fanfic-assertions,Elizabeth Elliot,Sir Walter Elliot,1,0,Top10success
+scaled-fanfic-assertions,Elizabeth Elliot,Maria Bertram,0,1,Top10success
+scaled-fanfic-assertions,Emma Woodhouse,Elizabeth Bennet,0,0,Top10success
+scaled-fanfic-assertions,Emma Woodhouse,Elizabeth Bennet,1,1,Top10success
+scaled-fanfic-assertions,Fanny Dashwood,John Dashwood,1,0,Top10success
+scaled-fanfic-assertions,Fanny Dashwood,General Tilney,0,1,Top10success
+scaled-fanfic-assertions,Fanny Price,Anne Elliot,0,0,Top10success
+scaled-fanfic-assertions,Fanny Price,Anne Elliot,0,1,Top10success
+scaled-fanfic-assertions,Fitzwilliam Darcy,George Knightley,0,0,Top10success
+scaled-fanfic-assertions,Fitzwilliam Darcy,George Knightley,1,1,Top10success
+scaled-fanfic-assertions,Frank Churchill,Emma Woodhouse,1,0,Top10success
+scaled-fanfic-assertions,Frank Churchill,Henry Crawford,1,1,Top10success
+scaled-fanfic-assertions,Frederick Tilney,General Tilney,0,0,Top10success
+scaled-fanfic-assertions,Frederick Tilney,George Wickham,0,1,Top10success
+scaled-fanfic-assertions,General Tilney,John Thorpe,1,0,Top10success
+scaled-fanfic-assertions,General Tilney,Sir Walter Elliot,0,1,Top10success
+scaled-fanfic-assertions,George Knightley,Emma Woodhouse,1,0,Top10success
+scaled-fanfic-assertions,George Knightley,Fitzwilliam Darcy,1,1,Top10success
+scaled-fanfic-assertions,George Wickham,John Willoughby,0,0,Top10success
+scaled-fanfic-assertions,George Wickham,John Willoughby,1,1,Top10success
+scaled-fanfic-assertions,Georgiana Darcy,Anne de Bourgh,0,0,Top10success
+scaled-fanfic-assertions,Georgiana Darcy,Emma Woodhouse,0,1,Top10success
+scaled-fanfic-assertions,Harriet Smith,Jane Fairfax,1,0,Top10success
+scaled-fanfic-assertions,Harriet Smith,Fanny Price,1,1,Top10success
+scaled-fanfic-assertions,Henrietta Musgrove,Louisa Musgrove,1,0,Top10success
+scaled-fanfic-assertions,Henrietta Musgrove,Julia Bertram,0,1,Top10success
+scaled-fanfic-assertions,Henry Crawford,Mary Crawford,1,0,Top10success
+scaled-fanfic-assertions,Henry Crawford,John Willoughby,1,1,Top10success
+scaled-fanfic-assertions,Henry Tilney,Edmund Bertram,0,0,Top10success
+scaled-fanfic-assertions,Henry Tilney,Edmund Bertram,1,1,Top10success
+scaled-fanfic-assertions,Isabella Knightley,Mr. Woodhouse,1,0,Top10success
+scaled-fanfic-assertions,Isabella Knightley,Fanny Price,0,1,Top10success
+scaled-fanfic-assertions,Isabella Thorpe,John Thorpe,1,0,Top10success
+scaled-fanfic-assertions,Isabella Thorpe,Mary Crawford,0,1,Top10success
+scaled-fanfic-assertions,James Morland,Edmund Bertram,0,0,Top10success
+scaled-fanfic-assertions,James Morland,Edmund Bertram,1,1,Top10success
+scaled-fanfic-assertions,Jane Bennet,Elizabeth Bennet,1,0,Top10success
+scaled-fanfic-assertions,Jane Bennet,Marianne Dashwood,0,1,Top10success
+scaled-fanfic-assertions,Jane Fairfax,Frank Churchill,1,0,Top10success
+scaled-fanfic-assertions,Jane Fairfax,Marianne Dashwood,0,1,Top10success
+scaled-fanfic-assertions,John Dashwood,Fanny Dashwood,1,0,Top10success
+scaled-fanfic-assertions,John Dashwood,Mrs. Norris,1,1,Top10success
+scaled-fanfic-assertions,John Knightley,George Knightley,1,0,Top10success
+scaled-fanfic-assertions,John Knightley,Fanny Price,0,1,Top10success
+scaled-fanfic-assertions,John Thorpe,Isabella Thorpe,1,0,Top10success
+scaled-fanfic-assertions,John Thorpe,John Willoughby,1,1,Top10success
+scaled-fanfic-assertions,John Willoughby,George Wickham,0,0,Top10success
+scaled-fanfic-assertions,John Willoughby,George Wickham,0,1,Top10success
+scaled-fanfic-assertions,Julia Bertram,Maria Bertram,1,0,Top10success
+scaled-fanfic-assertions,Julia Bertram,Lydia Bennet,0,1,Top10success
+scaled-fanfic-assertions,Kitty Bennet,Lydia Bennet,1,0,Top10success
+scaled-fanfic-assertions,Kitty Bennet,Fanny Price,0,1,Top10success
+scaled-fanfic-assertions,Lady Bertram,Mrs. Norris,1,0,Top10success
+scaled-fanfic-assertions,Lady Bertram,Mrs. Bennet,0,1,Top10success
+scaled-fanfic-assertions,Lady Catherine de Bourgh,William Collins,1,0,Top10success
+scaled-fanfic-assertions,Lady Catherine de Bourgh,Emma Woodhouse,0,1,Top10success
+scaled-fanfic-assertions,Lady Lucas,Caroline Bingley,1,0,Top10success
+scaled-fanfic-assertions,Lady Lucas,Fanny Dashwood,1,1,Top10success
+scaled-fanfic-assertions,Lady Middleton,Fanny Dashwood,0,0,Top10success
+scaled-fanfic-assertions,Lady Middleton,Mrs. Bennet,0,1,Top10success
+scaled-fanfic-assertions,Lady Russell,Sir Walter Elliot,1,0,Top10success
+scaled-fanfic-assertions,Lady Russell,General Tilney,0,1,Top10success
+scaled-fanfic-assertions,Louisa Musgrove,Henrietta Musgrove,1,0,Top10success
+scaled-fanfic-assertions,Louisa Musgrove,Caroline Bingley,0,1,Top10success
+scaled-fanfic-assertions,Lucy Steele,Isabella Thorpe,0,0,Top10success
+scaled-fanfic-assertions,Lucy Steele,Isabella Thorpe,1,1,Top10success
+scaled-fanfic-assertions,Lydia Bennet,Kitty Bennet,1,0,Top10success
+scaled-fanfic-assertions,Lydia Bennet,Julia Bertram,1,1,Top10success
+scaled-fanfic-assertions,Margaret Dashwood,Anne Elliot,0,0,Top10success
+scaled-fanfic-assertions,Margaret Dashwood,Anne Elliot,0,1,Top10success
+scaled-fanfic-assertions,Maria Bertram,Julia Bertram,1,0,Top10success
+scaled-fanfic-assertions,Maria Bertram,Elizabeth Elliot,0,1,Top10success
+scaled-fanfic-assertions,Marianne Dashwood,Elinor Dashwood,1,0,Top10success
+scaled-fanfic-assertions,Marianne Dashwood,Elizabeth Bennet,0,1,Top10success
+scaled-fanfic-assertions,Mary Bennet,Kitty Bennet,1,0,Top10success
+scaled-fanfic-assertions,Mary Bennet,Fanny Price,1,1,Top10success
+scaled-fanfic-assertions,Mary Crawford,Henry Crawford,1,0,Top10success
+scaled-fanfic-assertions,Mary Crawford,Isabella Thorpe,1,1,Top10success
+scaled-fanfic-assertions,Mary Musgrove,Elizabeth Elliot,0,0,Top10success
+scaled-fanfic-assertions,Mary Musgrove,Mrs. Bennet,0,1,Top10success
+scaled-fanfic-assertions,Miss Bates,Jane Fairfax,1,0,Top10success
+scaled-fanfic-assertions,Miss Bates,Mrs. Jennings,0,1,Top10success
+scaled-fanfic-assertions,Mr. Allen,Mr. Bennet,0,0,Top10success
+scaled-fanfic-assertions,Mr. Allen,Mr. Bennet,0,1,Top10success
+scaled-fanfic-assertions,Mr. Bennet,Elizabeth Bennet,1,0,Top10success
+scaled-fanfic-assertions,Mr. Bennet,Emma Woodhouse,0,1,Top10success
+scaled-fanfic-assertions,William Collins,Lady Catherine de Bourgh,1,0,Top10success
+scaled-fanfic-assertions,William Collins,Philip Elton,1,1,Top10success
+scaled-fanfic-assertions,Philip Elton,Frank Churchill,1,0,Top10success
+scaled-fanfic-assertions,Philip Elton,William Collins,0,1,Top10success
+scaled-fanfic-assertions,Mr. Gardiner,Mrs. Gardiner,0,0,Top10success
+scaled-fanfic-assertions,Mr. Gardiner,Admiral Croft,0,1,Top10success
+scaled-fanfic-assertions,Mr. Hurst,Henry Crawford,0,0,Top10success
+scaled-fanfic-assertions,Mr. Hurst,Henry Crawford,0,1,Top10success
+scaled-fanfic-assertions,Mr. Musgrove,Mrs. Musgrove,1,0,Top10success
+scaled-fanfic-assertions,Mr. Musgrove,Anna Weston,0,1,Top10success
+scaled-fanfic-assertions,Thomas Palmer,Charlotte Palmer,1,0,Top10success
+scaled-fanfic-assertions,Thomas Palmer,Sir Thomas Bertram,0,1,Top10success
+scaled-fanfic-assertions,Mr. Perry,Anne de Bourgh,0,0,Top10success
+scaled-fanfic-assertions,Mr. Perry,Anne de Bourgh,0,1,Top10success
+scaled-fanfic-assertions,Mr. Rushworth,Henry Crawford,1,0,Top10success
+scaled-fanfic-assertions,Mr. Rushworth,John Thorpe,1,1,Top10success
+scaled-fanfic-assertions,Mr. Weston,Mr. Woodhouse,1,0,Top10success
+scaled-fanfic-assertions,Mr. Weston,Henry Crawford,0,1,Top10success
+scaled-fanfic-assertions,Mr. Woodhouse,Isabella Knightley,0,0,Top10success
+scaled-fanfic-assertions,Mr. Woodhouse,Mary Musgrove,0,1,Top10success
+scaled-fanfic-assertions,Mr. Yates,Tom Bertram,1,0,Top10success
+scaled-fanfic-assertions,Mr. Yates,Admiral Croft,1,1,Top10success
+scaled-fanfic-assertions,Mrs. Allen,Isabella Thorpe,1,0,Top10success
+scaled-fanfic-assertions,Mrs. Allen,Mrs. Bennet,1,1,Top10success
+scaled-fanfic-assertions,Mrs. Bates,Jane Fairfax,1,0,Top10success
+scaled-fanfic-assertions,Mrs. Bates,Mrs. Smith,0,1,Top10success
+scaled-fanfic-assertions,Mrs. Bennet,Lydia Bennet,1,0,Top10success
+scaled-fanfic-assertions,Mrs. Bennet,Mrs. Dashwood,1,1,Top10success
+scaled-fanfic-assertions,Mrs. Croft,Anne Elliot,1,0,Top10success
+scaled-fanfic-assertions,Mrs. Croft,Elizabeth Bennet,0,1,Top10success
+scaled-fanfic-assertions,Mrs. Dashwood,Marianne Dashwood,1,0,Top10success
+scaled-fanfic-assertions,Mrs. Dashwood,Mrs. Bennet,1,1,Top10success
+scaled-fanfic-assertions,Augusta Elton,Emma Woodhouse,1,0,Top10success
+scaled-fanfic-assertions,Augusta Elton,Lady Catherine de Bourgh,0,1,Top10success
+scaled-fanfic-assertions,Mrs. Ferrars,Fanny Dashwood,1,0,Top10success
+scaled-fanfic-assertions,Mrs. Ferrars,Lady Catherine de Bourgh,0,1,Top10success
+scaled-fanfic-assertions,Mrs. Gardiner,Mr. Gardiner,0,0,Top10success
+scaled-fanfic-assertions,Mrs. Gardiner,Lady Russell,0,1,Top10success
+scaled-fanfic-assertions,Mrs. Grant,Fanny Price,1,0,Top10success
+scaled-fanfic-assertions,Mrs. Grant,Charlotte Lucas,0,1,Top10success
+scaled-fanfic-assertions,Mrs. Harville,Captain Harville,0,0,Top10success
+scaled-fanfic-assertions,Mrs. Harville,Anna Weston,0,1,Top10success
+scaled-fanfic-assertions,Mrs. Hurst,Caroline Bingley,1,0,Top10success
+scaled-fanfic-assertions,Mrs. Hurst,Emma Woodhouse,0,1,Top10success
+scaled-fanfic-assertions,Mrs. Jennings,Sir John Middleton,0,0,Top10success
+scaled-fanfic-assertions,Mrs. Jennings,Miss Bates,0,1,Top10success
+scaled-fanfic-assertions,Mrs. Morland,Mrs. Dashwood,0,0,Top10success
+scaled-fanfic-assertions,Mrs. Morland,Mrs. Dashwood,1,1,Top10success
+scaled-fanfic-assertions,Mrs. Musgrove,Mr. Musgrove,1,0,Top10success
+scaled-fanfic-assertions,Mrs. Musgrove,Isabella Knightley,0,1,Top10success
+scaled-fanfic-assertions,Mrs. Norris,Lady Bertram,1,0,Top10success
+scaled-fanfic-assertions,Mrs. Norris,Lady Catherine de Bourgh,0,1,Top10success
+scaled-fanfic-assertions,Mrs. Phillips,Mr. Hurst,0,0,Top10success
+scaled-fanfic-assertions,Mrs. Phillips,Admiral Croft,0,1,Top10success
+scaled-fanfic-assertions,Mrs. Price,Lady Bertram,1,0,Top10success
+scaled-fanfic-assertions,Mrs. Price,Mrs. Bennet,0,1,Top10success
+scaled-fanfic-assertions,Mrs. Rushworth,Mary Crawford,0,0,Top10success
+scaled-fanfic-assertions,Mrs. Rushworth,Caroline Bingley,0,1,Top10success
+scaled-fanfic-assertions,Mrs. Smith,Anne Elliot,1,0,Top10success
+scaled-fanfic-assertions,Mrs. Smith,Miss Bates,0,1,Top10success
+scaled-fanfic-assertions,Mrs. Thorpe,Mrs. Bates,1,0,Top10success
+scaled-fanfic-assertions,Mrs. Thorpe,Mrs. Bates,1,1,Top10success
+scaled-fanfic-assertions,Mrs. Clay,William Elliot,0,0,Top10success
+scaled-fanfic-assertions,Mrs. Clay,Lucy Steele,0,1,Top10success
+scaled-fanfic-assertions,Robert Ferrars,Lucy Steele,1,0,Top10success
+scaled-fanfic-assertions,Robert Ferrars,Sir Walter Elliot,0,1,Top10success
+scaled-fanfic-assertions,Robert Martin,George Knightley,1,0,Top10success
+scaled-fanfic-assertions,Robert Martin,Anne de Bourgh,0,1,Top10success
+scaled-fanfic-assertions,Sir John Middleton,Mrs. Jennings,1,0,Top10success
+scaled-fanfic-assertions,Sir John Middleton,Catherine Morland,0,1,Top10success
+scaled-fanfic-assertions,Sir Thomas Bertram,Lady Bertram,1,0,Top10success
+scaled-fanfic-assertions,Sir Thomas Bertram,Mr. Bennet,0,1,Top10success
+scaled-fanfic-assertions,Sir Walter Elliot,Elizabeth Elliot,1,0,Top10success
+scaled-fanfic-assertions,Sir Walter Elliot,Lady Catherine de Bourgh,0,1,Top10success
+scaled-fanfic-assertions,Sir William Lucas,Caroline Bingley,0,0,Top10success
+scaled-fanfic-assertions,Sir William Lucas,Admiral Croft,0,1,Top10success
+scaled-fanfic-assertions,Susan Price,Fanny Price,1,0,Top10success
+scaled-fanfic-assertions,Susan Price,Elizabeth Bennet,0,1,Top10success
+scaled-fanfic-assertions,Tom Bertram,Sir Thomas Bertram,1,0,Top10success
+scaled-fanfic-assertions,Tom Bertram,Marianne Dashwood,0,1,Top10success
+scaled-fanfic-assertions,William Elliot,John Willoughby,0,0,Top10success
+scaled-fanfic-assertions,William Elliot,John Willoughby,0,1,Top10success
+scaled-fanfic-assertions,William Price,Edmund Bertram,1,0,Top10success
+scaled-fanfic-assertions,William Price,Captain Wentworth,0,1,Top10success
+scaled-fanfic-assertions,Admiral Croft,,0.1111111111111111,0,Jaccard
+scaled-fanfic-assertions,Admiral Croft,,0.0,1,Jaccard
+scaled-fanfic-assertions,Anna Weston,,0.05263157894736842,0,Jaccard
+scaled-fanfic-assertions,Anna Weston,,0.0,1,Jaccard
+scaled-fanfic-assertions,Anne Elliot,,0.0,0,Jaccard
+scaled-fanfic-assertions,Anne Elliot,,0.05263157894736842,1,Jaccard
+scaled-fanfic-assertions,Anne Steele,,0.0,0,Jaccard
+scaled-fanfic-assertions,Anne Steele,,0.0,1,Jaccard
+scaled-fanfic-assertions,Anne de Bourgh,,0.0,0,Jaccard
+scaled-fanfic-assertions,Anne de Bourgh,,0.0,1,Jaccard
+scaled-fanfic-assertions,Captain Benwick,,0.05263157894736842,0,Jaccard
+scaled-fanfic-assertions,Captain Benwick,,0.0,1,Jaccard
+scaled-fanfic-assertions,Captain Harville,,0.05263157894736842,0,Jaccard
+scaled-fanfic-assertions,Captain Harville,,0.0,1,Jaccard
+scaled-fanfic-assertions,Captain Wentworth,,0.0,0,Jaccard
+scaled-fanfic-assertions,Captain Wentworth,,0.0,1,Jaccard
+scaled-fanfic-assertions,Caroline Bingley,,0.0,0,Jaccard
+scaled-fanfic-assertions,Caroline Bingley,,0.1111111111111111,1,Jaccard
+scaled-fanfic-assertions,Catherine Morland,,0.0,0,Jaccard
+scaled-fanfic-assertions,Catherine Morland,,0.05263157894736842,1,Jaccard
+scaled-fanfic-assertions,Charles Bingley,,0.0,0,Jaccard
+scaled-fanfic-assertions,Charles Bingley,,0.0,1,Jaccard
+scaled-fanfic-assertions,Charles Hayter,,0.0,0,Jaccard
+scaled-fanfic-assertions,Charles Hayter,,0.0,1,Jaccard
+scaled-fanfic-assertions,Charles Musgrove,,0.1111111111111111,0,Jaccard
+scaled-fanfic-assertions,Charles Musgrove,,0.0,1,Jaccard
+scaled-fanfic-assertions,Charlotte Lucas,,0.0,0,Jaccard
+scaled-fanfic-assertions,Charlotte Lucas,,0.0,1,Jaccard
+scaled-fanfic-assertions,Charlotte Palmer,,0.0,0,Jaccard
+scaled-fanfic-assertions,Charlotte Palmer,,0.0,1,Jaccard
+scaled-fanfic-assertions,Colonel Brandon,,0.0,0,Jaccard
+scaled-fanfic-assertions,Colonel Brandon,,0.0,1,Jaccard
+scaled-fanfic-assertions,Colonel Fitzwilliam,,0.0,0,Jaccard
+scaled-fanfic-assertions,Colonel Fitzwilliam,,0.0,1,Jaccard
+scaled-fanfic-assertions,Dr. Grant,,0.0,0,Jaccard
+scaled-fanfic-assertions,Dr. Grant,,0.0,1,Jaccard
+scaled-fanfic-assertions,Edmund Bertram,,0.05263157894736842,0,Jaccard
+scaled-fanfic-assertions,Edmund Bertram,,0.05263157894736842,1,Jaccard
+scaled-fanfic-assertions,Edward Ferrars,,0.0,0,Jaccard
+scaled-fanfic-assertions,Edward Ferrars,,0.05263157894736842,1,Jaccard
+scaled-fanfic-assertions,Eleanor Tilney,,0.0,0,Jaccard
+scaled-fanfic-assertions,Eleanor Tilney,,0.0,1,Jaccard
+scaled-fanfic-assertions,Elinor Dashwood,,0.05263157894736842,0,Jaccard
+scaled-fanfic-assertions,Elinor Dashwood,,0.0,1,Jaccard
+scaled-fanfic-assertions,Elizabeth Bennet,,0.0,0,Jaccard
+scaled-fanfic-assertions,Elizabeth Bennet,,0.05263157894736842,1,Jaccard
+scaled-fanfic-assertions,Elizabeth Elliot,,0.0,0,Jaccard
+scaled-fanfic-assertions,Elizabeth Elliot,,0.0,1,Jaccard
+scaled-fanfic-assertions,Emma Woodhouse,,0.0,0,Jaccard
+scaled-fanfic-assertions,Emma Woodhouse,,0.05263157894736842,1,Jaccard
+scaled-fanfic-assertions,Fanny Dashwood,,0.0,0,Jaccard
+scaled-fanfic-assertions,Fanny Dashwood,,0.0,1,Jaccard
+scaled-fanfic-assertions,Fanny Price,,0.0,0,Jaccard
+scaled-fanfic-assertions,Fanny Price,,0.0,1,Jaccard
+scaled-fanfic-assertions,Fitzwilliam Darcy,,0.0,0,Jaccard
+scaled-fanfic-assertions,Fitzwilliam Darcy,,0.0,1,Jaccard
+scaled-fanfic-assertions,Frank Churchill,,0.05263157894736842,0,Jaccard
+scaled-fanfic-assertions,Frank Churchill,,0.05263157894736842,1,Jaccard
+scaled-fanfic-assertions,Frederick Tilney,,0.0,0,Jaccard
+scaled-fanfic-assertions,Frederick Tilney,,0.0,1,Jaccard
+scaled-fanfic-assertions,General Tilney,,0.05263157894736842,0,Jaccard
+scaled-fanfic-assertions,General Tilney,,0.0,1,Jaccard
+scaled-fanfic-assertions,George Knightley,,0.05263157894736842,0,Jaccard
+scaled-fanfic-assertions,George Knightley,,0.05263157894736842,1,Jaccard
+scaled-fanfic-assertions,George Wickham,,0.0,0,Jaccard
+scaled-fanfic-assertions,George Wickham,,0.05263157894736842,1,Jaccard
+scaled-fanfic-assertions,Georgiana Darcy,,0.05263157894736842,0,Jaccard
+scaled-fanfic-assertions,Georgiana Darcy,,0.0,1,Jaccard
+scaled-fanfic-assertions,Harriet Smith,,0.0,0,Jaccard
+scaled-fanfic-assertions,Harriet Smith,,0.0,1,Jaccard
+scaled-fanfic-assertions,Henrietta Musgrove,,0.05263157894736842,0,Jaccard
+scaled-fanfic-assertions,Henrietta Musgrove,,0.0,1,Jaccard
+scaled-fanfic-assertions,Henry Crawford,,0.0,0,Jaccard
+scaled-fanfic-assertions,Henry Crawford,,0.0,1,Jaccard
+scaled-fanfic-assertions,Henry Tilney,,0.0,0,Jaccard
+scaled-fanfic-assertions,Henry Tilney,,0.0,1,Jaccard
+scaled-fanfic-assertions,Isabella Knightley,,0.05263157894736842,0,Jaccard
+scaled-fanfic-assertions,Isabella Knightley,,0.0,1,Jaccard
+scaled-fanfic-assertions,Isabella Thorpe,,0.05263157894736842,0,Jaccard
+scaled-fanfic-assertions,Isabella Thorpe,,0.0,1,Jaccard
+scaled-fanfic-assertions,James Morland,,0.05263157894736842,0,Jaccard
+scaled-fanfic-assertions,James Morland,,0.0,1,Jaccard
+scaled-fanfic-assertions,Jane Bennet,,0.05263157894736842,0,Jaccard
+scaled-fanfic-assertions,Jane Bennet,,0.1111111111111111,1,Jaccard
+scaled-fanfic-assertions,Jane Fairfax,,0.05263157894736842,0,Jaccard
+scaled-fanfic-assertions,Jane Fairfax,,0.0,1,Jaccard
+scaled-fanfic-assertions,John Dashwood,,0.0,0,Jaccard
+scaled-fanfic-assertions,John Dashwood,,0.0,1,Jaccard
+scaled-fanfic-assertions,John Knightley,,0.05263157894736842,0,Jaccard
+scaled-fanfic-assertions,John Knightley,,0.05263157894736842,1,Jaccard
+scaled-fanfic-assertions,John Thorpe,,0.05263157894736842,0,Jaccard
+scaled-fanfic-assertions,John Thorpe,,0.0,1,Jaccard
+scaled-fanfic-assertions,John Willoughby,,0.1111111111111111,0,Jaccard
+scaled-fanfic-assertions,John Willoughby,,0.0,1,Jaccard
+scaled-fanfic-assertions,Julia Bertram,,0.1111111111111111,0,Jaccard
+scaled-fanfic-assertions,Julia Bertram,,0.0,1,Jaccard
+scaled-fanfic-assertions,Kitty Bennet,,0.05263157894736842,0,Jaccard
+scaled-fanfic-assertions,Kitty Bennet,,0.0,1,Jaccard
+scaled-fanfic-assertions,Lady Bertram,,0.0,0,Jaccard
+scaled-fanfic-assertions,Lady Bertram,,0.0,1,Jaccard
+scaled-fanfic-assertions,Lady Catherine de Bourgh,,0.05263157894736842,0,Jaccard
+scaled-fanfic-assertions,Lady Catherine de Bourgh,,0.0,1,Jaccard
+scaled-fanfic-assertions,Lady Lucas,,0.0,0,Jaccard
+scaled-fanfic-assertions,Lady Lucas,,0.0,1,Jaccard
+scaled-fanfic-assertions,Lady Middleton,,0.0,0,Jaccard
+scaled-fanfic-assertions,Lady Middleton,,0.0,1,Jaccard
+scaled-fanfic-assertions,Lady Russell,,0.05263157894736842,0,Jaccard
+scaled-fanfic-assertions,Lady Russell,,0.0,1,Jaccard
+scaled-fanfic-assertions,Louisa Musgrove,,0.05263157894736842,0,Jaccard
+scaled-fanfic-assertions,Louisa Musgrove,,0.0,1,Jaccard
+scaled-fanfic-assertions,Lucy Steele,,0.0,0,Jaccard
+scaled-fanfic-assertions,Lucy Steele,,0.0,1,Jaccard
+scaled-fanfic-assertions,Lydia Bennet,,0.05263157894736842,0,Jaccard
+scaled-fanfic-assertions,Lydia Bennet,,0.0,1,Jaccard
+scaled-fanfic-assertions,Margaret Dashwood,,0.0,0,Jaccard
+scaled-fanfic-assertions,Margaret Dashwood,,0.0,1,Jaccard
+scaled-fanfic-assertions,Maria Bertram,,0.05263157894736842,0,Jaccard
+scaled-fanfic-assertions,Maria Bertram,,0.0,1,Jaccard
+scaled-fanfic-assertions,Marianne Dashwood,,0.05263157894736842,0,Jaccard
+scaled-fanfic-assertions,Marianne Dashwood,,0.05263157894736842,1,Jaccard
+scaled-fanfic-assertions,Mary Bennet,,0.05263157894736842,0,Jaccard
+scaled-fanfic-assertions,Mary Bennet,,0.1111111111111111,1,Jaccard
+scaled-fanfic-assertions,Mary Crawford,,0.0,0,Jaccard
+scaled-fanfic-assertions,Mary Crawford,,0.1111111111111111,1,Jaccard
+scaled-fanfic-assertions,Mary Musgrove,,0.0,0,Jaccard
+scaled-fanfic-assertions,Mary Musgrove,,0.0,1,Jaccard
+scaled-fanfic-assertions,Miss Bates,,0.0,0,Jaccard
+scaled-fanfic-assertions,Miss Bates,,0.0,1,Jaccard
+scaled-fanfic-assertions,Mr. Allen,,0.0,0,Jaccard
+scaled-fanfic-assertions,Mr. Allen,,0.0,1,Jaccard
+scaled-fanfic-assertions,Mr. Bennet,,0.05263157894736842,0,Jaccard
+scaled-fanfic-assertions,Mr. Bennet,,0.05263157894736842,1,Jaccard
+scaled-fanfic-assertions,William Collins,,0.1111111111111111,0,Jaccard
+scaled-fanfic-assertions,William Collins,,0.05263157894736842,1,Jaccard
+scaled-fanfic-assertions,Philip Elton,,0.0,0,Jaccard
+scaled-fanfic-assertions,Philip Elton,,0.0,1,Jaccard
+scaled-fanfic-assertions,Mr. Gardiner,,0.0,0,Jaccard
+scaled-fanfic-assertions,Mr. Gardiner,,0.0,1,Jaccard
+scaled-fanfic-assertions,Mr. Hurst,,0.0,0,Jaccard
+scaled-fanfic-assertions,Mr. Hurst,,0.0,1,Jaccard
+scaled-fanfic-assertions,Mr. Musgrove,,0.1111111111111111,0,Jaccard
+scaled-fanfic-assertions,Mr. Musgrove,,0.0,1,Jaccard
+scaled-fanfic-assertions,Thomas Palmer,,0.05263157894736842,0,Jaccard
+scaled-fanfic-assertions,Thomas Palmer,,0.05263157894736842,1,Jaccard
+scaled-fanfic-assertions,Mr. Perry,,0.0,0,Jaccard
+scaled-fanfic-assertions,Mr. Perry,,0.0,1,Jaccard
+scaled-fanfic-assertions,Mr. Rushworth,,0.0,0,Jaccard
+scaled-fanfic-assertions,Mr. Rushworth,,0.0,1,Jaccard
+scaled-fanfic-assertions,Mr. Weston,,0.1111111111111111,0,Jaccard
+scaled-fanfic-assertions,Mr. Weston,,0.0,1,Jaccard
+scaled-fanfic-assertions,Mr. Woodhouse,,0.0,0,Jaccard
+scaled-fanfic-assertions,Mr. Woodhouse,,0.0,1,Jaccard
+scaled-fanfic-assertions,Mr. Yates,,0.0,0,Jaccard
+scaled-fanfic-assertions,Mr. Yates,,0.0,1,Jaccard
+scaled-fanfic-assertions,Mrs. Allen,,0.05263157894736842,0,Jaccard
+scaled-fanfic-assertions,Mrs. Allen,,0.0,1,Jaccard
+scaled-fanfic-assertions,Mrs. Bates,,0.0,0,Jaccard
+scaled-fanfic-assertions,Mrs. Bates,,0.05263157894736842,1,Jaccard
+scaled-fanfic-assertions,Mrs. Bennet,,0.0,0,Jaccard
+scaled-fanfic-assertions,Mrs. Bennet,,0.05263157894736842,1,Jaccard
+scaled-fanfic-assertions,Mrs. Croft,,0.05263157894736842,0,Jaccard
+scaled-fanfic-assertions,Mrs. Croft,,0.0,1,Jaccard
+scaled-fanfic-assertions,Mrs. Dashwood,,0.0,0,Jaccard
+scaled-fanfic-assertions,Mrs. Dashwood,,0.0,1,Jaccard
+scaled-fanfic-assertions,Augusta Elton,,0.05263157894736842,0,Jaccard
+scaled-fanfic-assertions,Augusta Elton,,0.0,1,Jaccard
+scaled-fanfic-assertions,Mrs. Ferrars,,0.0,0,Jaccard
+scaled-fanfic-assertions,Mrs. Ferrars,,0.0,1,Jaccard
+scaled-fanfic-assertions,Mrs. Gardiner,,0.0,0,Jaccard
+scaled-fanfic-assertions,Mrs. Gardiner,,0.0,1,Jaccard
+scaled-fanfic-assertions,Mrs. Grant,,0.05263157894736842,0,Jaccard
+scaled-fanfic-assertions,Mrs. Grant,,0.0,1,Jaccard
+scaled-fanfic-assertions,Mrs. Harville,,0.0,0,Jaccard
+scaled-fanfic-assertions,Mrs. Harville,,0.0,1,Jaccard
+scaled-fanfic-assertions,Mrs. Hurst,,0.05263157894736842,0,Jaccard
+scaled-fanfic-assertions,Mrs. Hurst,,0.0,1,Jaccard
+scaled-fanfic-assertions,Mrs. Jennings,,0.05263157894736842,0,Jaccard
+scaled-fanfic-assertions,Mrs. Jennings,,0.0,1,Jaccard
+scaled-fanfic-assertions,Mrs. Morland,,0.0,0,Jaccard
+scaled-fanfic-assertions,Mrs. Morland,,0.0,1,Jaccard
+scaled-fanfic-assertions,Mrs. Musgrove,,0.05263157894736842,0,Jaccard
+scaled-fanfic-assertions,Mrs. Musgrove,,0.0,1,Jaccard
+scaled-fanfic-assertions,Mrs. Norris,,0.05263157894736842,0,Jaccard
+scaled-fanfic-assertions,Mrs. Norris,,0.05263157894736842,1,Jaccard
+scaled-fanfic-assertions,Mrs. Phillips,,0.0,0,Jaccard
+scaled-fanfic-assertions,Mrs. Phillips,,0.0,1,Jaccard
+scaled-fanfic-assertions,Mrs. Price,,0.05263157894736842,0,Jaccard
+scaled-fanfic-assertions,Mrs. Price,,0.0,1,Jaccard
+scaled-fanfic-assertions,Mrs. Rushworth,,0.0,0,Jaccard
+scaled-fanfic-assertions,Mrs. Rushworth,,0.0,1,Jaccard
+scaled-fanfic-assertions,Mrs. Smith,,0.0,0,Jaccard
+scaled-fanfic-assertions,Mrs. Smith,,0.0,1,Jaccard
+scaled-fanfic-assertions,Mrs. Thorpe,,0.0,0,Jaccard
+scaled-fanfic-assertions,Mrs. Thorpe,,0.05263157894736842,1,Jaccard
+scaled-fanfic-assertions,Mrs. Clay,,0.0,0,Jaccard
+scaled-fanfic-assertions,Mrs. Clay,,0.0,1,Jaccard
+scaled-fanfic-assertions,Robert Ferrars,,0.0,0,Jaccard
+scaled-fanfic-assertions,Robert Ferrars,,0.0,1,Jaccard
+scaled-fanfic-assertions,Robert Martin,,0.05263157894736842,0,Jaccard
+scaled-fanfic-assertions,Robert Martin,,0.05263157894736842,1,Jaccard
+scaled-fanfic-assertions,Sir John Middleton,,0.0,0,Jaccard
+scaled-fanfic-assertions,Sir John Middleton,,0.0,1,Jaccard
+scaled-fanfic-assertions,Sir Thomas Bertram,,0.1111111111111111,0,Jaccard
+scaled-fanfic-assertions,Sir Thomas Bertram,,0.0,1,Jaccard
+scaled-fanfic-assertions,Sir Walter Elliot,,0.0,0,Jaccard
+scaled-fanfic-assertions,Sir Walter Elliot,,0.0,1,Jaccard
+scaled-fanfic-assertions,Sir William Lucas,,0.0,0,Jaccard
+scaled-fanfic-assertions,Sir William Lucas,,0.0,1,Jaccard
+scaled-fanfic-assertions,Susan Price,,0.0,0,Jaccard
+scaled-fanfic-assertions,Susan Price,,0.0,1,Jaccard
+scaled-fanfic-assertions,Tom Bertram,,0.05263157894736842,0,Jaccard
+scaled-fanfic-assertions,Tom Bertram,,0.0,1,Jaccard
+scaled-fanfic-assertions,William Elliot,,0.0,0,Jaccard
+scaled-fanfic-assertions,William Elliot,,0.05263157894736842,1,Jaccard
+scaled-fanfic-assertions,William Price,,0.05263157894736842,0,Jaccard
+scaled-fanfic-assertions,William Price,,0.05263157894736842,1,Jaccard
+scaled-fanfic-assertions,Admiral Croft,,0.4222222222222222,0,KendallTau
+scaled-fanfic-assertions,Admiral Croft,,0.3333333333333333,1,KendallTau
+scaled-fanfic-assertions,Anna Weston,,0.5111111111111111,0,KendallTau
+scaled-fanfic-assertions,Anna Weston,,0.022222222222222223,1,KendallTau
+scaled-fanfic-assertions,Anne Elliot,,-0.37777777777777777,0,KendallTau
+scaled-fanfic-assertions,Anne Elliot,,0.19999999999999998,1,KendallTau
+scaled-fanfic-assertions,Anne Steele,,0.28888888888888886,0,KendallTau
+scaled-fanfic-assertions,Anne Steele,,0.19999999999999998,1,KendallTau
+scaled-fanfic-assertions,Anne de Bourgh,,0.06666666666666667,0,KendallTau
+scaled-fanfic-assertions,Anne de Bourgh,,0.15555555555555553,1,KendallTau
+scaled-fanfic-assertions,Captain Benwick,,0.28888888888888886,0,KendallTau
+scaled-fanfic-assertions,Captain Benwick,,-0.022222222222222223,1,KendallTau
+scaled-fanfic-assertions,Captain Harville,,0.3333333333333333,0,KendallTau
+scaled-fanfic-assertions,Captain Harville,,0.4222222222222222,1,KendallTau
+scaled-fanfic-assertions,Captain Wentworth,,-0.15555555555555553,0,KendallTau
+scaled-fanfic-assertions,Captain Wentworth,,-0.06666666666666667,1,KendallTau
+scaled-fanfic-assertions,Caroline Bingley,,-0.15555555555555553,0,KendallTau
+scaled-fanfic-assertions,Caroline Bingley,,0.28888888888888886,1,KendallTau
+scaled-fanfic-assertions,Catherine Morland,,0.022222222222222223,0,KendallTau
+scaled-fanfic-assertions,Catherine Morland,,0.28888888888888886,1,KendallTau
+scaled-fanfic-assertions,Charles Bingley,,0.4222222222222222,0,KendallTau
+scaled-fanfic-assertions,Charles Bingley,,-0.19999999999999998,1,KendallTau
+scaled-fanfic-assertions,Charles Hayter,,-0.1111111111111111,0,KendallTau
+scaled-fanfic-assertions,Charles Hayter,,-0.19999999999999998,1,KendallTau
+scaled-fanfic-assertions,Charles Musgrove,,0.24444444444444444,0,KendallTau
+scaled-fanfic-assertions,Charles Musgrove,,0.3333333333333333,1,KendallTau
+scaled-fanfic-assertions,Charlotte Lucas,,-0.06666666666666667,0,KendallTau
+scaled-fanfic-assertions,Charlotte Lucas,,-0.022222222222222223,1,KendallTau
+scaled-fanfic-assertions,Charlotte Palmer,,0.1111111111111111,0,KendallTau
+scaled-fanfic-assertions,Charlotte Palmer,,0.15555555555555553,1,KendallTau
+scaled-fanfic-assertions,Colonel Brandon,,0.4666666666666666,0,KendallTau
+scaled-fanfic-assertions,Colonel Brandon,,0.24444444444444444,1,KendallTau
+scaled-fanfic-assertions,Colonel Fitzwilliam,,0.15555555555555553,0,KendallTau
+scaled-fanfic-assertions,Colonel Fitzwilliam,,0.24444444444444444,1,KendallTau
+scaled-fanfic-assertions,Dr. Grant,,0.15555555555555553,0,KendallTau
+scaled-fanfic-assertions,Dr. Grant,,-0.1111111111111111,1,KendallTau
+scaled-fanfic-assertions,Edmund Bertram,,0.1111111111111111,0,KendallTau
+scaled-fanfic-assertions,Edmund Bertram,,0.022222222222222223,1,KendallTau
+scaled-fanfic-assertions,Edward Ferrars,,0.28888888888888886,0,KendallTau
+scaled-fanfic-assertions,Edward Ferrars,,0.1111111111111111,1,KendallTau
+scaled-fanfic-assertions,Eleanor Tilney,,0.28888888888888886,0,KendallTau
+scaled-fanfic-assertions,Eleanor Tilney,,0.6,1,KendallTau
+scaled-fanfic-assertions,Elinor Dashwood,,-0.15555555555555553,0,KendallTau
+scaled-fanfic-assertions,Elinor Dashwood,,0.24444444444444444,1,KendallTau
+scaled-fanfic-assertions,Elizabeth Bennet,,0.06666666666666667,0,KendallTau
+scaled-fanfic-assertions,Elizabeth Bennet,,-0.06666666666666667,1,KendallTau
+scaled-fanfic-assertions,Elizabeth Elliot,,0.1111111111111111,0,KendallTau
+scaled-fanfic-assertions,Elizabeth Elliot,,-0.15555555555555553,1,KendallTau
+scaled-fanfic-assertions,Emma Woodhouse,,0.06666666666666667,0,KendallTau
+scaled-fanfic-assertions,Emma Woodhouse,,0.37777777777777777,1,KendallTau
+scaled-fanfic-assertions,Fanny Dashwood,,0.28888888888888886,0,KendallTau
+scaled-fanfic-assertions,Fanny Dashwood,,0.06666666666666667,1,KendallTau
+scaled-fanfic-assertions,Fanny Price,,0.022222222222222223,0,KendallTau
+scaled-fanfic-assertions,Fanny Price,,0.28888888888888886,1,KendallTau
+scaled-fanfic-assertions,Fitzwilliam Darcy,,0.022222222222222223,0,KendallTau
+scaled-fanfic-assertions,Fitzwilliam Darcy,,0.24444444444444444,1,KendallTau
+scaled-fanfic-assertions,Frank Churchill,,0.06666666666666667,0,KendallTau
+scaled-fanfic-assertions,Frank Churchill,,0.5111111111111111,1,KendallTau
+scaled-fanfic-assertions,Frederick Tilney,,0.4666666666666666,0,KendallTau
+scaled-fanfic-assertions,Frederick Tilney,,-0.022222222222222223,1,KendallTau
+scaled-fanfic-assertions,General Tilney,,0.37777777777777777,0,KendallTau
+scaled-fanfic-assertions,General Tilney,,-0.1111111111111111,1,KendallTau
+scaled-fanfic-assertions,George Knightley,,0.15555555555555553,0,KendallTau
+scaled-fanfic-assertions,George Knightley,,0.06666666666666667,1,KendallTau
+scaled-fanfic-assertions,George Wickham,,0.37777777777777777,0,KendallTau
+scaled-fanfic-assertions,George Wickham,,0.4222222222222222,1,KendallTau
+scaled-fanfic-assertions,Georgiana Darcy,,-0.06666666666666667,0,KendallTau
+scaled-fanfic-assertions,Georgiana Darcy,,0.4222222222222222,1,KendallTau
+scaled-fanfic-assertions,Harriet Smith,,0.24444444444444444,0,KendallTau
+scaled-fanfic-assertions,Harriet Smith,,-0.1111111111111111,1,KendallTau
+scaled-fanfic-assertions,Henrietta Musgrove,,0.37777777777777777,0,KendallTau
+scaled-fanfic-assertions,Henrietta Musgrove,,0.4222222222222222,1,KendallTau
+scaled-fanfic-assertions,Henry Crawford,,0.06666666666666667,0,KendallTau
+scaled-fanfic-assertions,Henry Crawford,,0.24444444444444444,1,KendallTau
+scaled-fanfic-assertions,Henry Tilney,,0.24444444444444444,0,KendallTau
+scaled-fanfic-assertions,Henry Tilney,,0.5111111111111111,1,KendallTau
+scaled-fanfic-assertions,Isabella Knightley,,0.5111111111111111,0,KendallTau
+scaled-fanfic-assertions,Isabella Knightley,,-0.4222222222222222,1,KendallTau
+scaled-fanfic-assertions,Isabella Thorpe,,0.1111111111111111,0,KendallTau
+scaled-fanfic-assertions,Isabella Thorpe,,0.37777777777777777,1,KendallTau
+scaled-fanfic-assertions,James Morland,,0.28888888888888886,0,KendallTau
+scaled-fanfic-assertions,James Morland,,0.19999999999999998,1,KendallTau
+scaled-fanfic-assertions,Jane Bennet,,0.19999999999999998,0,KendallTau
+scaled-fanfic-assertions,Jane Bennet,,-0.1111111111111111,1,KendallTau
+scaled-fanfic-assertions,Jane Fairfax,,0.15555555555555553,0,KendallTau
+scaled-fanfic-assertions,Jane Fairfax,,0.5111111111111111,1,KendallTau
+scaled-fanfic-assertions,John Dashwood,,0.3333333333333333,0,KendallTau
+scaled-fanfic-assertions,John Dashwood,,0.28888888888888886,1,KendallTau
+scaled-fanfic-assertions,John Knightley,,0.6,0,KendallTau
+scaled-fanfic-assertions,John Knightley,,0.28888888888888886,1,KendallTau
+scaled-fanfic-assertions,John Thorpe,,0.06666666666666667,0,KendallTau
+scaled-fanfic-assertions,John Thorpe,,0.37777777777777777,1,KendallTau
+scaled-fanfic-assertions,John Willoughby,,-0.28888888888888886,0,KendallTau
+scaled-fanfic-assertions,John Willoughby,,0.3333333333333333,1,KendallTau
+scaled-fanfic-assertions,Julia Bertram,,0.8222222222222221,0,KendallTau
+scaled-fanfic-assertions,Julia Bertram,,0.15555555555555553,1,KendallTau
+scaled-fanfic-assertions,Kitty Bennet,,0.5555555555555555,0,KendallTau
+scaled-fanfic-assertions,Kitty Bennet,,-0.15555555555555553,1,KendallTau
+scaled-fanfic-assertions,Lady Bertram,,0.37777777777777777,0,KendallTau
+scaled-fanfic-assertions,Lady Bertram,,-0.15555555555555553,1,KendallTau
+scaled-fanfic-assertions,Lady Catherine de Bourgh,,0.022222222222222223,0,KendallTau
+scaled-fanfic-assertions,Lady Catherine de Bourgh,,0.5111111111111111,1,KendallTau
+scaled-fanfic-assertions,Lady Lucas,,0.4222222222222222,0,KendallTau
+scaled-fanfic-assertions,Lady Lucas,,0.4222222222222222,1,KendallTau
+scaled-fanfic-assertions,Lady Middleton,,0.19999999999999998,0,KendallTau
+scaled-fanfic-assertions,Lady Middleton,,0.022222222222222223,1,KendallTau
+scaled-fanfic-assertions,Lady Russell,,0.4222222222222222,0,KendallTau
+scaled-fanfic-assertions,Lady Russell,,-0.06666666666666667,1,KendallTau
+scaled-fanfic-assertions,Louisa Musgrove,,0.5111111111111111,0,KendallTau
+scaled-fanfic-assertions,Louisa Musgrove,,-0.19999999999999998,1,KendallTau
+scaled-fanfic-assertions,Lucy Steele,,-0.022222222222222223,0,KendallTau
+scaled-fanfic-assertions,Lucy Steele,,0.28888888888888886,1,KendallTau
+scaled-fanfic-assertions,Lydia Bennet,,0.5111111111111111,0,KendallTau
+scaled-fanfic-assertions,Lydia Bennet,,0.4666666666666666,1,KendallTau
+scaled-fanfic-assertions,Margaret Dashwood,,-0.06666666666666667,0,KendallTau
+scaled-fanfic-assertions,Margaret Dashwood,,-0.5555555555555555,1,KendallTau
+scaled-fanfic-assertions,Maria Bertram,,0.7777777777777777,0,KendallTau
+scaled-fanfic-assertions,Maria Bertram,,-0.1111111111111111,1,KendallTau
+scaled-fanfic-assertions,Marianne Dashwood,,-0.24444444444444444,0,KendallTau
+scaled-fanfic-assertions,Marianne Dashwood,,0.1111111111111111,1,KendallTau
+scaled-fanfic-assertions,Mary Bennet,,0.6888888888888888,0,KendallTau
+scaled-fanfic-assertions,Mary Bennet,,0.5555555555555555,1,KendallTau
+scaled-fanfic-assertions,Mary Crawford,,0.15555555555555553,0,KendallTau
+scaled-fanfic-assertions,Mary Crawford,,0.28888888888888886,1,KendallTau
+scaled-fanfic-assertions,Mary Musgrove,,-0.19999999999999998,0,KendallTau
+scaled-fanfic-assertions,Mary Musgrove,,-0.19999999999999998,1,KendallTau
+scaled-fanfic-assertions,Miss Bates,,0.1111111111111111,0,KendallTau
+scaled-fanfic-assertions,Miss Bates,,0.3333333333333333,1,KendallTau
+scaled-fanfic-assertions,Mr. Allen,,0.022222222222222223,0,KendallTau
+scaled-fanfic-assertions,Mr. Allen,,-0.022222222222222223,1,KendallTau
+scaled-fanfic-assertions,Mr. Bennet,,0.19999999999999998,0,KendallTau
+scaled-fanfic-assertions,Mr. Bennet,,-0.1111111111111111,1,KendallTau
+scaled-fanfic-assertions,William Collins,,-0.1111111111111111,0,KendallTau
+scaled-fanfic-assertions,William Collins,,0.5111111111111111,1,KendallTau
+scaled-fanfic-assertions,Philip Elton,,0.06666666666666667,0,KendallTau
+scaled-fanfic-assertions,Philip Elton,,0.28888888888888886,1,KendallTau
+scaled-fanfic-assertions,Mr. Gardiner,,0.37777777777777777,0,KendallTau
+scaled-fanfic-assertions,Mr. Gardiner,,0.3333333333333333,1,KendallTau
+scaled-fanfic-assertions,Mr. Hurst,,0.022222222222222223,0,KendallTau
+scaled-fanfic-assertions,Mr. Hurst,,0.6,1,KendallTau
+scaled-fanfic-assertions,Mr. Musgrove,,0.5111111111111111,0,KendallTau
+scaled-fanfic-assertions,Mr. Musgrove,,0.4222222222222222,1,KendallTau
+scaled-fanfic-assertions,Thomas Palmer,,-0.24444444444444444,0,KendallTau
+scaled-fanfic-assertions,Thomas Palmer,,0.06666666666666667,1,KendallTau
+scaled-fanfic-assertions,Mr. Perry,,0.1111111111111111,0,KendallTau
+scaled-fanfic-assertions,Mr. Perry,,-0.15555555555555553,1,KendallTau
+scaled-fanfic-assertions,Mr. Rushworth,,0.24444444444444444,0,KendallTau
+scaled-fanfic-assertions,Mr. Rushworth,,0.4666666666666666,1,KendallTau
+scaled-fanfic-assertions,Mr. Weston,,0.28888888888888886,0,KendallTau
+scaled-fanfic-assertions,Mr. Weston,,0.1111111111111111,1,KendallTau
+scaled-fanfic-assertions,Mr. Woodhouse,,-0.06666666666666667,0,KendallTau
+scaled-fanfic-assertions,Mr. Woodhouse,,-0.24444444444444444,1,KendallTau
+scaled-fanfic-assertions,Mr. Yates,,0.37777777777777777,0,KendallTau
+scaled-fanfic-assertions,Mr. Yates,,0.37777777777777777,1,KendallTau
+scaled-fanfic-assertions,Mrs. Allen,,0.1111111111111111,0,KendallTau
+scaled-fanfic-assertions,Mrs. Allen,,0.06666666666666667,1,KendallTau
+scaled-fanfic-assertions,Mrs. Bates,,0.15555555555555553,0,KendallTau
+scaled-fanfic-assertions,Mrs. Bates,,0.06666666666666667,1,KendallTau
+scaled-fanfic-assertions,Mrs. Bennet,,-0.15555555555555553,0,KendallTau
+scaled-fanfic-assertions,Mrs. Bennet,,-0.37777777777777777,1,KendallTau
+scaled-fanfic-assertions,Mrs. Croft,,0.022222222222222223,0,KendallTau
+scaled-fanfic-assertions,Mrs. Croft,,-0.7333333333333333,1,KendallTau
+scaled-fanfic-assertions,Mrs. Dashwood,,0.6,0,KendallTau
+scaled-fanfic-assertions,Mrs. Dashwood,,-0.022222222222222223,1,KendallTau
+scaled-fanfic-assertions,Augusta Elton,,0.4666666666666666,0,KendallTau
+scaled-fanfic-assertions,Augusta Elton,,0.28888888888888886,1,KendallTau
+scaled-fanfic-assertions,Mrs. Ferrars,,0.4222222222222222,0,KendallTau
+scaled-fanfic-assertions,Mrs. Ferrars,,0.4666666666666666,1,KendallTau
+scaled-fanfic-assertions,Mrs. Gardiner,,0.19999999999999998,0,KendallTau
+scaled-fanfic-assertions,Mrs. Gardiner,,-0.15555555555555553,1,KendallTau
+scaled-fanfic-assertions,Mrs. Grant,,0.1111111111111111,0,KendallTau
+scaled-fanfic-assertions,Mrs. Grant,,-0.022222222222222223,1,KendallTau
+scaled-fanfic-assertions,Mrs. Harville,,0.28888888888888886,0,KendallTau
+scaled-fanfic-assertions,Mrs. Harville,,0.5111111111111111,1,KendallTau
+scaled-fanfic-assertions,Mrs. Hurst,,0.6444444444444444,0,KendallTau
+scaled-fanfic-assertions,Mrs. Hurst,,-0.19999999999999998,1,KendallTau
+scaled-fanfic-assertions,Mrs. Jennings,,0.022222222222222223,0,KendallTau
+scaled-fanfic-assertions,Mrs. Jennings,,0.3333333333333333,1,KendallTau
+scaled-fanfic-assertions,Mrs. Morland,,0.19999999999999998,0,KendallTau
+scaled-fanfic-assertions,Mrs. Morland,,0.3333333333333333,1,KendallTau
+scaled-fanfic-assertions,Mrs. Musgrove,,0.4222222222222222,0,KendallTau
+scaled-fanfic-assertions,Mrs. Musgrove,,0.37777777777777777,1,KendallTau
+scaled-fanfic-assertions,Mrs. Norris,,0.28888888888888886,0,KendallTau
+scaled-fanfic-assertions,Mrs. Norris,,0.06666666666666667,1,KendallTau
+scaled-fanfic-assertions,Mrs. Phillips,,0.1111111111111111,0,KendallTau
+scaled-fanfic-assertions,Mrs. Phillips,,0.19999999999999998,1,KendallTau
+scaled-fanfic-assertions,Mrs. Price,,0.19999999999999998,0,KendallTau
+scaled-fanfic-assertions,Mrs. Price,,0.5111111111111111,1,KendallTau
+scaled-fanfic-assertions,Mrs. Rushworth,,-0.1111111111111111,0,KendallTau
+scaled-fanfic-assertions,Mrs. Rushworth,,0.1111111111111111,1,KendallTau
+scaled-fanfic-assertions,Mrs. Smith,,0.24444444444444444,0,KendallTau
+scaled-fanfic-assertions,Mrs. Smith,,0.06666666666666667,1,KendallTau
+scaled-fanfic-assertions,Mrs. Thorpe,,0.022222222222222223,0,KendallTau
+scaled-fanfic-assertions,Mrs. Thorpe,,0.24444444444444444,1,KendallTau
+scaled-fanfic-assertions,Mrs. Clay,,-0.022222222222222223,0,KendallTau
+scaled-fanfic-assertions,Mrs. Clay,,0.022222222222222223,1,KendallTau
+scaled-fanfic-assertions,Robert Ferrars,,0.06666666666666667,0,KendallTau
+scaled-fanfic-assertions,Robert Ferrars,,0.4666666666666666,1,KendallTau
+scaled-fanfic-assertions,Robert Martin,,0.28888888888888886,0,KendallTau
+scaled-fanfic-assertions,Robert Martin,,-0.022222222222222223,1,KendallTau
+scaled-fanfic-assertions,Sir John Middleton,,0.15555555555555553,0,KendallTau
+scaled-fanfic-assertions,Sir John Middleton,,-0.24444444444444444,1,KendallTau
+scaled-fanfic-assertions,Sir Thomas Bertram,,0.6888888888888888,0,KendallTau
+scaled-fanfic-assertions,Sir Thomas Bertram,,0.37777777777777777,1,KendallTau
+scaled-fanfic-assertions,Sir Walter Elliot,,0.3333333333333333,0,KendallTau
+scaled-fanfic-assertions,Sir Walter Elliot,,0.15555555555555553,1,KendallTau
+scaled-fanfic-assertions,Sir William Lucas,,0.15555555555555553,0,KendallTau
+scaled-fanfic-assertions,Sir William Lucas,,-0.06666666666666667,1,KendallTau
+scaled-fanfic-assertions,Susan Price,,0.1111111111111111,0,KendallTau
+scaled-fanfic-assertions,Susan Price,,-0.15555555555555553,1,KendallTau
+scaled-fanfic-assertions,Tom Bertram,,0.4222222222222222,0,KendallTau
+scaled-fanfic-assertions,Tom Bertram,,0.022222222222222223,1,KendallTau
+scaled-fanfic-assertions,William Elliot,,-0.5555555555555555,0,KendallTau
+scaled-fanfic-assertions,William Elliot,,0.4666666666666666,1,KendallTau
+scaled-fanfic-assertions,William Price,,0.15555555555555553,0,KendallTau
+scaled-fanfic-assertions,William Price,,0.24444444444444444,1,KendallTau

@@ -1,0 +1,607 @@
+dataset,character,topCharacter,result,excludeNovel,metric
+scaled-booknlp-modifiers,Admiral Croft,Mrs. Croft,0,0,Top10success
+scaled-booknlp-modifiers,Admiral Croft,Frank Churchill,0,1,Top10success
+scaled-booknlp-modifiers,Anna Weston,Emma Woodhouse,1,0,Top10success
+scaled-booknlp-modifiers,Anna Weston,Anne Elliot,1,1,Top10success
+scaled-booknlp-modifiers,Anne Elliot,Fanny Price,1,0,Top10success
+scaled-booknlp-modifiers,Anne Elliot,Fanny Price,1,1,Top10success
+scaled-booknlp-modifiers,Anne Steele,Lucy Steele,0,0,Top10success
+scaled-booknlp-modifiers,Anne Steele,Julia Bertram,0,1,Top10success
+scaled-booknlp-modifiers,Anne de Bourgh,Georgiana Darcy,1,0,Top10success
+scaled-booknlp-modifiers,Anne de Bourgh,Captain Benwick,0,1,Top10success
+scaled-booknlp-modifiers,Captain Benwick,Anne Elliot,0,0,Top10success
+scaled-booknlp-modifiers,Captain Benwick,Marianne Dashwood,0,1,Top10success
+scaled-booknlp-modifiers,Captain Harville,Admiral Croft,0,0,Top10success
+scaled-booknlp-modifiers,Captain Harville,Edmund Bertram,0,1,Top10success
+scaled-booknlp-modifiers,Captain Wentworth,Anne Elliot,0,0,Top10success
+scaled-booknlp-modifiers,Captain Wentworth,Fitzwilliam Darcy,1,1,Top10success
+scaled-booknlp-modifiers,Caroline Bingley,Mrs. Hurst,0,0,Top10success
+scaled-booknlp-modifiers,Caroline Bingley,Mary Crawford,0,1,Top10success
+scaled-booknlp-modifiers,Catherine Morland,Emma Woodhouse,1,0,Top10success
+scaled-booknlp-modifiers,Catherine Morland,Emma Woodhouse,1,1,Top10success
+scaled-booknlp-modifiers,Charles Bingley,Caroline Bingley,0,0,Top10success
+scaled-booknlp-modifiers,Charles Bingley,Edward Ferrars,1,1,Top10success
+scaled-booknlp-modifiers,Charles Musgrove,Mary Musgrove,1,0,Top10success
+scaled-booknlp-modifiers,Charles Musgrove,William Collins,0,1,Top10success
+scaled-booknlp-modifiers,Charlotte Lucas,Elizabeth Bennet,0,0,Top10success
+scaled-booknlp-modifiers,Charlotte Lucas,Lucy Steele,0,1,Top10success
+scaled-booknlp-modifiers,Charlotte Palmer,Mrs. Jennings,1,0,Top10success
+scaled-booknlp-modifiers,Charlotte Palmer,Mrs. Bennet,1,1,Top10success
+scaled-booknlp-modifiers,Colonel Brandon,Edward Ferrars,1,0,Top10success
+scaled-booknlp-modifiers,Colonel Brandon,George Knightley,0,1,Top10success
+scaled-booknlp-modifiers,Colonel Fitzwilliam,Charles Bingley,1,0,Top10success
+scaled-booknlp-modifiers,Colonel Fitzwilliam,Edward Ferrars,1,1,Top10success
+scaled-booknlp-modifiers,Dr. Grant,General Tilney,0,0,Top10success
+scaled-booknlp-modifiers,Dr. Grant,General Tilney,0,1,Top10success
+scaled-booknlp-modifiers,Edmund Bertram,Fanny Price,0,0,Top10success
+scaled-booknlp-modifiers,Edmund Bertram,Edward Ferrars,0,1,Top10success
+scaled-booknlp-modifiers,Edward Ferrars,Edmund Bertram,0,0,Top10success
+scaled-booknlp-modifiers,Edward Ferrars,Edmund Bertram,0,1,Top10success
+scaled-booknlp-modifiers,Eleanor Tilney,Henry Tilney,0,0,Top10success
+scaled-booknlp-modifiers,Eleanor Tilney,Elinor Dashwood,1,1,Top10success
+scaled-booknlp-modifiers,Elinor Dashwood,Marianne Dashwood,0,0,Top10success
+scaled-booknlp-modifiers,Elinor Dashwood,Anne Elliot,1,1,Top10success
+scaled-booknlp-modifiers,Elizabeth Bennet,Emma Woodhouse,1,0,Top10success
+scaled-booknlp-modifiers,Elizabeth Bennet,Emma Woodhouse,1,1,Top10success
+scaled-booknlp-modifiers,Elizabeth Elliot,Sir Walter Elliot,0,0,Top10success
+scaled-booknlp-modifiers,Elizabeth Elliot,Maria Bertram,0,1,Top10success
+scaled-booknlp-modifiers,Emma Woodhouse,Elizabeth Bennet,1,0,Top10success
+scaled-booknlp-modifiers,Emma Woodhouse,Elizabeth Bennet,1,1,Top10success
+scaled-booknlp-modifiers,Fanny Dashwood,John Dashwood,0,0,Top10success
+scaled-booknlp-modifiers,Fanny Dashwood,General Tilney,0,1,Top10success
+scaled-booknlp-modifiers,Fanny Price,Anne Elliot,1,0,Top10success
+scaled-booknlp-modifiers,Fanny Price,Anne Elliot,1,1,Top10success
+scaled-booknlp-modifiers,Fitzwilliam Darcy,George Knightley,0,0,Top10success
+scaled-booknlp-modifiers,Fitzwilliam Darcy,George Knightley,0,1,Top10success
+scaled-booknlp-modifiers,Frank Churchill,Emma Woodhouse,0,0,Top10success
+scaled-booknlp-modifiers,Frank Churchill,Henry Crawford,1,1,Top10success
+scaled-booknlp-modifiers,Frederick Tilney,General Tilney,0,0,Top10success
+scaled-booknlp-modifiers,Frederick Tilney,George Wickham,1,1,Top10success
+scaled-booknlp-modifiers,General Tilney,John Thorpe,0,0,Top10success
+scaled-booknlp-modifiers,General Tilney,Sir Walter Elliot,0,1,Top10success
+scaled-booknlp-modifiers,George Knightley,Emma Woodhouse,1,0,Top10success
+scaled-booknlp-modifiers,George Knightley,Fitzwilliam Darcy,1,1,Top10success
+scaled-booknlp-modifiers,George Wickham,John Willoughby,1,0,Top10success
+scaled-booknlp-modifiers,George Wickham,John Willoughby,1,1,Top10success
+scaled-booknlp-modifiers,Georgiana Darcy,Anne de Bourgh,1,0,Top10success
+scaled-booknlp-modifiers,Georgiana Darcy,Emma Woodhouse,0,1,Top10success
+scaled-booknlp-modifiers,Harriet Smith,Jane Fairfax,1,0,Top10success
+scaled-booknlp-modifiers,Harriet Smith,Fanny Price,1,1,Top10success
+scaled-booknlp-modifiers,Henrietta Musgrove,Louisa Musgrove,0,0,Top10success
+scaled-booknlp-modifiers,Henrietta Musgrove,Julia Bertram,0,1,Top10success
+scaled-booknlp-modifiers,Henry Crawford,Mary Crawford,0,0,Top10success
+scaled-booknlp-modifiers,Henry Crawford,John Willoughby,1,1,Top10success
+scaled-booknlp-modifiers,Henry Tilney,Edmund Bertram,0,0,Top10success
+scaled-booknlp-modifiers,Henry Tilney,Edmund Bertram,0,1,Top10success
+scaled-booknlp-modifiers,Isabella Knightley,Mr. Woodhouse,0,0,Top10success
+scaled-booknlp-modifiers,Isabella Knightley,Fanny Price,0,1,Top10success
+scaled-booknlp-modifiers,Isabella Thorpe,John Thorpe,0,0,Top10success
+scaled-booknlp-modifiers,Isabella Thorpe,Mary Crawford,0,1,Top10success
+scaled-booknlp-modifiers,James Morland,Edmund Bertram,0,0,Top10success
+scaled-booknlp-modifiers,James Morland,Edmund Bertram,0,1,Top10success
+scaled-booknlp-modifiers,Jane Bennet,Elizabeth Bennet,1,0,Top10success
+scaled-booknlp-modifiers,Jane Bennet,Marianne Dashwood,1,1,Top10success
+scaled-booknlp-modifiers,Jane Fairfax,Frank Churchill,1,0,Top10success
+scaled-booknlp-modifiers,Jane Fairfax,Marianne Dashwood,0,1,Top10success
+scaled-booknlp-modifiers,John Dashwood,Fanny Dashwood,0,0,Top10success
+scaled-booknlp-modifiers,John Dashwood,Mrs. Norris,0,1,Top10success
+scaled-booknlp-modifiers,John Thorpe,Isabella Thorpe,0,0,Top10success
+scaled-booknlp-modifiers,John Thorpe,John Willoughby,1,1,Top10success
+scaled-booknlp-modifiers,John Willoughby,George Wickham,1,0,Top10success
+scaled-booknlp-modifiers,John Willoughby,George Wickham,1,1,Top10success
+scaled-booknlp-modifiers,Julia Bertram,Maria Bertram,0,0,Top10success
+scaled-booknlp-modifiers,Julia Bertram,Lydia Bennet,0,1,Top10success
+scaled-booknlp-modifiers,Lady Bertram,Mrs. Norris,1,0,Top10success
+scaled-booknlp-modifiers,Lady Bertram,Mrs. Bennet,1,1,Top10success
+scaled-booknlp-modifiers,Lady Catherine de Bourgh,William Collins,0,0,Top10success
+scaled-booknlp-modifiers,Lady Catherine de Bourgh,Emma Woodhouse,0,1,Top10success
+scaled-booknlp-modifiers,Lady Lucas,Caroline Bingley,0,0,Top10success
+scaled-booknlp-modifiers,Lady Lucas,Fanny Dashwood,0,1,Top10success
+scaled-booknlp-modifiers,Lady Middleton,Fanny Dashwood,0,0,Top10success
+scaled-booknlp-modifiers,Lady Middleton,Mrs. Bennet,1,1,Top10success
+scaled-booknlp-modifiers,Lady Russell,Sir Walter Elliot,1,0,Top10success
+scaled-booknlp-modifiers,Lady Russell,General Tilney,0,1,Top10success
+scaled-booknlp-modifiers,Louisa Musgrove,Henrietta Musgrove,0,0,Top10success
+scaled-booknlp-modifiers,Louisa Musgrove,Caroline Bingley,0,1,Top10success
+scaled-booknlp-modifiers,Lucy Steele,Isabella Thorpe,0,0,Top10success
+scaled-booknlp-modifiers,Lucy Steele,Isabella Thorpe,1,1,Top10success
+scaled-booknlp-modifiers,Lydia Bennet,Elizabeth Bennet,0,0,Top10success
+scaled-booknlp-modifiers,Lydia Bennet,Julia Bertram,0,1,Top10success
+scaled-booknlp-modifiers,Margaret Dashwood,Anne Elliot,0,0,Top10success
+scaled-booknlp-modifiers,Margaret Dashwood,Anne Elliot,0,1,Top10success
+scaled-booknlp-modifiers,Maria Bertram,Julia Bertram,0,0,Top10success
+scaled-booknlp-modifiers,Maria Bertram,Elizabeth Elliot,0,1,Top10success
+scaled-booknlp-modifiers,Marianne Dashwood,Elinor Dashwood,1,0,Top10success
+scaled-booknlp-modifiers,Marianne Dashwood,Elizabeth Bennet,1,1,Top10success
+scaled-booknlp-modifiers,Mary Bennet,Lydia Bennet,0,0,Top10success
+scaled-booknlp-modifiers,Mary Bennet,Fanny Price,1,1,Top10success
+scaled-booknlp-modifiers,Mary Crawford,Henry Crawford,0,0,Top10success
+scaled-booknlp-modifiers,Mary Crawford,Isabella Thorpe,0,1,Top10success
+scaled-booknlp-modifiers,Mary Musgrove,Elizabeth Elliot,0,0,Top10success
+scaled-booknlp-modifiers,Mary Musgrove,Mrs. Bennet,0,1,Top10success
+scaled-booknlp-modifiers,Miss Bates,Jane Fairfax,0,0,Top10success
+scaled-booknlp-modifiers,Miss Bates,Mrs. Jennings,0,1,Top10success
+scaled-booknlp-modifiers,Mr. Allen,Mr. Bennet,0,0,Top10success
+scaled-booknlp-modifiers,Mr. Allen,Mr. Bennet,1,1,Top10success
+scaled-booknlp-modifiers,Mr. Bennet,Elizabeth Bennet,0,0,Top10success
+scaled-booknlp-modifiers,Mr. Bennet,Emma Woodhouse,0,1,Top10success
+scaled-booknlp-modifiers,William Collins,Lady Catherine de Bourgh,0,0,Top10success
+scaled-booknlp-modifiers,William Collins,Philip Elton,1,1,Top10success
+scaled-booknlp-modifiers,Philip Elton,Frank Churchill,0,0,Top10success
+scaled-booknlp-modifiers,Philip Elton,William Collins,0,1,Top10success
+scaled-booknlp-modifiers,Mr. Gardiner,Mrs. Gardiner,0,0,Top10success
+scaled-booknlp-modifiers,Mr. Gardiner,Admiral Croft,0,1,Top10success
+scaled-booknlp-modifiers,Mr. Hurst,Henry Crawford,0,0,Top10success
+scaled-booknlp-modifiers,Mr. Hurst,Henry Crawford,0,1,Top10success
+scaled-booknlp-modifiers,Thomas Palmer,Charlotte Palmer,0,0,Top10success
+scaled-booknlp-modifiers,Thomas Palmer,Sir Thomas Bertram,0,1,Top10success
+scaled-booknlp-modifiers,Mr. Perry,Anne de Bourgh,0,0,Top10success
+scaled-booknlp-modifiers,Mr. Perry,Anne de Bourgh,0,1,Top10success
+scaled-booknlp-modifiers,Mr. Rushworth,Henry Crawford,1,0,Top10success
+scaled-booknlp-modifiers,Mr. Rushworth,John Thorpe,0,1,Top10success
+scaled-booknlp-modifiers,Mr. Weston,Mr. Woodhouse,1,0,Top10success
+scaled-booknlp-modifiers,Mr. Weston,Henry Crawford,0,1,Top10success
+scaled-booknlp-modifiers,Mr. Woodhouse,Isabella Knightley,0,0,Top10success
+scaled-booknlp-modifiers,Mr. Woodhouse,Mary Musgrove,0,1,Top10success
+scaled-booknlp-modifiers,Mr. Yates,Mary Crawford,1,0,Top10success
+scaled-booknlp-modifiers,Mr. Yates,Admiral Croft,0,1,Top10success
+scaled-booknlp-modifiers,Mrs. Allen,Isabella Thorpe,1,0,Top10success
+scaled-booknlp-modifiers,Mrs. Allen,Mrs. Bennet,1,1,Top10success
+scaled-booknlp-modifiers,Mrs. Bates,Jane Fairfax,0,0,Top10success
+scaled-booknlp-modifiers,Mrs. Bates,Mrs. Smith,0,1,Top10success
+scaled-booknlp-modifiers,Mrs. Bennet,Lydia Bennet,0,0,Top10success
+scaled-booknlp-modifiers,Mrs. Bennet,Mrs. Dashwood,0,1,Top10success
+scaled-booknlp-modifiers,Mrs. Croft,Anne Elliot,0,0,Top10success
+scaled-booknlp-modifiers,Mrs. Croft,Elizabeth Bennet,0,1,Top10success
+scaled-booknlp-modifiers,Mrs. Dashwood,Marianne Dashwood,0,0,Top10success
+scaled-booknlp-modifiers,Mrs. Dashwood,Mrs. Bennet,0,1,Top10success
+scaled-booknlp-modifiers,Augusta Elton,Emma Woodhouse,0,0,Top10success
+scaled-booknlp-modifiers,Augusta Elton,Lady Catherine de Bourgh,1,1,Top10success
+scaled-booknlp-modifiers,Mrs. Ferrars,Fanny Dashwood,0,0,Top10success
+scaled-booknlp-modifiers,Mrs. Ferrars,Lady Catherine de Bourgh,1,1,Top10success
+scaled-booknlp-modifiers,Mrs. Gardiner,Mr. Gardiner,0,0,Top10success
+scaled-booknlp-modifiers,Mrs. Gardiner,Lady Russell,0,1,Top10success
+scaled-booknlp-modifiers,Mrs. Grant,Fanny Price,0,0,Top10success
+scaled-booknlp-modifiers,Mrs. Grant,Charlotte Lucas,0,1,Top10success
+scaled-booknlp-modifiers,Mrs. Harville,Captain Harville,0,0,Top10success
+scaled-booknlp-modifiers,Mrs. Harville,Anna Weston,0,1,Top10success
+scaled-booknlp-modifiers,Mrs. Hurst,Caroline Bingley,0,0,Top10success
+scaled-booknlp-modifiers,Mrs. Hurst,Emma Woodhouse,0,1,Top10success
+scaled-booknlp-modifiers,Mrs. Jennings,Sir John Middleton,0,0,Top10success
+scaled-booknlp-modifiers,Mrs. Jennings,Miss Bates,0,1,Top10success
+scaled-booknlp-modifiers,Mrs. Morland,Mrs. Dashwood,0,0,Top10success
+scaled-booknlp-modifiers,Mrs. Morland,Mrs. Dashwood,0,1,Top10success
+scaled-booknlp-modifiers,Mrs. Norris,Lady Bertram,1,0,Top10success
+scaled-booknlp-modifiers,Mrs. Norris,Lady Catherine de Bourgh,0,1,Top10success
+scaled-booknlp-modifiers,Mrs. Phillips,Mr. Hurst,0,0,Top10success
+scaled-booknlp-modifiers,Mrs. Phillips,Admiral Croft,0,1,Top10success
+scaled-booknlp-modifiers,Mrs. Price,Lady Bertram,1,0,Top10success
+scaled-booknlp-modifiers,Mrs. Price,Mrs. Bennet,1,1,Top10success
+scaled-booknlp-modifiers,Mrs. Smith,Anne Elliot,1,0,Top10success
+scaled-booknlp-modifiers,Mrs. Smith,Miss Bates,0,1,Top10success
+scaled-booknlp-modifiers,Mrs. Thorpe,Mrs. Bates,0,0,Top10success
+scaled-booknlp-modifiers,Mrs. Thorpe,Mrs. Bates,0,1,Top10success
+scaled-booknlp-modifiers,Mrs. Clay,William Elliot,0,0,Top10success
+scaled-booknlp-modifiers,Mrs. Clay,Lucy Steele,0,1,Top10success
+scaled-booknlp-modifiers,Robert Ferrars,Lucy Steele,0,0,Top10success
+scaled-booknlp-modifiers,Robert Ferrars,Sir Walter Elliot,0,1,Top10success
+scaled-booknlp-modifiers,Robert Martin,George Knightley,0,0,Top10success
+scaled-booknlp-modifiers,Robert Martin,Anne de Bourgh,0,1,Top10success
+scaled-booknlp-modifiers,Sir John Middleton,Mrs. Jennings,0,0,Top10success
+scaled-booknlp-modifiers,Sir John Middleton,Catherine Morland,0,1,Top10success
+scaled-booknlp-modifiers,Sir Thomas Bertram,Lady Bertram,0,0,Top10success
+scaled-booknlp-modifiers,Sir Thomas Bertram,Mr. Bennet,1,1,Top10success
+scaled-booknlp-modifiers,Sir Walter Elliot,Elizabeth Elliot,0,0,Top10success
+scaled-booknlp-modifiers,Sir Walter Elliot,Lady Catherine de Bourgh,0,1,Top10success
+scaled-booknlp-modifiers,Sir William Lucas,Caroline Bingley,0,0,Top10success
+scaled-booknlp-modifiers,Sir William Lucas,Admiral Croft,0,1,Top10success
+scaled-booknlp-modifiers,Susan Price,Fanny Price,0,0,Top10success
+scaled-booknlp-modifiers,Susan Price,Elizabeth Bennet,0,1,Top10success
+scaled-booknlp-modifiers,William Elliot,John Willoughby,1,0,Top10success
+scaled-booknlp-modifiers,William Elliot,John Willoughby,1,1,Top10success
+scaled-booknlp-modifiers,William Price,Edmund Bertram,0,0,Top10success
+scaled-booknlp-modifiers,William Price,Captain Wentworth,0,1,Top10success
+scaled-booknlp-modifiers,Admiral Croft,,0.0,0,Jaccard
+scaled-booknlp-modifiers,Admiral Croft,,0.0,1,Jaccard
+scaled-booknlp-modifiers,Anna Weston,,0.05263157894736842,0,Jaccard
+scaled-booknlp-modifiers,Anna Weston,,0.0,1,Jaccard
+scaled-booknlp-modifiers,Anne Elliot,,0.05263157894736842,0,Jaccard
+scaled-booknlp-modifiers,Anne Elliot,,0.1111111111111111,1,Jaccard
+scaled-booknlp-modifiers,Anne Steele,,0.0,0,Jaccard
+scaled-booknlp-modifiers,Anne Steele,,0.0,1,Jaccard
+scaled-booknlp-modifiers,Anne de Bourgh,,0.05263157894736842,0,Jaccard
+scaled-booknlp-modifiers,Anne de Bourgh,,0.0,1,Jaccard
+scaled-booknlp-modifiers,Captain Benwick,,0.0,0,Jaccard
+scaled-booknlp-modifiers,Captain Benwick,,0.05263157894736842,1,Jaccard
+scaled-booknlp-modifiers,Captain Harville,,0.0,0,Jaccard
+scaled-booknlp-modifiers,Captain Harville,,0.0,1,Jaccard
+scaled-booknlp-modifiers,Captain Wentworth,,0.05263157894736842,0,Jaccard
+scaled-booknlp-modifiers,Captain Wentworth,,0.1111111111111111,1,Jaccard
+scaled-booknlp-modifiers,Caroline Bingley,,0.0,0,Jaccard
+scaled-booknlp-modifiers,Caroline Bingley,,0.05263157894736842,1,Jaccard
+scaled-booknlp-modifiers,Catherine Morland,,0.05263157894736842,0,Jaccard
+scaled-booknlp-modifiers,Catherine Morland,,0.05263157894736842,1,Jaccard
+scaled-booknlp-modifiers,Charles Bingley,,0.0,0,Jaccard
+scaled-booknlp-modifiers,Charles Bingley,,0.0,1,Jaccard
+scaled-booknlp-modifiers,Charles Musgrove,,0.0,0,Jaccard
+scaled-booknlp-modifiers,Charles Musgrove,,0.0,1,Jaccard
+scaled-booknlp-modifiers,Charlotte Lucas,,0.0,0,Jaccard
+scaled-booknlp-modifiers,Charlotte Lucas,,0.0,1,Jaccard
+scaled-booknlp-modifiers,Charlotte Palmer,,0.0,0,Jaccard
+scaled-booknlp-modifiers,Charlotte Palmer,,0.0,1,Jaccard
+scaled-booknlp-modifiers,Colonel Brandon,,0.0,0,Jaccard
+scaled-booknlp-modifiers,Colonel Brandon,,0.0,1,Jaccard
+scaled-booknlp-modifiers,Colonel Fitzwilliam,,0.0,0,Jaccard
+scaled-booknlp-modifiers,Colonel Fitzwilliam,,0.0,1,Jaccard
+scaled-booknlp-modifiers,Dr. Grant,,0.0,0,Jaccard
+scaled-booknlp-modifiers,Dr. Grant,,0.0,1,Jaccard
+scaled-booknlp-modifiers,Edmund Bertram,,0.0,0,Jaccard
+scaled-booknlp-modifiers,Edmund Bertram,,0.05263157894736842,1,Jaccard
+scaled-booknlp-modifiers,Edward Ferrars,,0.0,0,Jaccard
+scaled-booknlp-modifiers,Edward Ferrars,,0.0,1,Jaccard
+scaled-booknlp-modifiers,Eleanor Tilney,,0.0,0,Jaccard
+scaled-booknlp-modifiers,Eleanor Tilney,,0.0,1,Jaccard
+scaled-booknlp-modifiers,Elinor Dashwood,,0.0,0,Jaccard
+scaled-booknlp-modifiers,Elinor Dashwood,,0.0,1,Jaccard
+scaled-booknlp-modifiers,Elizabeth Bennet,,0.0,0,Jaccard
+scaled-booknlp-modifiers,Elizabeth Bennet,,0.05263157894736842,1,Jaccard
+scaled-booknlp-modifiers,Elizabeth Elliot,,0.0,0,Jaccard
+scaled-booknlp-modifiers,Elizabeth Elliot,,0.0,1,Jaccard
+scaled-booknlp-modifiers,Emma Woodhouse,,0.0,0,Jaccard
+scaled-booknlp-modifiers,Emma Woodhouse,,0.0,1,Jaccard
+scaled-booknlp-modifiers,Fanny Dashwood,,0.0,0,Jaccard
+scaled-booknlp-modifiers,Fanny Dashwood,,0.0,1,Jaccard
+scaled-booknlp-modifiers,Fanny Price,,0.05263157894736842,0,Jaccard
+scaled-booknlp-modifiers,Fanny Price,,0.05263157894736842,1,Jaccard
+scaled-booknlp-modifiers,Fitzwilliam Darcy,,0.0,0,Jaccard
+scaled-booknlp-modifiers,Fitzwilliam Darcy,,0.0,1,Jaccard
+scaled-booknlp-modifiers,Frank Churchill,,0.0,0,Jaccard
+scaled-booknlp-modifiers,Frank Churchill,,0.0,1,Jaccard
+scaled-booknlp-modifiers,Frederick Tilney,,0.0,0,Jaccard
+scaled-booknlp-modifiers,Frederick Tilney,,0.0,1,Jaccard
+scaled-booknlp-modifiers,General Tilney,,0.0,0,Jaccard
+scaled-booknlp-modifiers,General Tilney,,0.0,1,Jaccard
+scaled-booknlp-modifiers,George Knightley,,0.05263157894736842,0,Jaccard
+scaled-booknlp-modifiers,George Knightley,,0.05263157894736842,1,Jaccard
+scaled-booknlp-modifiers,George Wickham,,0.1111111111111111,0,Jaccard
+scaled-booknlp-modifiers,George Wickham,,0.05263157894736842,1,Jaccard
+scaled-booknlp-modifiers,Georgiana Darcy,,0.05263157894736842,0,Jaccard
+scaled-booknlp-modifiers,Georgiana Darcy,,0.0,1,Jaccard
+scaled-booknlp-modifiers,Harriet Smith,,0.05263157894736842,0,Jaccard
+scaled-booknlp-modifiers,Harriet Smith,,0.05263157894736842,1,Jaccard
+scaled-booknlp-modifiers,Henrietta Musgrove,,0.0,0,Jaccard
+scaled-booknlp-modifiers,Henrietta Musgrove,,0.0,1,Jaccard
+scaled-booknlp-modifiers,Henry Crawford,,0.0,0,Jaccard
+scaled-booknlp-modifiers,Henry Crawford,,0.0,1,Jaccard
+scaled-booknlp-modifiers,Henry Tilney,,0.0,0,Jaccard
+scaled-booknlp-modifiers,Henry Tilney,,0.0,1,Jaccard
+scaled-booknlp-modifiers,Isabella Knightley,,0.0,0,Jaccard
+scaled-booknlp-modifiers,Isabella Knightley,,0.0,1,Jaccard
+scaled-booknlp-modifiers,Isabella Thorpe,,0.0,0,Jaccard
+scaled-booknlp-modifiers,Isabella Thorpe,,0.0,1,Jaccard
+scaled-booknlp-modifiers,James Morland,,0.0,0,Jaccard
+scaled-booknlp-modifiers,James Morland,,0.0,1,Jaccard
+scaled-booknlp-modifiers,Jane Bennet,,0.0,0,Jaccard
+scaled-booknlp-modifiers,Jane Bennet,,0.0,1,Jaccard
+scaled-booknlp-modifiers,Jane Fairfax,,0.0,0,Jaccard
+scaled-booknlp-modifiers,Jane Fairfax,,0.05263157894736842,1,Jaccard
+scaled-booknlp-modifiers,John Dashwood,,0.0,0,Jaccard
+scaled-booknlp-modifiers,John Dashwood,,0.0,1,Jaccard
+scaled-booknlp-modifiers,John Thorpe,,0.0,0,Jaccard
+scaled-booknlp-modifiers,John Thorpe,,0.05263157894736842,1,Jaccard
+scaled-booknlp-modifiers,John Willoughby,,0.05263157894736842,0,Jaccard
+scaled-booknlp-modifiers,John Willoughby,,0.05263157894736842,1,Jaccard
+scaled-booknlp-modifiers,Julia Bertram,,0.0,0,Jaccard
+scaled-booknlp-modifiers,Julia Bertram,,0.0,1,Jaccard
+scaled-booknlp-modifiers,Lady Bertram,,0.0,0,Jaccard
+scaled-booknlp-modifiers,Lady Bertram,,0.05263157894736842,1,Jaccard
+scaled-booknlp-modifiers,Lady Catherine de Bourgh,,0.0,0,Jaccard
+scaled-booknlp-modifiers,Lady Catherine de Bourgh,,0.05263157894736842,1,Jaccard
+scaled-booknlp-modifiers,Lady Lucas,,0.0,0,Jaccard
+scaled-booknlp-modifiers,Lady Lucas,,0.0,1,Jaccard
+scaled-booknlp-modifiers,Lady Middleton,,0.0,0,Jaccard
+scaled-booknlp-modifiers,Lady Middleton,,0.0,1,Jaccard
+scaled-booknlp-modifiers,Lady Russell,,0.0,0,Jaccard
+scaled-booknlp-modifiers,Lady Russell,,0.0,1,Jaccard
+scaled-booknlp-modifiers,Louisa Musgrove,,0.0,0,Jaccard
+scaled-booknlp-modifiers,Louisa Musgrove,,0.0,1,Jaccard
+scaled-booknlp-modifiers,Lucy Steele,,0.0,0,Jaccard
+scaled-booknlp-modifiers,Lucy Steele,,0.0,1,Jaccard
+scaled-booknlp-modifiers,Lydia Bennet,,0.0,0,Jaccard
+scaled-booknlp-modifiers,Lydia Bennet,,0.0,1,Jaccard
+scaled-booknlp-modifiers,Margaret Dashwood,,0.05263157894736842,0,Jaccard
+scaled-booknlp-modifiers,Margaret Dashwood,,0.05263157894736842,1,Jaccard
+scaled-booknlp-modifiers,Maria Bertram,,0.0,0,Jaccard
+scaled-booknlp-modifiers,Maria Bertram,,0.0,1,Jaccard
+scaled-booknlp-modifiers,Marianne Dashwood,,0.05263157894736842,0,Jaccard
+scaled-booknlp-modifiers,Marianne Dashwood,,0.05263157894736842,1,Jaccard
+scaled-booknlp-modifiers,Mary Bennet,,0.0,0,Jaccard
+scaled-booknlp-modifiers,Mary Bennet,,0.0,1,Jaccard
+scaled-booknlp-modifiers,Mary Crawford,,0.0,0,Jaccard
+scaled-booknlp-modifiers,Mary Crawford,,0.0,1,Jaccard
+scaled-booknlp-modifiers,Mary Musgrove,,0.0,0,Jaccard
+scaled-booknlp-modifiers,Mary Musgrove,,0.0,1,Jaccard
+scaled-booknlp-modifiers,Miss Bates,,0.0,0,Jaccard
+scaled-booknlp-modifiers,Miss Bates,,0.0,1,Jaccard
+scaled-booknlp-modifiers,Mr. Allen,,0.0,0,Jaccard
+scaled-booknlp-modifiers,Mr. Allen,,0.0,1,Jaccard
+scaled-booknlp-modifiers,Mr. Bennet,,0.0,0,Jaccard
+scaled-booknlp-modifiers,Mr. Bennet,,0.05263157894736842,1,Jaccard
+scaled-booknlp-modifiers,William Collins,,0.0,0,Jaccard
+scaled-booknlp-modifiers,William Collins,,0.0,1,Jaccard
+scaled-booknlp-modifiers,Philip Elton,,0.0,0,Jaccard
+scaled-booknlp-modifiers,Philip Elton,,0.0,1,Jaccard
+scaled-booknlp-modifiers,Mr. Gardiner,,0.0,0,Jaccard
+scaled-booknlp-modifiers,Mr. Gardiner,,0.0,1,Jaccard
+scaled-booknlp-modifiers,Mr. Hurst,,0.0,0,Jaccard
+scaled-booknlp-modifiers,Mr. Hurst,,0.0,1,Jaccard
+scaled-booknlp-modifiers,Thomas Palmer,,0.0,0,Jaccard
+scaled-booknlp-modifiers,Thomas Palmer,,0.0,1,Jaccard
+scaled-booknlp-modifiers,Mr. Perry,,0.0,0,Jaccard
+scaled-booknlp-modifiers,Mr. Perry,,0.0,1,Jaccard
+scaled-booknlp-modifiers,Mr. Rushworth,,0.05263157894736842,0,Jaccard
+scaled-booknlp-modifiers,Mr. Rushworth,,0.0,1,Jaccard
+scaled-booknlp-modifiers,Mr. Weston,,0.0,0,Jaccard
+scaled-booknlp-modifiers,Mr. Weston,,0.0,1,Jaccard
+scaled-booknlp-modifiers,Mr. Woodhouse,,0.05263157894736842,0,Jaccard
+scaled-booknlp-modifiers,Mr. Woodhouse,,0.0,1,Jaccard
+scaled-booknlp-modifiers,Mr. Yates,,0.0,0,Jaccard
+scaled-booknlp-modifiers,Mr. Yates,,0.0,1,Jaccard
+scaled-booknlp-modifiers,Mrs. Allen,,0.05263157894736842,0,Jaccard
+scaled-booknlp-modifiers,Mrs. Allen,,0.05263157894736842,1,Jaccard
+scaled-booknlp-modifiers,Mrs. Bates,,0.05263157894736842,0,Jaccard
+scaled-booknlp-modifiers,Mrs. Bates,,0.0,1,Jaccard
+scaled-booknlp-modifiers,Mrs. Bennet,,0.0,0,Jaccard
+scaled-booknlp-modifiers,Mrs. Bennet,,0.0,1,Jaccard
+scaled-booknlp-modifiers,Mrs. Croft,,0.0,0,Jaccard
+scaled-booknlp-modifiers,Mrs. Croft,,0.0,1,Jaccard
+scaled-booknlp-modifiers,Mrs. Dashwood,,0.0,0,Jaccard
+scaled-booknlp-modifiers,Mrs. Dashwood,,0.0,1,Jaccard
+scaled-booknlp-modifiers,Augusta Elton,,0.0,0,Jaccard
+scaled-booknlp-modifiers,Augusta Elton,,0.0,1,Jaccard
+scaled-booknlp-modifiers,Mrs. Ferrars,,0.0,0,Jaccard
+scaled-booknlp-modifiers,Mrs. Ferrars,,0.0,1,Jaccard
+scaled-booknlp-modifiers,Mrs. Gardiner,,0.05263157894736842,0,Jaccard
+scaled-booknlp-modifiers,Mrs. Gardiner,,0.05263157894736842,1,Jaccard
+scaled-booknlp-modifiers,Mrs. Grant,,0.0,0,Jaccard
+scaled-booknlp-modifiers,Mrs. Grant,,0.0,1,Jaccard
+scaled-booknlp-modifiers,Mrs. Harville,,0.0,0,Jaccard
+scaled-booknlp-modifiers,Mrs. Harville,,0.0,1,Jaccard
+scaled-booknlp-modifiers,Mrs. Hurst,,0.0,0,Jaccard
+scaled-booknlp-modifiers,Mrs. Hurst,,0.0,1,Jaccard
+scaled-booknlp-modifiers,Mrs. Jennings,,0.0,0,Jaccard
+scaled-booknlp-modifiers,Mrs. Jennings,,0.0,1,Jaccard
+scaled-booknlp-modifiers,Mrs. Morland,,0.0,0,Jaccard
+scaled-booknlp-modifiers,Mrs. Morland,,0.0,1,Jaccard
+scaled-booknlp-modifiers,Mrs. Norris,,0.0,0,Jaccard
+scaled-booknlp-modifiers,Mrs. Norris,,0.0,1,Jaccard
+scaled-booknlp-modifiers,Mrs. Phillips,,0.0,0,Jaccard
+scaled-booknlp-modifiers,Mrs. Phillips,,0.0,1,Jaccard
+scaled-booknlp-modifiers,Mrs. Price,,0.0,0,Jaccard
+scaled-booknlp-modifiers,Mrs. Price,,0.0,1,Jaccard
+scaled-booknlp-modifiers,Mrs. Smith,,0.0,0,Jaccard
+scaled-booknlp-modifiers,Mrs. Smith,,0.0,1,Jaccard
+scaled-booknlp-modifiers,Mrs. Thorpe,,0.0,0,Jaccard
+scaled-booknlp-modifiers,Mrs. Thorpe,,0.0,1,Jaccard
+scaled-booknlp-modifiers,Mrs. Clay,,0.0,0,Jaccard
+scaled-booknlp-modifiers,Mrs. Clay,,0.0,1,Jaccard
+scaled-booknlp-modifiers,Robert Ferrars,,0.0,0,Jaccard
+scaled-booknlp-modifiers,Robert Ferrars,,0.05263157894736842,1,Jaccard
+scaled-booknlp-modifiers,Robert Martin,,0.05263157894736842,0,Jaccard
+scaled-booknlp-modifiers,Robert Martin,,0.0,1,Jaccard
+scaled-booknlp-modifiers,Sir John Middleton,,0.0,0,Jaccard
+scaled-booknlp-modifiers,Sir John Middleton,,0.0,1,Jaccard
+scaled-booknlp-modifiers,Sir Thomas Bertram,,0.0,0,Jaccard
+scaled-booknlp-modifiers,Sir Thomas Bertram,,0.0,1,Jaccard
+scaled-booknlp-modifiers,Sir Walter Elliot,,0.0,0,Jaccard
+scaled-booknlp-modifiers,Sir Walter Elliot,,0.0,1,Jaccard
+scaled-booknlp-modifiers,Sir William Lucas,,0.0,0,Jaccard
+scaled-booknlp-modifiers,Sir William Lucas,,0.0,1,Jaccard
+scaled-booknlp-modifiers,Susan Price,,0.05263157894736842,0,Jaccard
+scaled-booknlp-modifiers,Susan Price,,0.0,1,Jaccard
+scaled-booknlp-modifiers,William Elliot,,0.0,0,Jaccard
+scaled-booknlp-modifiers,William Elliot,,0.0,1,Jaccard
+scaled-booknlp-modifiers,William Price,,0.0,0,Jaccard
+scaled-booknlp-modifiers,William Price,,0.0,1,Jaccard
+scaled-booknlp-modifiers,Admiral Croft,,0.6,0,KendallTau
+scaled-booknlp-modifiers,Admiral Croft,,-0.19999999999999998,1,KendallTau
+scaled-booknlp-modifiers,Anna Weston,,0.28888888888888886,0,KendallTau
+scaled-booknlp-modifiers,Anna Weston,,-0.15555555555555553,1,KendallTau
+scaled-booknlp-modifiers,Anne Elliot,,0.7333333333333333,0,KendallTau
+scaled-booknlp-modifiers,Anne Elliot,,0.7333333333333333,1,KendallTau
+scaled-booknlp-modifiers,Anne Steele,,-0.19999999999999998,0,KendallTau
+scaled-booknlp-modifiers,Anne Steele,,-0.28888888888888886,1,KendallTau
+scaled-booknlp-modifiers,Anne de Bourgh,,0.28888888888888886,0,KendallTau
+scaled-booknlp-modifiers,Anne de Bourgh,,0.28888888888888886,1,KendallTau
+scaled-booknlp-modifiers,Captain Benwick,,-0.4222222222222222,0,KendallTau
+scaled-booknlp-modifiers,Captain Benwick,,-0.4666666666666666,1,KendallTau
+scaled-booknlp-modifiers,Captain Harville,,-0.19999999999999998,0,KendallTau
+scaled-booknlp-modifiers,Captain Harville,,0.3333333333333333,1,KendallTau
+scaled-booknlp-modifiers,Captain Wentworth,,0.19999999999999998,0,KendallTau
+scaled-booknlp-modifiers,Captain Wentworth,,0.022222222222222223,1,KendallTau
+scaled-booknlp-modifiers,Caroline Bingley,,0.06666666666666667,0,KendallTau
+scaled-booknlp-modifiers,Caroline Bingley,,0.28888888888888886,1,KendallTau
+scaled-booknlp-modifiers,Catherine Morland,,0.4222222222222222,0,KendallTau
+scaled-booknlp-modifiers,Catherine Morland,,0.5111111111111111,1,KendallTau
+scaled-booknlp-modifiers,Charles Bingley,,-0.15555555555555553,0,KendallTau
+scaled-booknlp-modifiers,Charles Bingley,,0.24444444444444444,1,KendallTau
+scaled-booknlp-modifiers,Charles Musgrove,,0.28888888888888886,0,KendallTau
+scaled-booknlp-modifiers,Charles Musgrove,,0.15555555555555553,1,KendallTau
+scaled-booknlp-modifiers,Charlotte Lucas,,-0.4666666666666666,0,KendallTau
+scaled-booknlp-modifiers,Charlotte Lucas,,-0.4666666666666666,1,KendallTau
+scaled-booknlp-modifiers,Charlotte Palmer,,0.24444444444444444,0,KendallTau
+scaled-booknlp-modifiers,Charlotte Palmer,,0.4222222222222222,1,KendallTau
+scaled-booknlp-modifiers,Colonel Brandon,,0.15555555555555553,0,KendallTau
+scaled-booknlp-modifiers,Colonel Brandon,,0.37777777777777777,1,KendallTau
+scaled-booknlp-modifiers,Colonel Fitzwilliam,,0.7333333333333333,0,KendallTau
+scaled-booknlp-modifiers,Colonel Fitzwilliam,,0.37777777777777777,1,KendallTau
+scaled-booknlp-modifiers,Dr. Grant,,0.15555555555555553,0,KendallTau
+scaled-booknlp-modifiers,Dr. Grant,,-0.06666666666666667,1,KendallTau
+scaled-booknlp-modifiers,Edmund Bertram,,-0.022222222222222223,0,KendallTau
+scaled-booknlp-modifiers,Edmund Bertram,,-0.4222222222222222,1,KendallTau
+scaled-booknlp-modifiers,Edward Ferrars,,-0.1111111111111111,0,KendallTau
+scaled-booknlp-modifiers,Edward Ferrars,,0.15555555555555553,1,KendallTau
+scaled-booknlp-modifiers,Eleanor Tilney,,0.06666666666666667,0,KendallTau
+scaled-booknlp-modifiers,Eleanor Tilney,,0.022222222222222223,1,KendallTau
+scaled-booknlp-modifiers,Elinor Dashwood,,0.3333333333333333,0,KendallTau
+scaled-booknlp-modifiers,Elinor Dashwood,,0.5111111111111111,1,KendallTau
+scaled-booknlp-modifiers,Elizabeth Bennet,,-0.022222222222222223,0,KendallTau
+scaled-booknlp-modifiers,Elizabeth Bennet,,0.4222222222222222,1,KendallTau
+scaled-booknlp-modifiers,Elizabeth Elliot,,-0.4222222222222222,0,KendallTau
+scaled-booknlp-modifiers,Elizabeth Elliot,,0.1111111111111111,1,KendallTau
+scaled-booknlp-modifiers,Emma Woodhouse,,0.3333333333333333,0,KendallTau
+scaled-booknlp-modifiers,Emma Woodhouse,,0.4666666666666666,1,KendallTau
+scaled-booknlp-modifiers,Fanny Dashwood,,0.3333333333333333,0,KendallTau
+scaled-booknlp-modifiers,Fanny Dashwood,,0.4222222222222222,1,KendallTau
+scaled-booknlp-modifiers,Fanny Price,,0.37777777777777777,0,KendallTau
+scaled-booknlp-modifiers,Fanny Price,,0.5555555555555555,1,KendallTau
+scaled-booknlp-modifiers,Fitzwilliam Darcy,,-0.06666666666666667,0,KendallTau
+scaled-booknlp-modifiers,Fitzwilliam Darcy,,0.1111111111111111,1,KendallTau
+scaled-booknlp-modifiers,Frank Churchill,,0.15555555555555553,0,KendallTau
+scaled-booknlp-modifiers,Frank Churchill,,0.4222222222222222,1,KendallTau
+scaled-booknlp-modifiers,Frederick Tilney,,0.15555555555555553,0,KendallTau
+scaled-booknlp-modifiers,Frederick Tilney,,0.06666666666666667,1,KendallTau
+scaled-booknlp-modifiers,General Tilney,,-0.19999999999999998,0,KendallTau
+scaled-booknlp-modifiers,General Tilney,,0.06666666666666667,1,KendallTau
+scaled-booknlp-modifiers,George Knightley,,0.37777777777777777,0,KendallTau
+scaled-booknlp-modifiers,George Knightley,,0.4222222222222222,1,KendallTau
+scaled-booknlp-modifiers,George Wickham,,0.24444444444444444,0,KendallTau
+scaled-booknlp-modifiers,George Wickham,,0.7777777777777777,1,KendallTau
+scaled-booknlp-modifiers,Georgiana Darcy,,0.1111111111111111,0,KendallTau
+scaled-booknlp-modifiers,Georgiana Darcy,,-0.24444444444444444,1,KendallTau
+scaled-booknlp-modifiers,Harriet Smith,,0.37777777777777777,0,KendallTau
+scaled-booknlp-modifiers,Harriet Smith,,0.6444444444444444,1,KendallTau
+scaled-booknlp-modifiers,Henrietta Musgrove,,-0.1111111111111111,0,KendallTau
+scaled-booknlp-modifiers,Henrietta Musgrove,,0.37777777777777777,1,KendallTau
+scaled-booknlp-modifiers,Henry Crawford,,0.19999999999999998,0,KendallTau
+scaled-booknlp-modifiers,Henry Crawford,,0.1111111111111111,1,KendallTau
+scaled-booknlp-modifiers,Henry Tilney,,0.3333333333333333,0,KendallTau
+scaled-booknlp-modifiers,Henry Tilney,,0.3333333333333333,1,KendallTau
+scaled-booknlp-modifiers,Isabella Knightley,,0.3333333333333333,0,KendallTau
+scaled-booknlp-modifiers,Isabella Knightley,,-0.06666666666666667,1,KendallTau
+scaled-booknlp-modifiers,Isabella Thorpe,,-0.06666666666666667,0,KendallTau
+scaled-booknlp-modifiers,Isabella Thorpe,,0.022222222222222223,1,KendallTau
+scaled-booknlp-modifiers,James Morland,,-0.022222222222222223,0,KendallTau
+scaled-booknlp-modifiers,James Morland,,0.19999999999999998,1,KendallTau
+scaled-booknlp-modifiers,Jane Bennet,,0.15555555555555553,0,KendallTau
+scaled-booknlp-modifiers,Jane Bennet,,0.24444444444444444,1,KendallTau
+scaled-booknlp-modifiers,Jane Fairfax,,0.4666666666666666,0,KendallTau
+scaled-booknlp-modifiers,Jane Fairfax,,0.3333333333333333,1,KendallTau
+scaled-booknlp-modifiers,John Dashwood,,-0.19999999999999998,0,KendallTau
+scaled-booknlp-modifiers,John Dashwood,,-0.37777777777777777,1,KendallTau
+scaled-booknlp-modifiers,John Thorpe,,0.1111111111111111,0,KendallTau
+scaled-booknlp-modifiers,John Thorpe,,0.6,1,KendallTau
+scaled-booknlp-modifiers,John Willoughby,,0.4666666666666666,0,KendallTau
+scaled-booknlp-modifiers,John Willoughby,,0.3333333333333333,1,KendallTau
+scaled-booknlp-modifiers,Julia Bertram,,-0.06666666666666667,0,KendallTau
+scaled-booknlp-modifiers,Julia Bertram,,-0.1111111111111111,1,KendallTau
+scaled-booknlp-modifiers,Lady Bertram,,0.19999999999999998,0,KendallTau
+scaled-booknlp-modifiers,Lady Bertram,,0.6888888888888888,1,KendallTau
+scaled-booknlp-modifiers,Lady Catherine de Bourgh,,0.022222222222222223,0,KendallTau
+scaled-booknlp-modifiers,Lady Catherine de Bourgh,,-0.19999999999999998,1,KendallTau
+scaled-booknlp-modifiers,Lady Lucas,,0.4666666666666666,0,KendallTau
+scaled-booknlp-modifiers,Lady Lucas,,-0.15555555555555553,1,KendallTau
+scaled-booknlp-modifiers,Lady Middleton,,0.06666666666666667,0,KendallTau
+scaled-booknlp-modifiers,Lady Middleton,,0.1111111111111111,1,KendallTau
+scaled-booknlp-modifiers,Lady Russell,,0.1111111111111111,0,KendallTau
+scaled-booknlp-modifiers,Lady Russell,,0.06666666666666667,1,KendallTau
+scaled-booknlp-modifiers,Louisa Musgrove,,0.1111111111111111,0,KendallTau
+scaled-booknlp-modifiers,Louisa Musgrove,,-0.19999999999999998,1,KendallTau
+scaled-booknlp-modifiers,Lucy Steele,,0.06666666666666667,0,KendallTau
+scaled-booknlp-modifiers,Lucy Steele,,-0.15555555555555553,1,KendallTau
+scaled-booknlp-modifiers,Lydia Bennet,,0.15555555555555553,0,KendallTau
+scaled-booknlp-modifiers,Lydia Bennet,,-0.24444444444444444,1,KendallTau
+scaled-booknlp-modifiers,Margaret Dashwood,,0.24444444444444444,0,KendallTau
+scaled-booknlp-modifiers,Margaret Dashwood,,0.1111111111111111,1,KendallTau
+scaled-booknlp-modifiers,Maria Bertram,,0.28888888888888886,0,KendallTau
+scaled-booknlp-modifiers,Maria Bertram,,0.022222222222222223,1,KendallTau
+scaled-booknlp-modifiers,Marianne Dashwood,,0.5111111111111111,0,KendallTau
+scaled-booknlp-modifiers,Marianne Dashwood,,0.3333333333333333,1,KendallTau
+scaled-booknlp-modifiers,Mary Bennet,,-0.1111111111111111,0,KendallTau
+scaled-booknlp-modifiers,Mary Bennet,,0.24444444444444444,1,KendallTau
+scaled-booknlp-modifiers,Mary Crawford,,-0.19999999999999998,0,KendallTau
+scaled-booknlp-modifiers,Mary Crawford,,0.6444444444444444,1,KendallTau
+scaled-booknlp-modifiers,Mary Musgrove,,0.24444444444444444,0,KendallTau
+scaled-booknlp-modifiers,Mary Musgrove,,-0.24444444444444444,1,KendallTau
+scaled-booknlp-modifiers,Miss Bates,,-0.1111111111111111,0,KendallTau
+scaled-booknlp-modifiers,Miss Bates,,-0.022222222222222223,1,KendallTau
+scaled-booknlp-modifiers,Mr. Allen,,-0.15555555555555553,0,KendallTau
+scaled-booknlp-modifiers,Mr. Allen,,-0.06666666666666667,1,KendallTau
+scaled-booknlp-modifiers,Mr. Bennet,,-0.4222222222222222,0,KendallTau
+scaled-booknlp-modifiers,Mr. Bennet,,-0.1111111111111111,1,KendallTau
+scaled-booknlp-modifiers,William Collins,,0.4666666666666666,0,KendallTau
+scaled-booknlp-modifiers,William Collins,,0.4222222222222222,1,KendallTau
+scaled-booknlp-modifiers,Philip Elton,,-0.6,0,KendallTau
+scaled-booknlp-modifiers,Philip Elton,,0.4666666666666666,1,KendallTau
+scaled-booknlp-modifiers,Mr. Gardiner,,-0.022222222222222223,0,KendallTau
+scaled-booknlp-modifiers,Mr. Gardiner,,-0.022222222222222223,1,KendallTau
+scaled-booknlp-modifiers,Mr. Hurst,,-0.3333333333333333,0,KendallTau
+scaled-booknlp-modifiers,Mr. Hurst,,0.06666666666666667,1,KendallTau
+scaled-booknlp-modifiers,Thomas Palmer,,-0.24444444444444444,0,KendallTau
+scaled-booknlp-modifiers,Thomas Palmer,,-0.1111111111111111,1,KendallTau
+scaled-booknlp-modifiers,Mr. Perry,,0.24444444444444444,0,KendallTau
+scaled-booknlp-modifiers,Mr. Perry,,0.4666666666666666,1,KendallTau
+scaled-booknlp-modifiers,Mr. Rushworth,,0.3333333333333333,0,KendallTau
+scaled-booknlp-modifiers,Mr. Rushworth,,0.19999999999999998,1,KendallTau
+scaled-booknlp-modifiers,Mr. Weston,,0.3333333333333333,0,KendallTau
+scaled-booknlp-modifiers,Mr. Weston,,-0.022222222222222223,1,KendallTau
+scaled-booknlp-modifiers,Mr. Woodhouse,,-0.24444444444444444,0,KendallTau
+scaled-booknlp-modifiers,Mr. Woodhouse,,0.5555555555555555,1,KendallTau
+scaled-booknlp-modifiers,Mr. Yates,,0.06666666666666667,0,KendallTau
+scaled-booknlp-modifiers,Mr. Yates,,0.1111111111111111,1,KendallTau
+scaled-booknlp-modifiers,Mrs. Allen,,0.24444444444444444,0,KendallTau
+scaled-booknlp-modifiers,Mrs. Allen,,0.1111111111111111,1,KendallTau
+scaled-booknlp-modifiers,Mrs. Bates,,0.022222222222222223,0,KendallTau
+scaled-booknlp-modifiers,Mrs. Bates,,0.1111111111111111,1,KendallTau
+scaled-booknlp-modifiers,Mrs. Bennet,,-0.1111111111111111,0,KendallTau
+scaled-booknlp-modifiers,Mrs. Bennet,,0.06666666666666667,1,KendallTau
+scaled-booknlp-modifiers,Mrs. Croft,,0.06666666666666667,0,KendallTau
+scaled-booknlp-modifiers,Mrs. Croft,,0.15555555555555553,1,KendallTau
+scaled-booknlp-modifiers,Mrs. Dashwood,,0.1111111111111111,0,KendallTau
+scaled-booknlp-modifiers,Mrs. Dashwood,,-0.1111111111111111,1,KendallTau
+scaled-booknlp-modifiers,Augusta Elton,,0.06666666666666667,0,KendallTau
+scaled-booknlp-modifiers,Augusta Elton,,-0.15555555555555553,1,KendallTau
+scaled-booknlp-modifiers,Mrs. Ferrars,,0.19999999999999998,0,KendallTau
+scaled-booknlp-modifiers,Mrs. Ferrars,,0.19999999999999998,1,KendallTau
+scaled-booknlp-modifiers,Mrs. Gardiner,,-0.24444444444444444,0,KendallTau
+scaled-booknlp-modifiers,Mrs. Gardiner,,-0.15555555555555553,1,KendallTau
+scaled-booknlp-modifiers,Mrs. Grant,,0.022222222222222223,0,KendallTau
+scaled-booknlp-modifiers,Mrs. Grant,,0.28888888888888886,1,KendallTau
+scaled-booknlp-modifiers,Mrs. Harville,,-0.06666666666666667,0,KendallTau
+scaled-booknlp-modifiers,Mrs. Harville,,-0.022222222222222223,1,KendallTau
+scaled-booknlp-modifiers,Mrs. Hurst,,-0.1111111111111111,0,KendallTau
+scaled-booknlp-modifiers,Mrs. Hurst,,0.15555555555555553,1,KendallTau
+scaled-booknlp-modifiers,Mrs. Jennings,,-0.15555555555555553,0,KendallTau
+scaled-booknlp-modifiers,Mrs. Jennings,,0.24444444444444444,1,KendallTau
+scaled-booknlp-modifiers,Mrs. Morland,,-0.24444444444444444,0,KendallTau
+scaled-booknlp-modifiers,Mrs. Morland,,-0.28888888888888886,1,KendallTau
+scaled-booknlp-modifiers,Mrs. Norris,,0.28888888888888886,0,KendallTau
+scaled-booknlp-modifiers,Mrs. Norris,,-0.24444444444444444,1,KendallTau
+scaled-booknlp-modifiers,Mrs. Phillips,,-0.19999999999999998,0,KendallTau
+scaled-booknlp-modifiers,Mrs. Phillips,,-0.19999999999999998,1,KendallTau
+scaled-booknlp-modifiers,Mrs. Price,,0.6,0,KendallTau
+scaled-booknlp-modifiers,Mrs. Price,,0.24444444444444444,1,KendallTau
+scaled-booknlp-modifiers,Mrs. Smith,,0.4666666666666666,0,KendallTau
+scaled-booknlp-modifiers,Mrs. Smith,,0.15555555555555553,1,KendallTau
+scaled-booknlp-modifiers,Mrs. Thorpe,,-0.3333333333333333,0,KendallTau
+scaled-booknlp-modifiers,Mrs. Thorpe,,-0.4666666666666666,1,KendallTau
+scaled-booknlp-modifiers,Mrs. Clay,,0.19999999999999998,0,KendallTau
+scaled-booknlp-modifiers,Mrs. Clay,,0.06666666666666667,1,KendallTau
+scaled-booknlp-modifiers,Robert Ferrars,,0.24444444444444444,0,KendallTau
+scaled-booknlp-modifiers,Robert Ferrars,,0.1111111111111111,1,KendallTau
+scaled-booknlp-modifiers,Robert Martin,,-0.15555555555555553,0,KendallTau
+scaled-booknlp-modifiers,Robert Martin,,0.19999999999999998,1,KendallTau
+scaled-booknlp-modifiers,Sir John Middleton,,-0.24444444444444444,0,KendallTau
+scaled-booknlp-modifiers,Sir John Middleton,,-0.19999999999999998,1,KendallTau
+scaled-booknlp-modifiers,Sir Thomas Bertram,,0.4222222222222222,0,KendallTau
+scaled-booknlp-modifiers,Sir Thomas Bertram,,0.37777777777777777,1,KendallTau
+scaled-booknlp-modifiers,Sir Walter Elliot,,-0.022222222222222223,0,KendallTau
+scaled-booknlp-modifiers,Sir Walter Elliot,,-0.15555555555555553,1,KendallTau
+scaled-booknlp-modifiers,Sir William Lucas,,-0.37777777777777777,0,KendallTau
+scaled-booknlp-modifiers,Sir William Lucas,,-0.06666666666666667,1,KendallTau
+scaled-booknlp-modifiers,Susan Price,,0.37777777777777777,0,KendallTau
+scaled-booknlp-modifiers,Susan Price,,-0.19999999999999998,1,KendallTau
+scaled-booknlp-modifiers,William Elliot,,0.24444444444444444,0,KendallTau
+scaled-booknlp-modifiers,William Elliot,,0.8222222222222221,1,KendallTau
+scaled-booknlp-modifiers,William Price,,0.1111111111111111,0,KendallTau
+scaled-booknlp-modifiers,William Price,,0.15555555555555553,1,KendallTau

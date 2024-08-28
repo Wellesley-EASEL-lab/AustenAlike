@@ -1,0 +1,851 @@
+dataset,Top_in_group,comparison,category,exclude,novel,character,top,topNovel
+scaled-booknlp-quotes,1,gender,F,0,E,Anna Weston,Emma Woodhouse,E
+scaled-booknlp-quotes,1,gender,F,0,E,Augusta Elton,Miss Bates,E
+scaled-booknlp-quotes,0,gender,F,0,E,Emma Woodhouse,George Knightley,E
+scaled-booknlp-quotes,1,gender,F,0,E,Harriet Smith,Emma Woodhouse,E
+scaled-booknlp-quotes,1,gender,F,0,E,Isabella Knightley,Mrs. Thorpe,N
+scaled-booknlp-quotes,1,gender,F,0,E,Jane Fairfax,Miss Bates,E
+scaled-booknlp-quotes,1,gender,F,0,E,Miss Bates,Augusta Elton,E
+scaled-booknlp-quotes,1,gender,F,0,E,Mrs. Cole,Elinor Dashwood,S&S
+scaled-booknlp-quotes,1,gender,F,0,MP,Fanny Price,Catherine Morland,N
+scaled-booknlp-quotes,1,gender,F,0,MP,Julia Bertram,Maria Bertram,MP
+scaled-booknlp-quotes,1,gender,F,0,MP,Lady Bertram,Fanny Price,MP
+scaled-booknlp-quotes,0,gender,F,0,MP,Maria Bertram,Sir Thomas Bertram,MP
+scaled-booknlp-quotes,0,gender,F,0,MP,Mary Crawford,Henry Crawford,MP
+scaled-booknlp-quotes,1,gender,F,0,MP,Mrs. Grant,Mary Crawford,MP
+scaled-booknlp-quotes,1,gender,F,0,MP,Mrs. Norris,Augusta Elton,E
+scaled-booknlp-quotes,1,gender,F,0,MP,Mrs. Price,Susan Price,MP
+scaled-booknlp-quotes,1,gender,F,0,MP,Susan Price,Mrs. Price,MP
+scaled-booknlp-quotes,1,gender,F,0,N,Catherine Morland,Fanny Price,MP
+scaled-booknlp-quotes,0,gender,F,0,N,Eleanor Tilney,Henry Tilney,N
+scaled-booknlp-quotes,1,gender,F,0,N,Isabella Thorpe,Eleanor Tilney,N
+scaled-booknlp-quotes,1,gender,F,0,N,Mrs. Allen,Catherine Morland,N
+scaled-booknlp-quotes,1,gender,F,0,N,Mrs. Morland,Isabella Knightley,E
+scaled-booknlp-quotes,1,gender,F,0,N,Mrs. Thorpe,Lady Lucas,P&P
+scaled-booknlp-quotes,1,gender,F,0,P,Anne Elliot,Mrs. Smith,P
+scaled-booknlp-quotes,0,gender,F,0,P,Elizabeth Elliot,William Elliot,P
+scaled-booknlp-quotes,0,gender,F,0,P,Henrietta Musgrove,Charles Musgrove,P
+scaled-booknlp-quotes,0,gender,F,0,P,Lady Russell,Sir Walter Elliot,P
+scaled-booknlp-quotes,0,gender,F,0,P,Louisa Musgrove,Charles Musgrove,P
+scaled-booknlp-quotes,0,gender,F,0,P,Mary Musgrove,Charles Musgrove,P
+scaled-booknlp-quotes,0,gender,F,0,P,Mrs. Clay,Mr. Shepherd,P
+scaled-booknlp-quotes,0,gender,F,0,P,Mrs. Croft,Admiral Croft,P
+scaled-booknlp-quotes,0,gender,F,0,P,Mrs. Harville,Charles Musgrove,P
+scaled-booknlp-quotes,1,gender,F,0,P,Mrs. Smith,Anne Elliot,P
+scaled-booknlp-quotes,1,gender,F,0,P&P,Caroline Bingley,Mrs. Bennet,P&P
+scaled-booknlp-quotes,1,gender,F,0,P&P,Charlotte Lucas,Mrs. Bennet,P&P
+scaled-booknlp-quotes,1,gender,F,0,P&P,Elizabeth Bennet,Jane Bennet,P&P
+scaled-booknlp-quotes,1,gender,F,0,P&P,Georgiana Darcy,Mary Bennet,P&P
+scaled-booknlp-quotes,1,gender,F,0,P&P,Jane Bennet,Elizabeth Bennet,P&P
+scaled-booknlp-quotes,1,gender,F,0,P&P,Lady Catherine de Bourgh,Mrs. Bennet,P&P
+scaled-booknlp-quotes,1,gender,F,0,P&P,Lady Lucas,Lady Middleton,S&S
+scaled-booknlp-quotes,1,gender,F,0,P&P,Lydia Bennet,Mrs. Bennet,P&P
+scaled-booknlp-quotes,0,gender,F,0,P&P,Mary Bennet,Fitzwilliam Darcy,P&P
+scaled-booknlp-quotes,1,gender,F,0,P&P,Mrs. Bennet,Lady Catherine de Bourgh,P&P
+scaled-booknlp-quotes,1,gender,F,0,P&P,Mrs. Gardiner,Jane Bennet,P&P
+scaled-booknlp-quotes,0,gender,F,0,P&P,Mrs. Hurst,Thomas Palmer,S&S
+scaled-booknlp-quotes,1,gender,F,0,S&S,Charlotte Palmer,Mrs. Jennings,S&S
+scaled-booknlp-quotes,1,gender,F,0,S&S,Elinor Dashwood,Marianne Dashwood,S&S
+scaled-booknlp-quotes,1,gender,F,0,S&S,Fanny Dashwood,Miss Bates,E
+scaled-booknlp-quotes,1,gender,F,0,S&S,Lady Middleton,Lady Lucas,P&P
+scaled-booknlp-quotes,1,gender,F,0,S&S,Lucy Steele,Elinor Dashwood,S&S
+scaled-booknlp-quotes,1,gender,F,0,S&S,Margaret Dashwood,Marianne Dashwood,S&S
+scaled-booknlp-quotes,1,gender,F,0,S&S,Marianne Dashwood,Elinor Dashwood,S&S
+scaled-booknlp-quotes,1,gender,F,0,S&S,Mrs. Dashwood,Elinor Dashwood,S&S
+scaled-booknlp-quotes,0,gender,F,0,S&S,Mrs. Jennings,Sir John Middleton,S&S
+scaled-booknlp-quotes,1,gender,M,0,E,Frank Churchill,Mr. Weston,E
+scaled-booknlp-quotes,0,gender,M,0,E,George Knightley,Emma Woodhouse,E
+scaled-booknlp-quotes,0,gender,M,0,E,Mr. Weston,Mrs. Jennings,S&S
+scaled-booknlp-quotes,0,gender,M,0,E,Mr. Woodhouse,Augusta Elton,E
+scaled-booknlp-quotes,0,gender,M,0,E,Philip Elton,Augusta Elton,E
+scaled-booknlp-quotes,1,gender,M,0,MP,Dr. Grant,General Tilney,N
+scaled-booknlp-quotes,1,gender,M,0,MP,Edmund Bertram,Sir Thomas Bertram,MP
+scaled-booknlp-quotes,0,gender,M,0,MP,Henry Crawford,Mary Crawford,MP
+scaled-booknlp-quotes,1,gender,M,0,MP,Mr. Rushworth,Mr. Yates,MP
+scaled-booknlp-quotes,1,gender,M,0,MP,Mr. Yates,Mr. Rushworth,MP
+scaled-booknlp-quotes,0,gender,M,0,MP,Sir Thomas Bertram,Fanny Price,MP
+scaled-booknlp-quotes,0,gender,M,0,MP,William Price,Mrs. Norris,MP
+scaled-booknlp-quotes,1,gender,M,0,N,Frederick Tilney,Mr. Hurst,P&P
+scaled-booknlp-quotes,0,gender,M,0,N,General Tilney,Catherine Morland,N
+scaled-booknlp-quotes,0,gender,M,0,N,Henry Tilney,Catherine Morland,N
+scaled-booknlp-quotes,0,gender,M,0,N,James Morland,Catherine Morland,N
+scaled-booknlp-quotes,1,gender,M,0,N,John Thorpe,Henry Crawford,MP
+scaled-booknlp-quotes,0,gender,M,0,N,Mr. Allen,Eleanor Tilney,N
+scaled-booknlp-quotes,1,gender,M,0,P,Admiral Croft,Charles Musgrove,P
+scaled-booknlp-quotes,0,gender,M,0,P,Captain Benwick,Lady Lucas,P&P
+scaled-booknlp-quotes,1,gender,M,0,P,Captain Harville,Captain Wentworth,P
+scaled-booknlp-quotes,0,gender,M,0,P,Charles Musgrove,Mary Musgrove,P
+scaled-booknlp-quotes,1,gender,M,0,P,Mr. Shepherd,Sir Walter Elliot,P
+scaled-booknlp-quotes,1,gender,M,0,P,Sir Walter Elliot,Mr. Shepherd,P
+scaled-booknlp-quotes,0,gender,M,0,P,William Elliot,Mrs. Smith,P
+scaled-booknlp-quotes,1,gender,M,0,P,Captain Wentworth,John Willoughby,S&S
+scaled-booknlp-quotes,1,gender,M,0,P&P,Charles Bingley,Sir William Lucas,P&P
+scaled-booknlp-quotes,0,gender,M,0,P&P,Colonel Fitzwilliam,Elizabeth Bennet,P&P
+scaled-booknlp-quotes,0,gender,M,0,P&P,Mr. Gardiner,Lady Catherine de Bourgh,P&P
+scaled-booknlp-quotes,0,gender,M,0,P&P,Fitzwilliam Darcy,Elizabeth Bennet,P&P
+scaled-booknlp-quotes,0,gender,M,0,P&P,George Wickham,Elizabeth Bennet,P&P
+scaled-booknlp-quotes,0,gender,M,0,P&P,Mr. Bennet,Charlotte Lucas,P&P
+scaled-booknlp-quotes,0,gender,M,0,P&P,Mr. Hurst,Lady Lucas,P&P
+scaled-booknlp-quotes,1,gender,M,0,P&P,Sir William Lucas,Charles Bingley,P&P
+scaled-booknlp-quotes,0,gender,M,0,P&P,William Collins,Mrs. Bennet,P&P
+scaled-booknlp-quotes,0,gender,M,0,S&S,Colonel Brandon,Elinor Dashwood,S&S
+scaled-booknlp-quotes,0,gender,M,0,S&S,Edward Ferrars,Elinor Dashwood,S&S
+scaled-booknlp-quotes,0,gender,M,0,S&S,John Dashwood,Mrs. Dashwood,S&S
+scaled-booknlp-quotes,0,gender,M,0,S&S,John Willoughby,Elinor Dashwood,S&S
+scaled-booknlp-quotes,0,gender,M,0,S&S,Robert Ferrars,Mrs. Smith,P
+scaled-booknlp-quotes,0,gender,M,0,S&S,Sir John Middleton,Mrs. Jennings,S&S
+scaled-booknlp-quotes,0,gender,M,0,S&S,Thomas Palmer,Catherine Morland,N
+scaled-booknlp-quotes,0,age,17,0,E,Harriet Smith,Emma Woodhouse,E
+scaled-booknlp-quotes,0,age,17,0,N,Catherine Morland,Fanny Price,MP
+scaled-booknlp-quotes,0,age,17,0,S&S,Marianne Dashwood,Elinor Dashwood,S&S
+scaled-booknlp-quotes,0,age,17,0,MP,Susan Price,Mrs. Price,MP
+scaled-booknlp-quotes,0,age,17,0,P&P,Georgiana Darcy,Mary Bennet,P&P
+scaled-booknlp-quotes,0,age,17,0,P&P,Lydia Bennet,Mrs. Bennet,P&P
+scaled-booknlp-quotes,1,age,17,0,S&S,Margaret Dashwood,Marianne Dashwood,S&S
+scaled-booknlp-quotes,0,age,20,0,E,Emma Woodhouse,George Knightley,E
+scaled-booknlp-quotes,0,age,20,0,E,Jane Fairfax,Miss Bates,E
+scaled-booknlp-quotes,0,age,20,0,MP,Julia Bertram,Maria Bertram,MP
+scaled-booknlp-quotes,0,age,20,0,N,James Morland,Catherine Morland,N
+scaled-booknlp-quotes,0,age,20,0,N,John Thorpe,Henry Crawford,MP
+scaled-booknlp-quotes,0,age,20,0,P,Henrietta Musgrove,Charles Musgrove,P
+scaled-booknlp-quotes,0,age,20,0,P&P,Elizabeth Bennet,Jane Bennet,P&P
+scaled-booknlp-quotes,0,age,20,0,MP,Fanny Price,Catherine Morland,N
+scaled-booknlp-quotes,0,age,20,0,MP,William Price,Mrs. Norris,MP
+scaled-booknlp-quotes,0,age,20,0,N,Isabella Thorpe,Eleanor Tilney,N
+scaled-booknlp-quotes,0,age,20,0,P,Louisa Musgrove,Charles Musgrove,P
+scaled-booknlp-quotes,0,age,20,0,P&P,Mary Bennet,Fitzwilliam Darcy,P&P
+scaled-booknlp-quotes,0,age,20,0,S&S,Elinor Dashwood,Marianne Dashwood,S&S
+scaled-booknlp-quotes,0,age,24,0,E,Isabella Knightley,Mrs. Thorpe,N
+scaled-booknlp-quotes,0,age,24,0,N,Eleanor Tilney,Henry Tilney,N
+scaled-booknlp-quotes,0,age,24,0,P,Mary Musgrove,Charles Musgrove,P
+scaled-booknlp-quotes,0,age,24,0,S&S,Edward Ferrars,Elinor Dashwood,S&S
+scaled-booknlp-quotes,0,age,24,0,MP,Edmund Bertram,Sir Thomas Bertram,MP
+scaled-booknlp-quotes,0,age,24,0,MP,Maria Bertram,Sir Thomas Bertram,MP
+scaled-booknlp-quotes,0,age,24,0,P&P,Charles Bingley,Sir William Lucas,P&P
+scaled-booknlp-quotes,0,age,24,0,P&P,Jane Bennet,Elizabeth Bennet,P&P
+scaled-booknlp-quotes,0,age,24,0,S&S,Lucy Steele,Elinor Dashwood,S&S
+scaled-booknlp-quotes,0,age,24,0,S&S,Robert Ferrars,Mrs. Smith,P
+scaled-booknlp-quotes,0,age,24,0,E,Augusta Elton,Miss Bates,E
+scaled-booknlp-quotes,1,age,24,0,MP,Henry Crawford,Mary Crawford,MP
+scaled-booknlp-quotes,0,age,24,0,P&P,Caroline Bingley,Mrs. Bennet,P&P
+scaled-booknlp-quotes,0,age,24,0,S&S,Charlotte Palmer,Mrs. Jennings,S&S
+scaled-booknlp-quotes,1,age,24,0,MP,Mary Crawford,Henry Crawford,MP
+scaled-booknlp-quotes,0,age,27,0,E,Frank Churchill,Mr. Weston,E
+scaled-booknlp-quotes,0,age,27,0,N,Henry Tilney,Catherine Morland,N
+scaled-booknlp-quotes,0,age,27,0,P&P,William Collins,Mrs. Bennet,P&P
+scaled-booknlp-quotes,0,age,27,0,S&S,John Willoughby,Elinor Dashwood,S&S
+scaled-booknlp-quotes,0,age,27,0,S&S,Thomas Palmer,Catherine Morland,N
+scaled-booknlp-quotes,0,age,27,0,E,Philip Elton,Augusta Elton,E
+scaled-booknlp-quotes,0,age,27,0,P,William Elliot,Mrs. Smith,P
+scaled-booknlp-quotes,0,age,27,0,N,Frederick Tilney,Mr. Hurst,P&P
+scaled-booknlp-quotes,0,age,27,0,P,Anne Elliot,Mrs. Smith,P
+scaled-booknlp-quotes,0,age,27,0,P&P,Charlotte Lucas,Mrs. Bennet,P&P
+scaled-booknlp-quotes,1,age,27,0,MP,Mr. Rushworth,Mr. Yates,MP
+scaled-booknlp-quotes,1,age,27,0,MP,Mr. Yates,Mr. Rushworth,MP
+scaled-booknlp-quotes,1,age,27,0,P&P,Mrs. Hurst,Thomas Palmer,S&S
+scaled-booknlp-quotes,0,age,27,0,S&S,Fanny Dashwood,Miss Bates,E
+scaled-booknlp-quotes,0,age,27,0,P,Charles Musgrove,Mary Musgrove,P
+scaled-booknlp-quotes,0,age,27,0,P,Mrs. Clay,Mr. Shepherd,P
+scaled-booknlp-quotes,0,age,30,0,MP,Mrs. Grant,Mary Crawford,MP
+scaled-booknlp-quotes,0,age,30,0,P,Elizabeth Elliot,William Elliot,P
+scaled-booknlp-quotes,0,age,30,0,P,Mrs. Smith,Anne Elliot,P
+scaled-booknlp-quotes,0,age,30,0,P&P,Colonel Fitzwilliam,Elizabeth Bennet,P&P
+scaled-booknlp-quotes,0,age,30,0,P&P,Fitzwilliam Darcy,Elizabeth Bennet,P&P
+scaled-booknlp-quotes,0,age,30,0,P&P,George Wickham,Elizabeth Bennet,P&P
+scaled-booknlp-quotes,0,age,30,0,P,Mrs. Harville,Charles Musgrove,P
+scaled-booknlp-quotes,0,age,30,0,P&P,Mr. Hurst,Lady Lucas,P&P
+scaled-booknlp-quotes,0,age,30,0,S&S,John Dashwood,Mrs. Dashwood,S&S
+scaled-booknlp-quotes,0,age,30,0,S&S,Lady Middleton,Lady Lucas,P&P
+scaled-booknlp-quotes,0,age,30,0,P,Captain Benwick,Lady Lucas,P&P
+scaled-booknlp-quotes,0,age,40,0,E,George Knightley,Emma Woodhouse,E
+scaled-booknlp-quotes,0,age,40,0,P,Mrs. Croft,Admiral Croft,P
+scaled-booknlp-quotes,0,age,40,0,P,Captain Wentworth,John Willoughby,S&S
+scaled-booknlp-quotes,0,age,40,0,S&S,Colonel Brandon,Elinor Dashwood,S&S
+scaled-booknlp-quotes,0,age,40,0,S&S,Mrs. Dashwood,Elinor Dashwood,S&S
+scaled-booknlp-quotes,0,age,40,0,E,Anna Weston,Emma Woodhouse,E
+scaled-booknlp-quotes,0,age,40,0,E,Miss Bates,Augusta Elton,E
+scaled-booknlp-quotes,0,age,40,0,E,Mrs. Cole,Elinor Dashwood,S&S
+scaled-booknlp-quotes,0,age,40,0,N,Mrs. Allen,Catherine Morland,N
+scaled-booknlp-quotes,0,age,40,0,S&S,Sir John Middleton,Mrs. Jennings,S&S
+scaled-booknlp-quotes,1,age,40,0,P,Captain Harville,Captain Wentworth,P
+scaled-booknlp-quotes,0,age,50,0,MP,Dr. Grant,General Tilney,N
+scaled-booknlp-quotes,0,age,50,0,E,Mr. Weston,Mrs. Jennings,S&S
+scaled-booknlp-quotes,0,age,50,0,MP,Mrs. Norris,Augusta Elton,E
+scaled-booknlp-quotes,1,age,50,0,P&P,Mr. Gardiner,Lady Catherine de Bourgh,P&P
+scaled-booknlp-quotes,0,age,50,0,N,Mr. Allen,Eleanor Tilney,N
+scaled-booknlp-quotes,0,age,50,0,N,Mrs. Morland,Isabella Knightley,E
+scaled-booknlp-quotes,0,age,50,0,N,Mrs. Thorpe,Lady Lucas,P&P
+scaled-booknlp-quotes,0,age,50,0,P,Admiral Croft,Charles Musgrove,P
+scaled-booknlp-quotes,0,age,50,0,MP,Lady Bertram,Fanny Price,MP
+scaled-booknlp-quotes,0,age,50,0,P,Mr. Shepherd,Sir Walter Elliot,P
+scaled-booknlp-quotes,1,age,50,0,P&P,Lady Catherine de Bourgh,Mrs. Bennet,P&P
+scaled-booknlp-quotes,1,age,50,0,P&P,Mrs. Bennet,Lady Catherine de Bourgh,P&P
+scaled-booknlp-quotes,0,age,50,0,MP,Mrs. Price,Susan Price,MP
+scaled-booknlp-quotes,0,age,50,0,P&P,Mrs. Gardiner,Jane Bennet,P&P
+scaled-booknlp-quotes,0,age,60,0,P,Sir Walter Elliot,Mr. Shepherd,P
+scaled-booknlp-quotes,0,age,60,0,E,Mr. Woodhouse,Augusta Elton,E
+scaled-booknlp-quotes,0,age,60,0,MP,Sir Thomas Bertram,Fanny Price,MP
+scaled-booknlp-quotes,0,age,60,0,N,General Tilney,Catherine Morland,N
+scaled-booknlp-quotes,0,age,60,0,S&S,Mrs. Jennings,Sir John Middleton,S&S
+scaled-booknlp-quotes,1,age,60,0,P,Lady Russell,Sir Walter Elliot,P
+scaled-booknlp-quotes,0,age,60,0,P&P,Lady Lucas,Lady Middleton,S&S
+scaled-booknlp-quotes,0,age,60,0,P&P,Mr. Bennet,Charlotte Lucas,P&P
+scaled-booknlp-quotes,0,age,60,0,P&P,Sir William Lucas,Charles Bingley,P&P
+scaled-booknlp-quotes,0,rank,new gentle,0,E,Anna Weston,Emma Woodhouse,E
+scaled-booknlp-quotes,0,rank,new gentle,0,E,Augusta Elton,Miss Bates,E
+scaled-booknlp-quotes,0,rank,new gentle,0,E,Mr. Weston,Mrs. Jennings,S&S
+scaled-booknlp-quotes,0,rank,new gentle,0,E,Mrs. Cole,Elinor Dashwood,S&S
+scaled-booknlp-quotes,0,rank,new gentle,0,MP,Fanny Price,Catherine Morland,N
+scaled-booknlp-quotes,1,rank,gentle,0,E,Emma Woodhouse,George Knightley,E
+scaled-booknlp-quotes,0,rank,gentle,0,E,Frank Churchill,Mr. Weston,E
+scaled-booknlp-quotes,1,rank,gentle,0,E,George Knightley,Emma Woodhouse,E
+scaled-booknlp-quotes,1,rank,gentle,0,E,Jane Fairfax,Miss Bates,E
+scaled-booknlp-quotes,0,rank,gentle,0,E,Miss Bates,Augusta Elton,E
+scaled-booknlp-quotes,0,rank,gentle,0,E,Mr. Woodhouse,Augusta Elton,E
+scaled-booknlp-quotes,1,rank,gentle,0,MP,Henry Crawford,Mary Crawford,MP
+scaled-booknlp-quotes,1,rank,gentle,0,MP,Mary Crawford,Henry Crawford,MP
+scaled-booknlp-quotes,0,rank,gentle,0,MP,Mr. Rushworth,Mr. Yates,MP
+scaled-booknlp-quotes,0,rank,gentle,0,N,Eleanor Tilney,Henry Tilney,N
+scaled-booknlp-quotes,0,rank,gentle,0,N,General Tilney,Catherine Morland,N
+scaled-booknlp-quotes,1,rank,gentle,0,N,Isabella Thorpe,Eleanor Tilney,N
+scaled-booknlp-quotes,1,rank,gentle,0,N,John Thorpe,Henry Crawford,MP
+scaled-booknlp-quotes,1,rank,gentle,0,N,Mr. Allen,Eleanor Tilney,N
+scaled-booknlp-quotes,0,rank,gentle,0,N,Mrs. Allen,Catherine Morland,N
+scaled-booknlp-quotes,0,rank,gentle,0,N,Mrs. Thorpe,Lady Lucas,P&P
+scaled-booknlp-quotes,0,rank,gentle,0,P,Charles Musgrove,Mary Musgrove,P
+scaled-booknlp-quotes,1,rank,gentle,0,P,Henrietta Musgrove,Charles Musgrove,P
+scaled-booknlp-quotes,1,rank,gentle,0,P,Louisa Musgrove,Charles Musgrove,P
+scaled-booknlp-quotes,0,rank,gentle,0,P,Mrs. Smith,Anne Elliot,P
+scaled-booknlp-quotes,1,rank,gentle,0,P,William Elliot,Mrs. Smith,P
+scaled-booknlp-quotes,1,rank,gentle,0,P&P,Caroline Bingley,Mrs. Bennet,P&P
+scaled-booknlp-quotes,0,rank,gentle,0,P&P,Charles Bingley,Sir William Lucas,P&P
+scaled-booknlp-quotes,1,rank,gentle,0,P&P,Charlotte Lucas,Mrs. Bennet,P&P
+scaled-booknlp-quotes,1,rank,gentle,0,P&P,Elizabeth Bennet,Jane Bennet,P&P
+scaled-booknlp-quotes,1,rank,gentle,0,P&P,Fitzwilliam Darcy,Elizabeth Bennet,P&P
+scaled-booknlp-quotes,1,rank,gentle,0,P&P,Georgiana Darcy,Mary Bennet,P&P
+scaled-booknlp-quotes,1,rank,gentle,0,P&P,Jane Bennet,Elizabeth Bennet,P&P
+scaled-booknlp-quotes,1,rank,gentle,0,P&P,Lydia Bennet,Mrs. Bennet,P&P
+scaled-booknlp-quotes,1,rank,gentle,0,P&P,Mary Bennet,Fitzwilliam Darcy,P&P
+scaled-booknlp-quotes,1,rank,gentle,0,P&P,Mr. Bennet,Charlotte Lucas,P&P
+scaled-booknlp-quotes,0,rank,gentle,0,P&P,Mrs. Bennet,Lady Catherine de Bourgh,P&P
+scaled-booknlp-quotes,1,rank,gentle,0,P&P,Mrs. Hurst,Thomas Palmer,S&S
+scaled-booknlp-quotes,0,rank,gentle,0,P&P,Mr. Hurst,Lady Lucas,P&P
+scaled-booknlp-quotes,0,rank,gentle,0,S&S,Charlotte Palmer,Mrs. Jennings,S&S
+scaled-booknlp-quotes,1,rank,gentle,0,S&S,Elinor Dashwood,Marianne Dashwood,S&S
+scaled-booknlp-quotes,1,rank,gentle,0,S&S,Fanny Dashwood,Miss Bates,E
+scaled-booknlp-quotes,1,rank,gentle,0,S&S,John Dashwood,Mrs. Dashwood,S&S
+scaled-booknlp-quotes,1,rank,gentle,0,S&S,John Willoughby,Elinor Dashwood,S&S
+scaled-booknlp-quotes,1,rank,gentle,0,S&S,Margaret Dashwood,Marianne Dashwood,S&S
+scaled-booknlp-quotes,1,rank,gentle,0,S&S,Marianne Dashwood,Elinor Dashwood,S&S
+scaled-booknlp-quotes,1,rank,gentle,0,S&S,Mrs. Dashwood,Elinor Dashwood,S&S
+scaled-booknlp-quotes,1,rank,gentle,0,S&S,Robert Ferrars,Mrs. Smith,P
+scaled-booknlp-quotes,0,rank,gentle,0,S&S,Thomas Palmer,Catherine Morland,N
+scaled-booknlp-quotes,0,rank,profession,0,E,Harriet Smith,Emma Woodhouse,E
+scaled-booknlp-quotes,0,rank,profession,0,E,Isabella Knightley,Mrs. Thorpe,N
+scaled-booknlp-quotes,0,rank,profession,0,P,Mr. Shepherd,Sir Walter Elliot,P
+scaled-booknlp-quotes,1,rank,profession,0,P,Mrs. Clay,Mr. Shepherd,P
+scaled-booknlp-quotes,0,rank,profession,0,P&P,Mr. Gardiner,Lady Catherine de Bourgh,P&P
+scaled-booknlp-quotes,0,rank,profession,0,P&P,Mrs. Gardiner,Jane Bennet,P&P
+scaled-booknlp-quotes,0,rank,profession,0,S&S,Lucy Steele,Elinor Dashwood,S&S
+scaled-booknlp-quotes,0,rank,profession,0,S&S,Mrs. Jennings,Sir John Middleton,S&S
+scaled-booknlp-quotes,0,rank,clergy,0,E,Philip Elton,Augusta Elton,E
+scaled-booknlp-quotes,0,rank,clergy,0,MP,Dr. Grant,General Tilney,N
+scaled-booknlp-quotes,0,rank,clergy,0,MP,Edmund Bertram,Sir Thomas Bertram,MP
+scaled-booknlp-quotes,0,rank,clergy,0,MP,Mrs. Grant,Mary Crawford,MP
+scaled-booknlp-quotes,0,rank,clergy,0,MP,Mrs. Norris,Augusta Elton,E
+scaled-booknlp-quotes,0,rank,clergy,0,N,Catherine Morland,Fanny Price,MP
+scaled-booknlp-quotes,1,rank,clergy,0,N,Henry Tilney,Catherine Morland,N
+scaled-booknlp-quotes,1,rank,clergy,0,N,James Morland,Catherine Morland,N
+scaled-booknlp-quotes,0,rank,clergy,0,N,Mrs. Morland,Isabella Knightley,E
+scaled-booknlp-quotes,0,rank,clergy,0,P&P,William Collins,Mrs. Bennet,P&P
+scaled-booknlp-quotes,0,rank,clergy,0,S&S,Edward Ferrars,Elinor Dashwood,S&S
+scaled-booknlp-quotes,1,rank,gentry,0,MP,Julia Bertram,Maria Bertram,MP
+scaled-booknlp-quotes,0,rank,gentry,0,MP,Lady Bertram,Fanny Price,MP
+scaled-booknlp-quotes,1,rank,gentry,0,MP,Maria Bertram,Sir Thomas Bertram,MP
+scaled-booknlp-quotes,0,rank,gentry,0,MP,Mr. Yates,Mr. Rushworth,MP
+scaled-booknlp-quotes,0,rank,gentry,0,MP,Sir Thomas Bertram,Fanny Price,MP
+scaled-booknlp-quotes,0,rank,gentry,0,P,Anne Elliot,Mrs. Smith,P
+scaled-booknlp-quotes,0,rank,gentry,0,P,Elizabeth Elliot,William Elliot,P
+scaled-booknlp-quotes,1,rank,gentry,0,P,Lady Russell,Sir Walter Elliot,P
+scaled-booknlp-quotes,0,rank,gentry,0,P,Mary Musgrove,Charles Musgrove,P
+scaled-booknlp-quotes,0,rank,gentry,0,P,Sir Walter Elliot,Mr. Shepherd,P
+scaled-booknlp-quotes,1,rank,gentry,0,P&P,Lady Lucas,Lady Middleton,S&S
+scaled-booknlp-quotes,0,rank,gentry,0,P&P,Sir William Lucas,Charles Bingley,P&P
+scaled-booknlp-quotes,1,rank,gentry,0,S&S,Lady Middleton,Lady Lucas,P&P
+scaled-booknlp-quotes,0,rank,gentry,0,S&S,Sir John Middleton,Mrs. Jennings,S&S
+scaled-booknlp-quotes,1,rank,soldier,0,MP,Mrs. Price,Susan Price,MP
+scaled-booknlp-quotes,1,rank,soldier,0,MP,Susan Price,Mrs. Price,MP
+scaled-booknlp-quotes,0,rank,soldier,0,MP,William Price,Mrs. Norris,MP
+scaled-booknlp-quotes,0,rank,soldier,0,N,Frederick Tilney,Mr. Hurst,P&P
+scaled-booknlp-quotes,0,rank,soldier,0,P,Admiral Croft,Charles Musgrove,P
+scaled-booknlp-quotes,0,rank,soldier,0,P,Captain Benwick,Lady Lucas,P&P
+scaled-booknlp-quotes,1,rank,soldier,0,P,Captain Harville,Captain Wentworth,P
+scaled-booknlp-quotes,1,rank,soldier,0,P,Mrs. Croft,Admiral Croft,P
+scaled-booknlp-quotes,0,rank,soldier,0,P,Mrs. Harville,Charles Musgrove,P
+scaled-booknlp-quotes,0,rank,soldier,0,P,Captain Wentworth,John Willoughby,S&S
+scaled-booknlp-quotes,0,rank,soldier,0,P&P,George Wickham,Elizabeth Bennet,P&P
+scaled-booknlp-quotes,0,rank,soldier,0,S&S,Colonel Brandon,Elinor Dashwood,S&S
+scaled-booknlp-quotes,0,rank,peer,0,P&P,Colonel Fitzwilliam,Elizabeth Bennet,P&P
+scaled-booknlp-quotes,0,rank,peer,0,P&P,Lady Catherine de Bourgh,Mrs. Bennet,P&P
+scaled-booknlp-quotes,0,maritalStatus,M,0,E,Anna Weston,Emma Woodhouse,E
+scaled-booknlp-quotes,0,maritalStatus,M,0,E,Augusta Elton,Miss Bates,E
+scaled-booknlp-quotes,0,maritalStatus,M,0,E,Isabella Knightley,Mrs. Thorpe,N
+scaled-booknlp-quotes,0,maritalStatus,M,0,E,Mr. Weston,Mrs. Jennings,S&S
+scaled-booknlp-quotes,0,maritalStatus,M,0,E,Mrs. Cole,Elinor Dashwood,S&S
+scaled-booknlp-quotes,0,maritalStatus,M,0,MP,Dr. Grant,General Tilney,N
+scaled-booknlp-quotes,0,maritalStatus,M,0,MP,Lady Bertram,Fanny Price,MP
+scaled-booknlp-quotes,0,maritalStatus,M,0,MP,Mrs. Grant,Mary Crawford,MP
+scaled-booknlp-quotes,0,maritalStatus,M,0,MP,Mrs. Price,Susan Price,MP
+scaled-booknlp-quotes,0,maritalStatus,M,0,MP,Sir Thomas Bertram,Fanny Price,MP
+scaled-booknlp-quotes,0,maritalStatus,M,0,MP,William Price,Mrs. Norris,MP
+scaled-booknlp-quotes,0,maritalStatus,M,0,N,Mr. Allen,Eleanor Tilney,N
+scaled-booknlp-quotes,0,maritalStatus,M,0,N,Mrs. Allen,Catherine Morland,N
+scaled-booknlp-quotes,1,maritalStatus,M,0,N,Mrs. Morland,Isabella Knightley,E
+scaled-booknlp-quotes,1,maritalStatus,M,0,P,Admiral Croft,Charles Musgrove,P
+scaled-booknlp-quotes,0,maritalStatus,M,0,P,Captain Harville,Captain Wentworth,P
+scaled-booknlp-quotes,0,maritalStatus,M,0,P,Charles Musgrove,Mary Musgrove,P
+scaled-booknlp-quotes,1,maritalStatus,M,0,P,Mrs. Croft,Admiral Croft,P
+scaled-booknlp-quotes,1,maritalStatus,M,0,P,Mrs. Harville,Charles Musgrove,P
+scaled-booknlp-quotes,0,maritalStatus,M,0,P,Sir Walter Elliot,Mr. Shepherd,P
+scaled-booknlp-quotes,0,maritalStatus,M,0,P&P,Colonel Fitzwilliam,Elizabeth Bennet,P&P
+scaled-booknlp-quotes,0,maritalStatus,M,0,P&P,Mr. Gardiner,Lady Catherine de Bourgh,P&P
+scaled-booknlp-quotes,1,maritalStatus,M,0,P&P,Lady Lucas,Lady Middleton,S&S
+scaled-booknlp-quotes,0,maritalStatus,M,0,P&P,Mr. Bennet,Charlotte Lucas,P&P
+scaled-booknlp-quotes,0,maritalStatus,M,0,P&P,Mrs. Bennet,Lady Catherine de Bourgh,P&P
+scaled-booknlp-quotes,0,maritalStatus,M,0,P&P,Mrs. Gardiner,Jane Bennet,P&P
+scaled-booknlp-quotes,1,maritalStatus,M,0,P&P,Mrs. Hurst,Thomas Palmer,S&S
+scaled-booknlp-quotes,1,maritalStatus,M,0,P&P,Mr. Hurst,Lady Lucas,P&P
+scaled-booknlp-quotes,0,maritalStatus,M,0,P&P,Sir William Lucas,Charles Bingley,P&P
+scaled-booknlp-quotes,0,maritalStatus,M,0,S&S,Charlotte Palmer,Mrs. Jennings,S&S
+scaled-booknlp-quotes,0,maritalStatus,M,0,S&S,Fanny Dashwood,Miss Bates,E
+scaled-booknlp-quotes,0,maritalStatus,M,0,S&S,John Dashwood,Mrs. Dashwood,S&S
+scaled-booknlp-quotes,1,maritalStatus,M,0,S&S,Lady Middleton,Lady Lucas,P&P
+scaled-booknlp-quotes,0,maritalStatus,M,0,S&S,Sir John Middleton,Mrs. Jennings,S&S
+scaled-booknlp-quotes,0,maritalStatus,M,0,S&S,Thomas Palmer,Catherine Morland,N
+scaled-booknlp-quotes,1,maritalStatus,S,0,E,Emma Woodhouse,George Knightley,E
+scaled-booknlp-quotes,0,maritalStatus,S,0,E,Frank Churchill,Mr. Weston,E
+scaled-booknlp-quotes,1,maritalStatus,S,0,E,George Knightley,Emma Woodhouse,E
+scaled-booknlp-quotes,1,maritalStatus,S,0,E,Harriet Smith,Emma Woodhouse,E
+scaled-booknlp-quotes,1,maritalStatus,S,0,E,Jane Fairfax,Miss Bates,E
+scaled-booknlp-quotes,0,maritalStatus,S,0,E,Miss Bates,Augusta Elton,E
+scaled-booknlp-quotes,0,maritalStatus,S,0,MP,Edmund Bertram,Sir Thomas Bertram,MP
+scaled-booknlp-quotes,1,maritalStatus,S,0,MP,Fanny Price,Catherine Morland,N
+scaled-booknlp-quotes,1,maritalStatus,S,0,MP,Henry Crawford,Mary Crawford,MP
+scaled-booknlp-quotes,0,maritalStatus,S,0,MP,Julia Bertram,Maria Bertram,MP
+scaled-booknlp-quotes,1,maritalStatus,S,0,MP,Mary Crawford,Henry Crawford,MP
+scaled-booknlp-quotes,0,maritalStatus,S,0,MP,Mr. Yates,Mr. Rushworth,MP
+scaled-booknlp-quotes,0,maritalStatus,S,0,MP,Susan Price,Mrs. Price,MP
+scaled-booknlp-quotes,1,maritalStatus,S,0,N,Catherine Morland,Fanny Price,MP
+scaled-booknlp-quotes,1,maritalStatus,S,0,N,Eleanor Tilney,Henry Tilney,N
+scaled-booknlp-quotes,0,maritalStatus,S,0,N,Frederick Tilney,Mr. Hurst,P&P
+scaled-booknlp-quotes,1,maritalStatus,S,0,N,Henry Tilney,Catherine Morland,N
+scaled-booknlp-quotes,1,maritalStatus,S,0,N,Isabella Thorpe,Eleanor Tilney,N
+scaled-booknlp-quotes,1,maritalStatus,S,0,N,James Morland,Catherine Morland,N
+scaled-booknlp-quotes,1,maritalStatus,S,0,N,John Thorpe,Henry Crawford,MP
+scaled-booknlp-quotes,0,maritalStatus,S,0,P,Anne Elliot,Mrs. Smith,P
+scaled-booknlp-quotes,0,maritalStatus,S,0,P,Captain Benwick,Lady Lucas,P&P
+scaled-booknlp-quotes,0,maritalStatus,S,0,P,Elizabeth Elliot,William Elliot,P
+scaled-booknlp-quotes,0,maritalStatus,S,0,P,Henrietta Musgrove,Charles Musgrove,P
+scaled-booknlp-quotes,0,maritalStatus,S,0,P,Louisa Musgrove,Charles Musgrove,P
+scaled-booknlp-quotes,0,maritalStatus,S,0,P,Mary Musgrove,Charles Musgrove,P
+scaled-booknlp-quotes,0,maritalStatus,S,0,P,Captain Wentworth,John Willoughby,S&S
+scaled-booknlp-quotes,0,maritalStatus,S,0,P&P,Caroline Bingley,Mrs. Bennet,P&P
+scaled-booknlp-quotes,0,maritalStatus,S,0,P&P,Charles Bingley,Sir William Lucas,P&P
+scaled-booknlp-quotes,1,maritalStatus,S,0,P&P,Elizabeth Bennet,Jane Bennet,P&P
+scaled-booknlp-quotes,1,maritalStatus,S,0,P&P,Fitzwilliam Darcy,Elizabeth Bennet,P&P
+scaled-booknlp-quotes,1,maritalStatus,S,0,P&P,George Wickham,Elizabeth Bennet,P&P
+scaled-booknlp-quotes,1,maritalStatus,S,0,P&P,Georgiana Darcy,Mary Bennet,P&P
+scaled-booknlp-quotes,1,maritalStatus,S,0,P&P,Jane Bennet,Elizabeth Bennet,P&P
+scaled-booknlp-quotes,0,maritalStatus,S,0,P&P,Lydia Bennet,Mrs. Bennet,P&P
+scaled-booknlp-quotes,1,maritalStatus,S,0,P&P,Mary Bennet,Fitzwilliam Darcy,P&P
+scaled-booknlp-quotes,1,maritalStatus,S,0,S&S,Colonel Brandon,Elinor Dashwood,S&S
+scaled-booknlp-quotes,1,maritalStatus,S,0,S&S,Edward Ferrars,Elinor Dashwood,S&S
+scaled-booknlp-quotes,1,maritalStatus,S,0,S&S,Elinor Dashwood,Marianne Dashwood,S&S
+scaled-booknlp-quotes,1,maritalStatus,S,0,S&S,Lucy Steele,Elinor Dashwood,S&S
+scaled-booknlp-quotes,1,maritalStatus,S,0,S&S,Margaret Dashwood,Marianne Dashwood,S&S
+scaled-booknlp-quotes,1,maritalStatus,S,0,S&S,Marianne Dashwood,Elinor Dashwood,S&S
+scaled-booknlp-quotes,0,maritalStatus,S,0,S&S,Robert Ferrars,Mrs. Smith,P
+scaled-booknlp-quotes,0,maritalStatus,W,0,E,Mr. Woodhouse,Augusta Elton,E
+scaled-booknlp-quotes,0,maritalStatus,W,0,MP,Mrs. Norris,Augusta Elton,E
+scaled-booknlp-quotes,0,maritalStatus,W,0,N,General Tilney,Catherine Morland,N
+scaled-booknlp-quotes,0,maritalStatus,W,0,N,Mrs. Thorpe,Lady Lucas,P&P
+scaled-booknlp-quotes,0,maritalStatus,W,0,P,Lady Russell,Sir Walter Elliot,P
+scaled-booknlp-quotes,0,maritalStatus,W,0,P,Mr. Shepherd,Sir Walter Elliot,P
+scaled-booknlp-quotes,1,maritalStatus,W,0,P,Mrs. Clay,Mr. Shepherd,P
+scaled-booknlp-quotes,0,maritalStatus,W,0,P,Mrs. Smith,Anne Elliot,P
+scaled-booknlp-quotes,1,maritalStatus,W,0,P,William Elliot,Mrs. Smith,P
+scaled-booknlp-quotes,0,maritalStatus,W,0,P&P,Lady Catherine de Bourgh,Mrs. Bennet,P&P
+scaled-booknlp-quotes,0,maritalStatus,W,0,S&S,Mrs. Dashwood,Elinor Dashwood,S&S
+scaled-booknlp-quotes,0,maritalStatus,W,0,S&S,Mrs. Jennings,Sir John Middleton,S&S
+scaled-booknlp-quotes,0,maritalStatus,C,0,E,Philip Elton,Augusta Elton,E
+scaled-booknlp-quotes,0,maritalStatus,C,0,MP,Maria Bertram,Sir Thomas Bertram,MP
+scaled-booknlp-quotes,0,maritalStatus,C,0,MP,Mr. Rushworth,Mr. Yates,MP
+scaled-booknlp-quotes,0,maritalStatus,C,0,P&P,Charlotte Lucas,Mrs. Bennet,P&P
+scaled-booknlp-quotes,0,maritalStatus,C,0,P&P,William Collins,Mrs. Bennet,P&P
+scaled-booknlp-quotes,0,maritalStatus,C,0,S&S,John Willoughby,Elinor Dashwood,S&S
+scaled-booknlp-quotes,1,income,50,0,P&P,Elizabeth Bennet,Jane Bennet,P&P
+scaled-booknlp-quotes,1,income,50,0,P&P,Jane Bennet,Elizabeth Bennet,P&P
+scaled-booknlp-quotes,0,income,50,0,P&P,Lydia Bennet,Mrs. Bennet,P&P
+scaled-booknlp-quotes,0,income,50,0,P&P,Mary Bennet,Fitzwilliam Darcy,P&P
+scaled-booknlp-quotes,1,income,50,0,S&S,Elinor Dashwood,Marianne Dashwood,S&S
+scaled-booknlp-quotes,1,income,50,0,S&S,Margaret Dashwood,Marianne Dashwood,S&S
+scaled-booknlp-quotes,1,income,50,0,S&S,Marianne Dashwood,Elinor Dashwood,S&S
+scaled-booknlp-quotes,0,income,250,0,E,Miss Bates,Augusta Elton,E
+scaled-booknlp-quotes,0,income,250,0,S&S,Edward Ferrars,Elinor Dashwood,S&S
+scaled-booknlp-quotes,0,income,250,0,MP,Mrs. Grant,Mary Crawford,MP
+scaled-booknlp-quotes,0,income,250,0,N,Catherine Morland,Fanny Price,MP
+scaled-booknlp-quotes,0,income,250,0,P&P,George Wickham,Elizabeth Bennet,P&P
+scaled-booknlp-quotes,0,income,250,0,P&P,Mrs. Bennet,Lady Catherine de Bourgh,P&P
+scaled-booknlp-quotes,0,income,250,0,P,Captain Harville,Captain Wentworth,P
+scaled-booknlp-quotes,0,income,500,0,E,Augusta Elton,Miss Bates,E
+scaled-booknlp-quotes,0,income,500,0,P,Anne Elliot,Mrs. Smith,P
+scaled-booknlp-quotes,0,income,500,0,P,Elizabeth Elliot,William Elliot,P
+scaled-booknlp-quotes,0,income,500,0,P,Mary Musgrove,Charles Musgrove,P
+scaled-booknlp-quotes,0,income,500,0,MP,Lady Bertram,Fanny Price,MP
+scaled-booknlp-quotes,1,income,500,0,MP,Mrs. Norris,Augusta Elton,E
+scaled-booknlp-quotes,0,income,500,0,N,James Morland,Catherine Morland,N
+scaled-booknlp-quotes,0,income,500,0,S&S,Mrs. Dashwood,Elinor Dashwood,S&S
+scaled-booknlp-quotes,0,income,1000,0,MP,Dr. Grant,General Tilney,N
+scaled-booknlp-quotes,0,income,1000,0,MP,Mary Crawford,Henry Crawford,MP
+scaled-booknlp-quotes,0,income,1000,0,P&P,Caroline Bingley,Mrs. Bennet,P&P
+scaled-booknlp-quotes,0,income,1000,0,P&P,Mrs. Hurst,Thomas Palmer,S&S
+scaled-booknlp-quotes,0,income,1000,0,S&S,Robert Ferrars,Mrs. Smith,P
+scaled-booknlp-quotes,0,income,1000,0,MP,Edmund Bertram,Sir Thomas Bertram,MP
+scaled-booknlp-quotes,0,income,1000,0,P,Captain Benwick,Lady Lucas,P&P
+scaled-booknlp-quotes,0,income,1000,0,S&S,John Willoughby,Elinor Dashwood,S&S
+scaled-booknlp-quotes,0,income,3000,0,E,Emma Woodhouse,George Knightley,E
+scaled-booknlp-quotes,0,income,3000,0,P,Sir Walter Elliot,Mr. Shepherd,P
+scaled-booknlp-quotes,0,income,3000,0,P&P,Georgiana Darcy,Mary Bennet,P&P
+scaled-booknlp-quotes,0,income,3000,0,P,Captain Wentworth,John Willoughby,S&S
+scaled-booknlp-quotes,0,income,3000,0,S&S,Colonel Brandon,Elinor Dashwood,S&S
+scaled-booknlp-quotes,0,income,3000,0,P&P,Mr. Bennet,Charlotte Lucas,P&P
+scaled-booknlp-quotes,0,income,15000,0,MP,Henry Crawford,Mary Crawford,MP
+scaled-booknlp-quotes,0,income,15000,0,MP,Mr. Rushworth,Mr. Yates,MP
+scaled-booknlp-quotes,0,income,15000,0,P&P,Charles Bingley,Sir William Lucas,P&P
+scaled-booknlp-quotes,0,income,15000,0,P&P,Fitzwilliam Darcy,Elizabeth Bennet,P&P
+scaled-booknlp-quotes,0,income,15000,0,S&S,John Dashwood,Mrs. Dashwood,S&S
+scaled-booknlp-quotes,1,gender,F,1,E,Anna Weston,Elizabeth Elliot,P
+scaled-booknlp-quotes,0,gender,F,1,E,Augusta Elton,Admiral Croft,P
+scaled-booknlp-quotes,1,gender,F,1,E,Emma Woodhouse,Lucy Steele,S&S
+scaled-booknlp-quotes,1,gender,F,1,E,Harriet Smith,Lucy Steele,S&S
+scaled-booknlp-quotes,1,gender,F,1,E,Isabella Knightley,Mrs. Thorpe,N
+scaled-booknlp-quotes,1,gender,F,1,E,Jane Fairfax,Elizabeth Elliot,P
+scaled-booknlp-quotes,1,gender,F,1,E,Miss Bates,Elizabeth Elliot,P
+scaled-booknlp-quotes,1,gender,F,1,E,Mrs. Cole,Elinor Dashwood,S&S
+scaled-booknlp-quotes,1,gender,F,1,MP,Fanny Price,Catherine Morland,N
+scaled-booknlp-quotes,0,gender,F,1,MP,Julia Bertram,John Thorpe,N
+scaled-booknlp-quotes,1,gender,F,1,MP,Lady Bertram,Catherine Morland,N
+scaled-booknlp-quotes,0,gender,F,1,MP,Maria Bertram,General Tilney,N
+scaled-booknlp-quotes,0,gender,F,1,MP,Mary Crawford,John Thorpe,N
+scaled-booknlp-quotes,0,gender,F,1,MP,Mrs. Grant,Mr. Gardiner,P&P
+scaled-booknlp-quotes,1,gender,F,1,MP,Mrs. Norris,Augusta Elton,E
+scaled-booknlp-quotes,0,gender,F,1,MP,Mrs. Price,Mr. Woodhouse,E
+scaled-booknlp-quotes,1,gender,F,1,MP,Susan Price,Mrs. Hurst,P&P
+scaled-booknlp-quotes,1,gender,F,1,N,Catherine Morland,Fanny Price,MP
+scaled-booknlp-quotes,1,gender,F,1,N,Eleanor Tilney,Elizabeth Bennet,P&P
+scaled-booknlp-quotes,0,gender,F,1,N,Isabella Thorpe,Henry Crawford,MP
+scaled-booknlp-quotes,1,gender,F,1,N,Mrs. Allen,Lady Bertram,MP
+scaled-booknlp-quotes,1,gender,F,1,N,Mrs. Morland,Isabella Knightley,E
+scaled-booknlp-quotes,1,gender,F,1,N,Mrs. Thorpe,Lady Lucas,P&P
+scaled-booknlp-quotes,1,gender,F,1,P,Anne Elliot,Elinor Dashwood,S&S
+scaled-booknlp-quotes,1,gender,F,1,P,Elizabeth Elliot,Augusta Elton,E
+scaled-booknlp-quotes,1,gender,F,1,P,Henrietta Musgrove,Mrs. Norris,MP
+scaled-booknlp-quotes,1,gender,F,1,P,Lady Russell,Charlotte Lucas,P&P
+scaled-booknlp-quotes,1,gender,F,1,P,Louisa Musgrove,Harriet Smith,E
+scaled-booknlp-quotes,1,gender,F,1,P,Mary Musgrove,Miss Bates,E
+scaled-booknlp-quotes,1,gender,F,1,P,Mrs. Clay,Augusta Elton,E
+scaled-booknlp-quotes,0,gender,F,1,P,Mrs. Croft,William Collins,P&P
+scaled-booknlp-quotes,1,gender,F,1,P,Mrs. Harville,Mrs. Norris,MP
+scaled-booknlp-quotes,1,gender,F,1,P,Mrs. Smith,Miss Bates,E
+scaled-booknlp-quotes,1,gender,F,1,P&P,Caroline Bingley,Mrs. Thorpe,N
+scaled-booknlp-quotes,1,gender,F,1,P&P,Charlotte Lucas,Mrs. Thorpe,N
+scaled-booknlp-quotes,1,gender,F,1,P&P,Elizabeth Bennet,Catherine Morland,N
+scaled-booknlp-quotes,0,gender,F,1,P&P,Georgiana Darcy,Captain Harville,P
+scaled-booknlp-quotes,1,gender,F,1,P&P,Jane Bennet,Isabella Thorpe,N
+scaled-booknlp-quotes,1,gender,F,1,P&P,Lady Catherine de Bourgh,Augusta Elton,E
+scaled-booknlp-quotes,1,gender,F,1,P&P,Lady Lucas,Lady Middleton,S&S
+scaled-booknlp-quotes,0,gender,F,1,P&P,Lydia Bennet,John Thorpe,N
+scaled-booknlp-quotes,1,gender,F,1,P&P,Mary Bennet,Mary Crawford,MP
+scaled-booknlp-quotes,1,gender,F,1,P&P,Mrs. Bennet,Miss Bates,E
+scaled-booknlp-quotes,0,gender,F,1,P&P,Mrs. Gardiner,Colonel Brandon,S&S
+scaled-booknlp-quotes,0,gender,F,1,P&P,Mrs. Hurst,Thomas Palmer,S&S
+scaled-booknlp-quotes,1,gender,F,1,S&S,Charlotte Palmer,Isabella Knightley,E
+scaled-booknlp-quotes,1,gender,F,1,S&S,Elinor Dashwood,Mrs. Cole,E
+scaled-booknlp-quotes,1,gender,F,1,S&S,Fanny Dashwood,Miss Bates,E
+scaled-booknlp-quotes,1,gender,F,1,S&S,Lady Middleton,Lady Lucas,P&P
+scaled-booknlp-quotes,1,gender,F,1,S&S,Lucy Steele,Emma Woodhouse,E
+scaled-booknlp-quotes,1,gender,F,1,S&S,Margaret Dashwood,Lady Lucas,P&P
+scaled-booknlp-quotes,1,gender,F,1,S&S,Marianne Dashwood,Catherine Morland,N
+scaled-booknlp-quotes,0,gender,F,1,S&S,Mrs. Dashwood,Mr. Weston,E
+scaled-booknlp-quotes,0,gender,F,1,S&S,Mrs. Jennings,Mr. Weston,E
+scaled-booknlp-quotes,1,gender,M,1,E,Frank Churchill,John Thorpe,N
+scaled-booknlp-quotes,0,gender,M,1,E,George Knightley,Anne Elliot,P
+scaled-booknlp-quotes,0,gender,M,1,E,Mr. Weston,Mrs. Jennings,S&S
+scaled-booknlp-quotes,1,gender,M,1,E,Mr. Woodhouse,Admiral Croft,P
+scaled-booknlp-quotes,0,gender,M,1,E,Philip Elton,Elizabeth Elliot,P
+scaled-booknlp-quotes,1,gender,M,1,MP,Dr. Grant,General Tilney,N
+scaled-booknlp-quotes,1,gender,M,1,MP,Edmund Bertram,Henry Tilney,N
+scaled-booknlp-quotes,1,gender,M,1,MP,Henry Crawford,John Thorpe,N
+scaled-booknlp-quotes,0,gender,M,1,MP,Mr. Rushworth,Catherine Morland,N
+scaled-booknlp-quotes,0,gender,M,1,MP,Mr. Yates,Mrs. Allen,N
+scaled-booknlp-quotes,1,gender,M,1,MP,Sir Thomas Bertram,John Thorpe,N
+scaled-booknlp-quotes,1,gender,M,1,MP,William Price,John Thorpe,N
+scaled-booknlp-quotes,1,gender,M,1,N,Frederick Tilney,Mr. Hurst,P&P
+scaled-booknlp-quotes,0,gender,M,1,N,General Tilney,Mary Crawford,MP
+scaled-booknlp-quotes,0,gender,M,1,N,Henry Tilney,Fanny Price,MP
+scaled-booknlp-quotes,0,gender,M,1,N,James Morland,Lady Middleton,S&S
+scaled-booknlp-quotes,1,gender,M,1,N,John Thorpe,Henry Crawford,MP
+scaled-booknlp-quotes,0,gender,M,1,N,Mr. Allen,Mrs. Ferrars,S&S
+scaled-booknlp-quotes,0,gender,M,1,P,Admiral Croft,Augusta Elton,E
+scaled-booknlp-quotes,0,gender,M,1,P,Captain Benwick,Lady Lucas,P&P
+scaled-booknlp-quotes,1,gender,M,1,P,Captain Harville,Edward Ferrars,S&S
+scaled-booknlp-quotes,0,gender,M,1,P,Charles Musgrove,Augusta Elton,E
+scaled-booknlp-quotes,1,gender,M,1,P,Mr. Shepherd,John Dashwood,S&S
+scaled-booknlp-quotes,1,gender,M,1,P,Sir Walter Elliot,Mr. Gardiner,P&P
+scaled-booknlp-quotes,0,gender,M,1,P,William Elliot,Augusta Elton,E
+scaled-booknlp-quotes,1,gender,M,1,P,Captain Wentworth,John Willoughby,S&S
+scaled-booknlp-quotes,0,gender,M,1,P&P,Charles Bingley,Mrs. Thorpe,N
+scaled-booknlp-quotes,1,gender,M,1,P&P,Colonel Fitzwilliam,General Tilney,N
+scaled-booknlp-quotes,1,gender,M,1,P&P,Mr. Gardiner,Admiral Croft,P
+scaled-booknlp-quotes,0,gender,M,1,P&P,Fitzwilliam Darcy,Fanny Price,MP
+scaled-booknlp-quotes,0,gender,M,1,P&P,George Wickham,Catherine Morland,N
+scaled-booknlp-quotes,0,gender,M,1,P&P,Mr. Bennet,Mrs. Thorpe,N
+scaled-booknlp-quotes,0,gender,M,1,P&P,Mr. Hurst,Catherine Morland,N
+scaled-booknlp-quotes,0,gender,M,1,P&P,Sir William Lucas,Isabella Thorpe,N
+scaled-booknlp-quotes,0,gender,M,1,P&P,William Collins,Mrs. Croft,P
+scaled-booknlp-quotes,0,gender,M,1,S&S,Colonel Brandon,Catherine Morland,N
+scaled-booknlp-quotes,0,gender,M,1,S&S,Edward Ferrars,Catherine Morland,N
+scaled-booknlp-quotes,1,gender,M,1,S&S,John Dashwood,Mr. Shepherd,P
+scaled-booknlp-quotes,1,gender,M,1,S&S,John Willoughby,Captain Wentworth,P
+scaled-booknlp-quotes,0,gender,M,1,S&S,Robert Ferrars,Mrs. Smith,P
+scaled-booknlp-quotes,1,gender,M,1,S&S,Sir John Middleton,John Thorpe,N
+scaled-booknlp-quotes,0,gender,M,1,S&S,Thomas Palmer,Catherine Morland,N
+scaled-booknlp-quotes,0,age,17,1,E,Harriet Smith,Lucy Steele,S&S
+scaled-booknlp-quotes,0,age,17,1,N,Catherine Morland,Fanny Price,MP
+scaled-booknlp-quotes,1,age,17,1,S&S,Marianne Dashwood,Catherine Morland,N
+scaled-booknlp-quotes,0,age,17,1,MP,Susan Price,Mrs. Hurst,P&P
+scaled-booknlp-quotes,0,age,17,1,P&P,Georgiana Darcy,Captain Harville,P
+scaled-booknlp-quotes,0,age,17,1,P&P,Lydia Bennet,John Thorpe,N
+scaled-booknlp-quotes,0,age,17,1,S&S,Margaret Dashwood,Lady Lucas,P&P
+scaled-booknlp-quotes,0,age,20,1,E,Emma Woodhouse,Lucy Steele,S&S
+scaled-booknlp-quotes,0,age,20,1,E,Jane Fairfax,Elizabeth Elliot,P
+scaled-booknlp-quotes,1,age,20,1,MP,Julia Bertram,John Thorpe,N
+scaled-booknlp-quotes,0,age,20,1,N,James Morland,Lady Middleton,S&S
+scaled-booknlp-quotes,0,age,20,1,N,John Thorpe,Henry Crawford,MP
+scaled-booknlp-quotes,0,age,20,1,P,Henrietta Musgrove,Mrs. Norris,MP
+scaled-booknlp-quotes,0,age,20,1,P&P,Elizabeth Bennet,Catherine Morland,N
+scaled-booknlp-quotes,0,age,20,1,MP,Fanny Price,Catherine Morland,N
+scaled-booknlp-quotes,1,age,20,1,MP,William Price,John Thorpe,N
+scaled-booknlp-quotes,0,age,20,1,N,Isabella Thorpe,Henry Crawford,MP
+scaled-booknlp-quotes,0,age,20,1,P,Louisa Musgrove,Harriet Smith,E
+scaled-booknlp-quotes,0,age,20,1,P&P,Mary Bennet,Mary Crawford,MP
+scaled-booknlp-quotes,0,age,20,1,S&S,Elinor Dashwood,Mrs. Cole,E
+scaled-booknlp-quotes,0,age,24,1,E,Isabella Knightley,Mrs. Thorpe,N
+scaled-booknlp-quotes,0,age,24,1,N,Eleanor Tilney,Elizabeth Bennet,P&P
+scaled-booknlp-quotes,0,age,24,1,P,Mary Musgrove,Miss Bates,E
+scaled-booknlp-quotes,0,age,24,1,S&S,Edward Ferrars,Catherine Morland,N
+scaled-booknlp-quotes,0,age,24,1,MP,Edmund Bertram,Henry Tilney,N
+scaled-booknlp-quotes,0,age,24,1,MP,Maria Bertram,General Tilney,N
+scaled-booknlp-quotes,0,age,24,1,P&P,Charles Bingley,Mrs. Thorpe,N
+scaled-booknlp-quotes,0,age,24,1,P&P,Jane Bennet,Isabella Thorpe,N
+scaled-booknlp-quotes,0,age,24,1,S&S,Lucy Steele,Emma Woodhouse,E
+scaled-booknlp-quotes,0,age,24,1,S&S,Robert Ferrars,Mrs. Smith,P
+scaled-booknlp-quotes,0,age,24,1,E,Augusta Elton,Admiral Croft,P
+scaled-booknlp-quotes,0,age,24,1,MP,Henry Crawford,John Thorpe,N
+scaled-booknlp-quotes,0,age,24,1,P&P,Caroline Bingley,Mrs. Thorpe,N
+scaled-booknlp-quotes,1,age,24,1,S&S,Charlotte Palmer,Isabella Knightley,E
+scaled-booknlp-quotes,0,age,24,1,MP,Mary Crawford,John Thorpe,N
+scaled-booknlp-quotes,0,age,27,1,E,Frank Churchill,John Thorpe,N
+scaled-booknlp-quotes,0,age,27,1,N,Henry Tilney,Fanny Price,MP
+scaled-booknlp-quotes,0,age,27,1,P&P,William Collins,Mrs. Croft,P
+scaled-booknlp-quotes,0,age,27,1,S&S,John Willoughby,Captain Wentworth,P
+scaled-booknlp-quotes,0,age,27,1,S&S,Thomas Palmer,Catherine Morland,N
+scaled-booknlp-quotes,0,age,27,1,E,Philip Elton,Elizabeth Elliot,P
+scaled-booknlp-quotes,0,age,27,1,P,William Elliot,Augusta Elton,E
+scaled-booknlp-quotes,0,age,27,1,N,Frederick Tilney,Mr. Hurst,P&P
+scaled-booknlp-quotes,0,age,27,1,P,Anne Elliot,Elinor Dashwood,S&S
+scaled-booknlp-quotes,0,age,27,1,P&P,Charlotte Lucas,Mrs. Thorpe,N
+scaled-booknlp-quotes,0,age,27,1,MP,Mr. Rushworth,Catherine Morland,N
+scaled-booknlp-quotes,0,age,27,1,MP,Mr. Yates,Mrs. Allen,N
+scaled-booknlp-quotes,1,age,27,1,P&P,Mrs. Hurst,Thomas Palmer,S&S
+scaled-booknlp-quotes,0,age,27,1,S&S,Fanny Dashwood,Miss Bates,E
+scaled-booknlp-quotes,0,age,27,1,P,Charles Musgrove,Augusta Elton,E
+scaled-booknlp-quotes,0,age,27,1,P,Mrs. Clay,Augusta Elton,E
+scaled-booknlp-quotes,0,age,30,1,MP,Mrs. Grant,Mr. Gardiner,P&P
+scaled-booknlp-quotes,0,age,30,1,P,Elizabeth Elliot,Augusta Elton,E
+scaled-booknlp-quotes,0,age,30,1,P,Mrs. Smith,Miss Bates,E
+scaled-booknlp-quotes,0,age,30,1,P&P,Colonel Fitzwilliam,General Tilney,N
+scaled-booknlp-quotes,0,age,30,1,P&P,Fitzwilliam Darcy,Fanny Price,MP
+scaled-booknlp-quotes,0,age,30,1,P&P,George Wickham,Catherine Morland,N
+scaled-booknlp-quotes,0,age,30,1,P,Mrs. Harville,Mrs. Norris,MP
+scaled-booknlp-quotes,0,age,30,1,P&P,Mr. Hurst,Catherine Morland,N
+scaled-booknlp-quotes,0,age,30,1,S&S,John Dashwood,Mr. Shepherd,P
+scaled-booknlp-quotes,0,age,30,1,S&S,Lady Middleton,Lady Lucas,P&P
+scaled-booknlp-quotes,0,age,30,1,P,Captain Benwick,Lady Lucas,P&P
+scaled-booknlp-quotes,0,age,40,1,E,George Knightley,Anne Elliot,P
+scaled-booknlp-quotes,0,age,40,1,P,Mrs. Croft,William Collins,P&P
+scaled-booknlp-quotes,0,age,40,1,P,Captain Wentworth,John Willoughby,S&S
+scaled-booknlp-quotes,0,age,40,1,S&S,Colonel Brandon,Catherine Morland,N
+scaled-booknlp-quotes,0,age,40,1,S&S,Mrs. Dashwood,Mr. Weston,E
+scaled-booknlp-quotes,0,age,40,1,E,Anna Weston,Elizabeth Elliot,P
+scaled-booknlp-quotes,0,age,40,1,E,Miss Bates,Elizabeth Elliot,P
+scaled-booknlp-quotes,0,age,40,1,E,Mrs. Cole,Elinor Dashwood,S&S
+scaled-booknlp-quotes,0,age,40,1,N,Mrs. Allen,Lady Bertram,MP
+scaled-booknlp-quotes,0,age,40,1,S&S,Sir John Middleton,John Thorpe,N
+scaled-booknlp-quotes,0,age,40,1,P,Captain Harville,Edward Ferrars,S&S
+scaled-booknlp-quotes,0,age,50,1,MP,Dr. Grant,General Tilney,N
+scaled-booknlp-quotes,0,age,50,1,E,Mr. Weston,Mrs. Jennings,S&S
+scaled-booknlp-quotes,0,age,50,1,MP,Mrs. Norris,Augusta Elton,E
+scaled-booknlp-quotes,1,age,50,1,P&P,Mr. Gardiner,Admiral Croft,P
+scaled-booknlp-quotes,0,age,50,1,N,Mr. Allen,Mrs. Ferrars,S&S
+scaled-booknlp-quotes,0,age,50,1,N,Mrs. Morland,Isabella Knightley,E
+scaled-booknlp-quotes,0,age,50,1,N,Mrs. Thorpe,Lady Lucas,P&P
+scaled-booknlp-quotes,0,age,50,1,P,Admiral Croft,Augusta Elton,E
+scaled-booknlp-quotes,0,age,50,1,MP,Lady Bertram,Catherine Morland,N
+scaled-booknlp-quotes,0,age,50,1,P,Mr. Shepherd,John Dashwood,S&S
+scaled-booknlp-quotes,0,age,50,1,P&P,Lady Catherine de Bourgh,Augusta Elton,E
+scaled-booknlp-quotes,0,age,50,1,P&P,Mrs. Bennet,Miss Bates,E
+scaled-booknlp-quotes,0,age,50,1,MP,Mrs. Price,Mr. Woodhouse,E
+scaled-booknlp-quotes,0,age,50,1,P&P,Mrs. Gardiner,Colonel Brandon,S&S
+scaled-booknlp-quotes,0,age,60,1,P,Sir Walter Elliot,Mr. Gardiner,P&P
+scaled-booknlp-quotes,0,age,60,1,E,Mr. Woodhouse,Admiral Croft,P
+scaled-booknlp-quotes,0,age,60,1,MP,Sir Thomas Bertram,John Thorpe,N
+scaled-booknlp-quotes,0,age,60,1,N,General Tilney,Mary Crawford,MP
+scaled-booknlp-quotes,0,age,60,1,S&S,Mrs. Jennings,Mr. Weston,E
+scaled-booknlp-quotes,0,age,60,1,P,Lady Russell,Charlotte Lucas,P&P
+scaled-booknlp-quotes,0,age,60,1,P&P,Lady Lucas,Lady Middleton,S&S
+scaled-booknlp-quotes,0,age,60,1,P&P,Mr. Bennet,Mrs. Thorpe,N
+scaled-booknlp-quotes,0,age,60,1,P&P,Sir William Lucas,Isabella Thorpe,N
+scaled-booknlp-quotes,0,rank,new gentle,1,E,Anna Weston,Elizabeth Elliot,P
+scaled-booknlp-quotes,0,rank,new gentle,1,E,Augusta Elton,Admiral Croft,P
+scaled-booknlp-quotes,0,rank,new gentle,1,E,Mr. Weston,Mrs. Jennings,S&S
+scaled-booknlp-quotes,0,rank,new gentle,1,E,Mrs. Cole,Elinor Dashwood,S&S
+scaled-booknlp-quotes,0,rank,new gentle,1,MP,Fanny Price,Catherine Morland,N
+scaled-booknlp-quotes,0,rank,gentle,1,E,Emma Woodhouse,Lucy Steele,S&S
+scaled-booknlp-quotes,1,rank,gentle,1,E,Frank Churchill,John Thorpe,N
+scaled-booknlp-quotes,0,rank,gentle,1,E,George Knightley,Anne Elliot,P
+scaled-booknlp-quotes,0,rank,gentle,1,E,Jane Fairfax,Elizabeth Elliot,P
+scaled-booknlp-quotes,0,rank,gentle,1,E,Miss Bates,Elizabeth Elliot,P
+scaled-booknlp-quotes,0,rank,gentle,1,E,Mr. Woodhouse,Admiral Croft,P
+scaled-booknlp-quotes,1,rank,gentle,1,MP,Henry Crawford,John Thorpe,N
+scaled-booknlp-quotes,1,rank,gentle,1,MP,Mary Crawford,John Thorpe,N
+scaled-booknlp-quotes,0,rank,gentle,1,MP,Mr. Rushworth,Catherine Morland,N
+scaled-booknlp-quotes,1,rank,gentle,1,N,Eleanor Tilney,Elizabeth Bennet,P&P
+scaled-booknlp-quotes,1,rank,gentle,1,N,General Tilney,Mary Crawford,MP
+scaled-booknlp-quotes,1,rank,gentle,1,N,Isabella Thorpe,Henry Crawford,MP
+scaled-booknlp-quotes,1,rank,gentle,1,N,John Thorpe,Henry Crawford,MP
+scaled-booknlp-quotes,0,rank,gentle,1,N,Mr. Allen,Mrs. Ferrars,S&S
+scaled-booknlp-quotes,0,rank,gentle,1,N,Mrs. Allen,Lady Bertram,MP
+scaled-booknlp-quotes,0,rank,gentle,1,N,Mrs. Thorpe,Lady Lucas,P&P
+scaled-booknlp-quotes,0,rank,gentle,1,P,Charles Musgrove,Augusta Elton,E
+scaled-booknlp-quotes,0,rank,gentle,1,P,Henrietta Musgrove,Mrs. Norris,MP
+scaled-booknlp-quotes,0,rank,gentle,1,P,Louisa Musgrove,Harriet Smith,E
+scaled-booknlp-quotes,1,rank,gentle,1,P,Mrs. Smith,Miss Bates,E
+scaled-booknlp-quotes,0,rank,gentle,1,P,William Elliot,Augusta Elton,E
+scaled-booknlp-quotes,1,rank,gentle,1,P&P,Caroline Bingley,Mrs. Thorpe,N
+scaled-booknlp-quotes,1,rank,gentle,1,P&P,Charles Bingley,Mrs. Thorpe,N
+scaled-booknlp-quotes,1,rank,gentle,1,P&P,Charlotte Lucas,Mrs. Thorpe,N
+scaled-booknlp-quotes,0,rank,gentle,1,P&P,Elizabeth Bennet,Catherine Morland,N
+scaled-booknlp-quotes,0,rank,gentle,1,P&P,Fitzwilliam Darcy,Fanny Price,MP
+scaled-booknlp-quotes,0,rank,gentle,1,P&P,Georgiana Darcy,Captain Harville,P
+scaled-booknlp-quotes,1,rank,gentle,1,P&P,Jane Bennet,Isabella Thorpe,N
+scaled-booknlp-quotes,1,rank,gentle,1,P&P,Lydia Bennet,John Thorpe,N
+scaled-booknlp-quotes,1,rank,gentle,1,P&P,Mary Bennet,Mary Crawford,MP
+scaled-booknlp-quotes,1,rank,gentle,1,P&P,Mr. Bennet,Mrs. Thorpe,N
+scaled-booknlp-quotes,1,rank,gentle,1,P&P,Mrs. Bennet,Miss Bates,E
+scaled-booknlp-quotes,1,rank,gentle,1,P&P,Mrs. Hurst,Thomas Palmer,S&S
+scaled-booknlp-quotes,0,rank,gentle,1,P&P,Mr. Hurst,Catherine Morland,N
+scaled-booknlp-quotes,0,rank,gentle,1,S&S,Charlotte Palmer,Isabella Knightley,E
+scaled-booknlp-quotes,0,rank,gentle,1,S&S,Elinor Dashwood,Mrs. Cole,E
+scaled-booknlp-quotes,1,rank,gentle,1,S&S,Fanny Dashwood,Miss Bates,E
+scaled-booknlp-quotes,0,rank,gentle,1,S&S,John Dashwood,Mr. Shepherd,P
+scaled-booknlp-quotes,0,rank,gentle,1,S&S,John Willoughby,Captain Wentworth,P
+scaled-booknlp-quotes,0,rank,gentle,1,S&S,Margaret Dashwood,Lady Lucas,P&P
+scaled-booknlp-quotes,0,rank,gentle,1,S&S,Marianne Dashwood,Catherine Morland,N
+scaled-booknlp-quotes,0,rank,gentle,1,S&S,Mrs. Dashwood,Mr. Weston,E
+scaled-booknlp-quotes,1,rank,gentle,1,S&S,Robert Ferrars,Mrs. Smith,P
+scaled-booknlp-quotes,0,rank,gentle,1,S&S,Thomas Palmer,Catherine Morland,N
+scaled-booknlp-quotes,1,rank,profession,1,E,Harriet Smith,Lucy Steele,S&S
+scaled-booknlp-quotes,0,rank,profession,1,E,Isabella Knightley,Mrs. Thorpe,N
+scaled-booknlp-quotes,0,rank,profession,1,P,Mr. Shepherd,John Dashwood,S&S
+scaled-booknlp-quotes,0,rank,profession,1,P,Mrs. Clay,Augusta Elton,E
+scaled-booknlp-quotes,0,rank,profession,1,P&P,Mr. Gardiner,Admiral Croft,P
+scaled-booknlp-quotes,0,rank,profession,1,P&P,Mrs. Gardiner,Colonel Brandon,S&S
+scaled-booknlp-quotes,0,rank,profession,1,S&S,Lucy Steele,Emma Woodhouse,E
+scaled-booknlp-quotes,0,rank,profession,1,S&S,Mrs. Jennings,Mr. Weston,E
+scaled-booknlp-quotes,0,rank,clergy,1,E,Philip Elton,Elizabeth Elliot,P
+scaled-booknlp-quotes,0,rank,clergy,1,MP,Dr. Grant,General Tilney,N
+scaled-booknlp-quotes,1,rank,clergy,1,MP,Edmund Bertram,Henry Tilney,N
+scaled-booknlp-quotes,0,rank,clergy,1,MP,Mrs. Grant,Mr. Gardiner,P&P
+scaled-booknlp-quotes,0,rank,clergy,1,MP,Mrs. Norris,Augusta Elton,E
+scaled-booknlp-quotes,0,rank,clergy,1,N,Catherine Morland,Fanny Price,MP
+scaled-booknlp-quotes,0,rank,clergy,1,N,Henry Tilney,Fanny Price,MP
+scaled-booknlp-quotes,0,rank,clergy,1,N,James Morland,Lady Middleton,S&S
+scaled-booknlp-quotes,0,rank,clergy,1,N,Mrs. Morland,Isabella Knightley,E
+scaled-booknlp-quotes,0,rank,clergy,1,P&P,William Collins,Mrs. Croft,P
+scaled-booknlp-quotes,1,rank,clergy,1,S&S,Edward Ferrars,Catherine Morland,N
+scaled-booknlp-quotes,0,rank,gentry,1,MP,Julia Bertram,John Thorpe,N
+scaled-booknlp-quotes,0,rank,gentry,1,MP,Lady Bertram,Catherine Morland,N
+scaled-booknlp-quotes,0,rank,gentry,1,MP,Maria Bertram,General Tilney,N
+scaled-booknlp-quotes,0,rank,gentry,1,MP,Mr. Yates,Mrs. Allen,N
+scaled-booknlp-quotes,0,rank,gentry,1,MP,Sir Thomas Bertram,John Thorpe,N
+scaled-booknlp-quotes,0,rank,gentry,1,P,Anne Elliot,Elinor Dashwood,S&S
+scaled-booknlp-quotes,0,rank,gentry,1,P,Elizabeth Elliot,Augusta Elton,E
+scaled-booknlp-quotes,0,rank,gentry,1,P,Lady Russell,Charlotte Lucas,P&P
+scaled-booknlp-quotes,0,rank,gentry,1,P,Mary Musgrove,Miss Bates,E
+scaled-booknlp-quotes,0,rank,gentry,1,P,Sir Walter Elliot,Mr. Gardiner,P&P
+scaled-booknlp-quotes,1,rank,gentry,1,P&P,Lady Lucas,Lady Middleton,S&S
+scaled-booknlp-quotes,0,rank,gentry,1,P&P,Sir William Lucas,Isabella Thorpe,N
+scaled-booknlp-quotes,1,rank,gentry,1,S&S,Lady Middleton,Lady Lucas,P&P
+scaled-booknlp-quotes,0,rank,gentry,1,S&S,Sir John Middleton,John Thorpe,N
+scaled-booknlp-quotes,0,rank,soldier,1,MP,Mrs. Price,Mr. Woodhouse,E
+scaled-booknlp-quotes,0,rank,soldier,1,MP,Susan Price,Mrs. Hurst,P&P
+scaled-booknlp-quotes,0,rank,soldier,1,MP,William Price,John Thorpe,N
+scaled-booknlp-quotes,0,rank,soldier,1,N,Frederick Tilney,Mr. Hurst,P&P
+scaled-booknlp-quotes,0,rank,soldier,1,P,Admiral Croft,Augusta Elton,E
+scaled-booknlp-quotes,0,rank,soldier,1,P,Captain Benwick,Lady Lucas,P&P
+scaled-booknlp-quotes,0,rank,soldier,1,P,Captain Harville,Edward Ferrars,S&S
+scaled-booknlp-quotes,0,rank,soldier,1,P,Mrs. Croft,William Collins,P&P
+scaled-booknlp-quotes,0,rank,soldier,1,P,Mrs. Harville,Mrs. Norris,MP
+scaled-booknlp-quotes,0,rank,soldier,1,P,Captain Wentworth,John Willoughby,S&S
+scaled-booknlp-quotes,0,rank,soldier,1,P&P,George Wickham,Catherine Morland,N
+scaled-booknlp-quotes,0,rank,soldier,1,S&S,Colonel Brandon,Catherine Morland,N
+scaled-booknlp-quotes,0,rank,peer,1,P&P,Colonel Fitzwilliam,General Tilney,N
+scaled-booknlp-quotes,0,rank,peer,1,P&P,Lady Catherine de Bourgh,Augusta Elton,E
+scaled-booknlp-quotes,0,maritalStatus,M,1,E,Anna Weston,Elizabeth Elliot,P
+scaled-booknlp-quotes,1,maritalStatus,M,1,E,Augusta Elton,Admiral Croft,P
+scaled-booknlp-quotes,0,maritalStatus,M,1,E,Isabella Knightley,Mrs. Thorpe,N
+scaled-booknlp-quotes,0,maritalStatus,M,1,E,Mr. Weston,Mrs. Jennings,S&S
+scaled-booknlp-quotes,0,maritalStatus,M,1,E,Mrs. Cole,Elinor Dashwood,S&S
+scaled-booknlp-quotes,0,maritalStatus,M,1,MP,Dr. Grant,General Tilney,N
+scaled-booknlp-quotes,0,maritalStatus,M,1,MP,Lady Bertram,Catherine Morland,N
+scaled-booknlp-quotes,1,maritalStatus,M,1,MP,Mrs. Grant,Mr. Gardiner,P&P
+scaled-booknlp-quotes,0,maritalStatus,M,1,MP,Mrs. Price,Mr. Woodhouse,E
+scaled-booknlp-quotes,0,maritalStatus,M,1,MP,Sir Thomas Bertram,John Thorpe,N
+scaled-booknlp-quotes,0,maritalStatus,M,1,MP,William Price,John Thorpe,N
+scaled-booknlp-quotes,0,maritalStatus,M,1,N,Mr. Allen,Mrs. Ferrars,S&S
+scaled-booknlp-quotes,1,maritalStatus,M,1,N,Mrs. Allen,Lady Bertram,MP
+scaled-booknlp-quotes,1,maritalStatus,M,1,N,Mrs. Morland,Isabella Knightley,E
+scaled-booknlp-quotes,1,maritalStatus,M,1,P,Admiral Croft,Augusta Elton,E
+scaled-booknlp-quotes,0,maritalStatus,M,1,P,Captain Harville,Edward Ferrars,S&S
+scaled-booknlp-quotes,1,maritalStatus,M,1,P,Charles Musgrove,Augusta Elton,E
+scaled-booknlp-quotes,0,maritalStatus,M,1,P,Mrs. Croft,William Collins,P&P
+scaled-booknlp-quotes,0,maritalStatus,M,1,P,Mrs. Harville,Mrs. Norris,MP
+scaled-booknlp-quotes,1,maritalStatus,M,1,P,Sir Walter Elliot,Mr. Gardiner,P&P
+scaled-booknlp-quotes,0,maritalStatus,M,1,P&P,Colonel Fitzwilliam,General Tilney,N
+scaled-booknlp-quotes,1,maritalStatus,M,1,P&P,Mr. Gardiner,Admiral Croft,P
+scaled-booknlp-quotes,1,maritalStatus,M,1,P&P,Lady Lucas,Lady Middleton,S&S
+scaled-booknlp-quotes,0,maritalStatus,M,1,P&P,Mr. Bennet,Mrs. Thorpe,N
+scaled-booknlp-quotes,0,maritalStatus,M,1,P&P,Mrs. Bennet,Miss Bates,E
+scaled-booknlp-quotes,0,maritalStatus,M,1,P&P,Mrs. Gardiner,Colonel Brandon,S&S
+scaled-booknlp-quotes,1,maritalStatus,M,1,P&P,Mrs. Hurst,Thomas Palmer,S&S
+scaled-booknlp-quotes,0,maritalStatus,M,1,P&P,Mr. Hurst,Catherine Morland,N
+scaled-booknlp-quotes,0,maritalStatus,M,1,P&P,Sir William Lucas,Isabella Thorpe,N
+scaled-booknlp-quotes,1,maritalStatus,M,1,S&S,Charlotte Palmer,Isabella Knightley,E
+scaled-booknlp-quotes,0,maritalStatus,M,1,S&S,Fanny Dashwood,Miss Bates,E
+scaled-booknlp-quotes,0,maritalStatus,M,1,S&S,John Dashwood,Mr. Shepherd,P
+scaled-booknlp-quotes,1,maritalStatus,M,1,S&S,Lady Middleton,Lady Lucas,P&P
+scaled-booknlp-quotes,0,maritalStatus,M,1,S&S,Sir John Middleton,John Thorpe,N
+scaled-booknlp-quotes,0,maritalStatus,M,1,S&S,Thomas Palmer,Catherine Morland,N
+scaled-booknlp-quotes,1,maritalStatus,S,1,E,Emma Woodhouse,Lucy Steele,S&S
+scaled-booknlp-quotes,1,maritalStatus,S,1,E,Frank Churchill,John Thorpe,N
+scaled-booknlp-quotes,1,maritalStatus,S,1,E,George Knightley,Anne Elliot,P
+scaled-booknlp-quotes,1,maritalStatus,S,1,E,Harriet Smith,Lucy Steele,S&S
+scaled-booknlp-quotes,1,maritalStatus,S,1,E,Jane Fairfax,Elizabeth Elliot,P
+scaled-booknlp-quotes,1,maritalStatus,S,1,E,Miss Bates,Elizabeth Elliot,P
+scaled-booknlp-quotes,1,maritalStatus,S,1,MP,Edmund Bertram,Henry Tilney,N
+scaled-booknlp-quotes,1,maritalStatus,S,1,MP,Fanny Price,Catherine Morland,N
+scaled-booknlp-quotes,1,maritalStatus,S,1,MP,Henry Crawford,John Thorpe,N
+scaled-booknlp-quotes,1,maritalStatus,S,1,MP,Julia Bertram,John Thorpe,N
+scaled-booknlp-quotes,1,maritalStatus,S,1,MP,Mary Crawford,John Thorpe,N
+scaled-booknlp-quotes,0,maritalStatus,S,1,MP,Mr. Yates,Mrs. Allen,N
+scaled-booknlp-quotes,0,maritalStatus,S,1,MP,Susan Price,Mrs. Hurst,P&P
+scaled-booknlp-quotes,1,maritalStatus,S,1,N,Catherine Morland,Fanny Price,MP
+scaled-booknlp-quotes,1,maritalStatus,S,1,N,Eleanor Tilney,Elizabeth Bennet,P&P
+scaled-booknlp-quotes,0,maritalStatus,S,1,N,Frederick Tilney,Mr. Hurst,P&P
+scaled-booknlp-quotes,1,maritalStatus,S,1,N,Henry Tilney,Fanny Price,MP
+scaled-booknlp-quotes,1,maritalStatus,S,1,N,Isabella Thorpe,Henry Crawford,MP
+scaled-booknlp-quotes,0,maritalStatus,S,1,N,James Morland,Lady Middleton,S&S
+scaled-booknlp-quotes,1,maritalStatus,S,1,N,John Thorpe,Henry Crawford,MP
+scaled-booknlp-quotes,1,maritalStatus,S,1,P,Anne Elliot,Elinor Dashwood,S&S
+scaled-booknlp-quotes,0,maritalStatus,S,1,P,Captain Benwick,Lady Lucas,P&P
+scaled-booknlp-quotes,0,maritalStatus,S,1,P,Elizabeth Elliot,Augusta Elton,E
+scaled-booknlp-quotes,0,maritalStatus,S,1,P,Henrietta Musgrove,Mrs. Norris,MP
+scaled-booknlp-quotes,1,maritalStatus,S,1,P,Louisa Musgrove,Harriet Smith,E
+scaled-booknlp-quotes,1,maritalStatus,S,1,P,Mary Musgrove,Miss Bates,E
+scaled-booknlp-quotes,0,maritalStatus,S,1,P,Captain Wentworth,John Willoughby,S&S
+scaled-booknlp-quotes,0,maritalStatus,S,1,P&P,Caroline Bingley,Mrs. Thorpe,N
+scaled-booknlp-quotes,0,maritalStatus,S,1,P&P,Charles Bingley,Mrs. Thorpe,N
+scaled-booknlp-quotes,1,maritalStatus,S,1,P&P,Elizabeth Bennet,Catherine Morland,N
+scaled-booknlp-quotes,1,maritalStatus,S,1,P&P,Fitzwilliam Darcy,Fanny Price,MP
+scaled-booknlp-quotes,1,maritalStatus,S,1,P&P,George Wickham,Catherine Morland,N
+scaled-booknlp-quotes,0,maritalStatus,S,1,P&P,Georgiana Darcy,Captain Harville,P
+scaled-booknlp-quotes,1,maritalStatus,S,1,P&P,Jane Bennet,Isabella Thorpe,N
+scaled-booknlp-quotes,1,maritalStatus,S,1,P&P,Lydia Bennet,John Thorpe,N
+scaled-booknlp-quotes,1,maritalStatus,S,1,P&P,Mary Bennet,Mary Crawford,MP
+scaled-booknlp-quotes,1,maritalStatus,S,1,S&S,Colonel Brandon,Catherine Morland,N
+scaled-booknlp-quotes,1,maritalStatus,S,1,S&S,Edward Ferrars,Catherine Morland,N
+scaled-booknlp-quotes,0,maritalStatus,S,1,S&S,Elinor Dashwood,Mrs. Cole,E
+scaled-booknlp-quotes,1,maritalStatus,S,1,S&S,Lucy Steele,Emma Woodhouse,E
+scaled-booknlp-quotes,0,maritalStatus,S,1,S&S,Margaret Dashwood,Lady Lucas,P&P
+scaled-booknlp-quotes,1,maritalStatus,S,1,S&S,Marianne Dashwood,Catherine Morland,N
+scaled-booknlp-quotes,0,maritalStatus,S,1,S&S,Robert Ferrars,Mrs. Smith,P
+scaled-booknlp-quotes,0,maritalStatus,W,1,E,Mr. Woodhouse,Admiral Croft,P
+scaled-booknlp-quotes,0,maritalStatus,W,1,MP,Mrs. Norris,Augusta Elton,E
+scaled-booknlp-quotes,0,maritalStatus,W,1,N,General Tilney,Mary Crawford,MP
+scaled-booknlp-quotes,0,maritalStatus,W,1,N,Mrs. Thorpe,Lady Lucas,P&P
+scaled-booknlp-quotes,0,maritalStatus,W,1,P,Lady Russell,Charlotte Lucas,P&P
+scaled-booknlp-quotes,0,maritalStatus,W,1,P,Mr. Shepherd,John Dashwood,S&S
+scaled-booknlp-quotes,0,maritalStatus,W,1,P,Mrs. Clay,Augusta Elton,E
+scaled-booknlp-quotes,0,maritalStatus,W,1,P,Mrs. Smith,Miss Bates,E
+scaled-booknlp-quotes,0,maritalStatus,W,1,P,William Elliot,Augusta Elton,E
+scaled-booknlp-quotes,0,maritalStatus,W,1,P&P,Lady Catherine de Bourgh,Augusta Elton,E
+scaled-booknlp-quotes,0,maritalStatus,W,1,S&S,Mrs. Dashwood,Mr. Weston,E
+scaled-booknlp-quotes,0,maritalStatus,W,1,S&S,Mrs. Jennings,Mr. Weston,E
+scaled-booknlp-quotes,0,maritalStatus,C,1,E,Philip Elton,Elizabeth Elliot,P
+scaled-booknlp-quotes,0,maritalStatus,C,1,MP,Maria Bertram,General Tilney,N
+scaled-booknlp-quotes,0,maritalStatus,C,1,MP,Mr. Rushworth,Catherine Morland,N
+scaled-booknlp-quotes,0,maritalStatus,C,1,P&P,Charlotte Lucas,Mrs. Thorpe,N
+scaled-booknlp-quotes,0,maritalStatus,C,1,P&P,William Collins,Mrs. Croft,P
+scaled-booknlp-quotes,0,maritalStatus,C,1,S&S,John Willoughby,Captain Wentworth,P
+scaled-booknlp-quotes,0,income,50,1,P&P,Elizabeth Bennet,Catherine Morland,N
+scaled-booknlp-quotes,0,income,50,1,P&P,Jane Bennet,Isabella Thorpe,N
+scaled-booknlp-quotes,0,income,50,1,P&P,Lydia Bennet,John Thorpe,N
+scaled-booknlp-quotes,0,income,50,1,P&P,Mary Bennet,Mary Crawford,MP
+scaled-booknlp-quotes,0,income,50,1,S&S,Elinor Dashwood,Mrs. Cole,E
+scaled-booknlp-quotes,0,income,50,1,S&S,Margaret Dashwood,Lady Lucas,P&P
+scaled-booknlp-quotes,0,income,50,1,S&S,Marianne Dashwood,Catherine Morland,N
+scaled-booknlp-quotes,0,income,250,1,E,Miss Bates,Elizabeth Elliot,P
+scaled-booknlp-quotes,1,income,250,1,S&S,Edward Ferrars,Catherine Morland,N
+scaled-booknlp-quotes,0,income,250,1,MP,Mrs. Grant,Mr. Gardiner,P&P
+scaled-booknlp-quotes,0,income,250,1,N,Catherine Morland,Fanny Price,MP
+scaled-booknlp-quotes,1,income,250,1,P&P,George Wickham,Catherine Morland,N
+scaled-booknlp-quotes,1,income,250,1,P&P,Mrs. Bennet,Miss Bates,E
+scaled-booknlp-quotes,1,income,250,1,P,Captain Harville,Edward Ferrars,S&S
+scaled-booknlp-quotes,0,income,500,1,E,Augusta Elton,Admiral Croft,P
+scaled-booknlp-quotes,0,income,500,1,P,Anne Elliot,Elinor Dashwood,S&S
+scaled-booknlp-quotes,1,income,500,1,P,Elizabeth Elliot,Augusta Elton,E
+scaled-booknlp-quotes,0,income,500,1,P,Mary Musgrove,Miss Bates,E
+scaled-booknlp-quotes,0,income,500,1,MP,Lady Bertram,Catherine Morland,N
+scaled-booknlp-quotes,1,income,500,1,MP,Mrs. Norris,Augusta Elton,E
+scaled-booknlp-quotes,0,income,500,1,N,James Morland,Lady Middleton,S&S
+scaled-booknlp-quotes,0,income,500,1,S&S,Mrs. Dashwood,Mr. Weston,E
+scaled-booknlp-quotes,0,income,1000,1,MP,Dr. Grant,General Tilney,N
+scaled-booknlp-quotes,0,income,1000,1,MP,Mary Crawford,John Thorpe,N
+scaled-booknlp-quotes,0,income,1000,1,P&P,Caroline Bingley,Mrs. Thorpe,N
+scaled-booknlp-quotes,0,income,1000,1,P&P,Mrs. Hurst,Thomas Palmer,S&S
+scaled-booknlp-quotes,0,income,1000,1,S&S,Robert Ferrars,Mrs. Smith,P
+scaled-booknlp-quotes,0,income,1000,1,MP,Edmund Bertram,Henry Tilney,N
+scaled-booknlp-quotes,0,income,1000,1,P,Captain Benwick,Lady Lucas,P&P
+scaled-booknlp-quotes,0,income,1000,1,S&S,John Willoughby,Captain Wentworth,P
+scaled-booknlp-quotes,0,income,3000,1,E,Emma Woodhouse,Lucy Steele,S&S
+scaled-booknlp-quotes,0,income,3000,1,P,Sir Walter Elliot,Mr. Gardiner,P&P
+scaled-booknlp-quotes,0,income,3000,1,P&P,Georgiana Darcy,Captain Harville,P
+scaled-booknlp-quotes,0,income,3000,1,P,Captain Wentworth,John Willoughby,S&S
+scaled-booknlp-quotes,0,income,3000,1,S&S,Colonel Brandon,Catherine Morland,N
+scaled-booknlp-quotes,0,income,3000,1,P&P,Mr. Bennet,Mrs. Thorpe,N
+scaled-booknlp-quotes,0,income,15000,1,MP,Henry Crawford,John Thorpe,N
+scaled-booknlp-quotes,0,income,15000,1,MP,Mr. Rushworth,Catherine Morland,N
+scaled-booknlp-quotes,0,income,15000,1,P&P,Charles Bingley,Mrs. Thorpe,N
+scaled-booknlp-quotes,0,income,15000,1,P&P,Fitzwilliam Darcy,Fanny Price,MP
+scaled-booknlp-quotes,0,income,15000,1,S&S,John Dashwood,Mr. Shepherd,P

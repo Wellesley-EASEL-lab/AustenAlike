@@ -1,0 +1,57 @@
+dataset,Top_in_group,category,exclude,novel,character,top,topNovel
+gpt4-reasoning,1,deceiver,0,E,Frank Churchill,Henry Crawford,MP
+gpt4-reasoning,1,deceiver,0,P&P,George Wickham,John Willoughby,S&S
+gpt4-reasoning,1,deceiver,0,S&S,John Willoughby,George Wickham,P&P
+gpt4-reasoning,1,deceiver,0,MP,Henry Crawford,John Willoughby,S&S
+gpt4-reasoning,0,deceiver,0,N,John Thorpe,William Collins,P&P
+gpt4-reasoning,1,deceiver,0,P,William Elliot,George Wickham,P&P
+gpt4-reasoning,1,hero,0,E,George Knightley,Edmund Bertram,MP
+gpt4-reasoning,1,hero,0,MP,Edmund Bertram,Edward Ferrars,S&S
+gpt4-reasoning,1,hero,0,N,Henry Tilney,Fitzwilliam Darcy,P&P
+gpt4-reasoning,0,hero,0,P,Captain Wentworth,Captain Benwick,P
+gpt4-reasoning,1,hero,0,P&P,Fitzwilliam Darcy,George Knightley,E
+gpt4-reasoning,1,hero,0,S&S,Colonel Brandon,George Knightley,E
+gpt4-reasoning,1,hero,0,S&S,Edward Ferrars,Colonel Brandon,S&S
+gpt4-reasoning,1,heroine,0,E,Emma Woodhouse,Elizabeth Bennet,P&P
+gpt4-reasoning,1,heroine,0,MP,Fanny Price,Elinor Dashwood,S&S
+gpt4-reasoning,1,heroine,0,N,Catherine Morland,Marianne Dashwood,S&S
+gpt4-reasoning,1,heroine,0,P,Anne Elliot,Elinor Dashwood,S&S
+gpt4-reasoning,1,heroine,0,P&P,Elizabeth Bennet,Emma Woodhouse,E
+gpt4-reasoning,1,heroine,0,S&S,Elinor Dashwood,Anne Elliot,P
+gpt4-reasoning,1,heroine,0,S&S,Marianne Dashwood,Emma Woodhouse,E
+gpt4-reasoning,0,parent,0,E,Mr. Woodhouse,Mr. Perry,E
+gpt4-reasoning,0,parent,0,MP,Lady Bertram,Lady Middleton,S&S
+gpt4-reasoning,0,parent,0,MP,Lieutenant Price,Captain Wentworth,P
+gpt4-reasoning,0,parent,0,MP,Mrs. Norris,Lady Catherine de Bourgh,P&P
+gpt4-reasoning,1,parent,0,MP,Mrs. Price,Mrs. Bennet,P&P
+gpt4-reasoning,1,parent,0,MP,Sir Thomas Bertram,Sir Walter Elliot,P
+gpt4-reasoning,1,parent,0,N,Mrs. Morland,Mrs. Dashwood,S&S
+gpt4-reasoning,0,parent,0,P,Lady Russell,Lady Catherine de Bourgh,P&P
+gpt4-reasoning,0,parent,0,P,Sir Walter Elliot,Lady Catherine de Bourgh,P&P
+gpt4-reasoning,1,parent,0,P&P,Mr. Bennet,Mr. Woodhouse,E
+gpt4-reasoning,0,parent,0,P&P,Mrs. Bennet,Mrs. Jennings,S&S
+gpt4-reasoning,1,parent,0,S&S,Mrs. Dashwood,Mrs. Bennet,P&P
+gpt4-reasoning,0,rival,0,E,Harriet Smith,Catherine Morland,N
+gpt4-reasoning,0,rival,0,E,Jane Fairfax,Fanny Price,MP
+gpt4-reasoning,1,rival,0,MP,Mary Crawford,Caroline Bingley,P&P
+gpt4-reasoning,0,rival,0,P,Louisa Musgrove,Lydia Bennet,P&P
+gpt4-reasoning,0,rival,0,P&P,Caroline Bingley,Augusta Elton,E
+gpt4-reasoning,0,rival,0,S&S,Lucy Steele,Isabella Thorpe,N
+gpt4-reasoning,0,sibling,0,E,Isabella Knightley,Emma Woodhouse,E
+gpt4-reasoning,0,sibling,0,MP,Susan Price,Fanny Price,MP
+gpt4-reasoning,0,sibling,0,MP,William Price,Captain Wentworth,P
+gpt4-reasoning,0,sibling,0,N,James Morland,Charles Bingley,P&P
+gpt4-reasoning,0,sibling,0,P,Elizabeth Elliot,Emma Woodhouse,E
+gpt4-reasoning,0,sibling,0,P,Mary Musgrove,Mrs. Bennet,P&P
+gpt4-reasoning,0,sibling,0,P&P,Jane Bennet,Fanny Price,MP
+gpt4-reasoning,1,sibling,0,P&P,Kitty Bennet,Lydia Bennet,P&P
+gpt4-reasoning,0,sibling,0,P&P,Lydia Bennet,Louisa Musgrove,P
+gpt4-reasoning,0,sibling,0,P&P,Mary Bennet,Fanny Price,MP
+gpt4-reasoning,0,sibling,0,S&S,John Dashwood,Mr. Weston,E
+gpt4-reasoning,0,sibling,0,S&S,Margaret Dashwood,Catherine Morland,N
+gpt4-reasoning,0,wooer,0,MP,Henry Crawford,John Willoughby,S&S
+gpt4-reasoning,1,wooer,0,N,John Thorpe,William Collins,P&P
+gpt4-reasoning,0,wooer,0,P,William Elliot,George Wickham,P&P
+gpt4-reasoning,1,wooer,0,E,Philip Elton,William Collins,P&P
+gpt4-reasoning,0,wooer,0,P,Charles Musgrove,Charles Bingley,P&P
+gpt4-reasoning,1,wooer,0,P&P,William Collins,Philip Elton,E

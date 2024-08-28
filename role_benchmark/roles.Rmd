@@ -1,0 +1,69 @@
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+library(tidyverse)
+```
+
+```{r}
+topsim = read.csv('results/all_topsim.csv',header=TRUE,stringsAsFactors = FALSE)
+topsim$dataset <- str_remove(topsim$dataset,"scaled-")
+simdiffs = read.csv('results/all_simdiffs.csv',header=TRUE,stringsAsFactors = FALSE)
+simdiffs$dataset <- str_remove(simdiffs$dataset,"scaled-")
+```
+
+```{r}
+ggplot(data=topsim,aes(x=category,y=`Top_in_group`,fill=dataset)) + geom_bar(position="dodge2", stat = "summary") + ylab("Most Similiar Character In Same Role Category (%)") + xlab("Role Category")
+```
+
+```{r}
+ggplot(data=topsim,aes(x=novel,y=`Top_in_group`)) + geom_bar(position="dodge2", stat = "summary") + ylab("Most Similiar Character In Same Role Category (%)") + xlab("Novel")
+```
+
+```{r}
+subset(topsim,dataset=="fanfic-quotes") %>% group_by(category) %>% summarize(meanTopSim = mean(Top_in_group))
+subset(topsim,dataset=="fanfic-assertions") %>% group_by(category) %>% summarize(meanTopSim = mean(Top_in_group))
+subset(topsim,dataset=="booknlp-events") %>% group_by(category) %>% summarize(meanTopSim = mean(Top_in_group))
+subset(topsim,dataset=="booknlp-quotes") %>% group_by(category) %>% summarize(meanTopSim = mean(Top_in_group))
+subset(topsim,dataset=="booknlp-modifiers") %>% group_by(category) %>% summarize(meanTopSim = mean(Top_in_group))
+res <- subset(topsim) %>% group_by(category,dataset) %>% summarize(meanTopSim = mean(Top_in_group))
+res
+```
+
+```{r}
+subset(topsim,dataset=="fanfic-quotes"&novel!=topNovel) %>% group_by(category) %>% summarize(meanTopSim = mean(Top_in_group))
+subset(topsim,dataset=="fanfic-assertions"&novel!=topNovel) %>% group_by(category) %>% summarize(meanTopSim = mean(Top_in_group))
+subset(topsim,dataset=="booknlp-events"&novel!=topNovel) %>% group_by(category) %>% summarize(meanTopSim = mean(Top_in_group))
+subset(topsim,dataset=="booknlp-quotes"&novel!=topNovel) %>% group_by(category) %>% summarize(meanTopSim = mean(Top_in_group))
+subset(topsim,dataset=="booknlp-modifiers"&novel!=topNovel) %>% group_by(category) %>% summarize(meanTopSim = mean(Top_in_group))
+res <- subset(topsim,novel!=topNovel) %>% group_by(category,dataset) %>% summarize(meanTopSim = mean(Top_in_group))
+res
+```
+
+```{r}
+topsim1 = read.csv('../gpt4-baseline/role-results/gpt4-plain_group_topsim.csv',header=TRUE,stringsAsFactors = FALSE)
+topsim2 = read.csv('../gpt4-baseline/role-results/gpt4-reasoning_group_topsim.csv',header=TRUE,stringsAsFactors = FALSE)
+gpt <- rbind(topsim1,topsim2)
+subset(gpt) %>% group_by(dataset,category) %>% summarize(meanTopSim = mean(Top_in_group))
+```
+
+```{r}
+inpercent = read.csv('../gpt4-baseline/role-results/gpt4_group_inpercent.csv',header=TRUE,stringsAsFactors = FALSE)
+inpercent %>% group_by(dataset,category) %>% summarize(meanInPercent = mean(In_Percent))
+```
+
+```{r}
+ggplot(data=simdiffs,aes(x=category,y=`Sim_diffs`,fill=dataset)) + geom_bar(position="dodge2", stat = "summary") + ylab("Difference Between In-group and Out-group Similarity") + xlab("Role Category")
+```
+
+```{r}
+gathered <- simdiffs %>% gather(key="group",value="sim",7:8)
+ggplot(data=gathered,aes(x=category,y=sim,fill=group)) + geom_bar(position="dodge2", stat = "summary") + ylab("Difference Between In-group and Out-group Similarity") + xlab("Role Category") + facet_wrap(~dataset) +scale_fill_discrete(labels =c("Same Role","Other"))
+```
+
+```{r}
+gathered <- simdiffs %>% gather(key="group",value="sim",7:8)
+ggplot(data=subset(gathered,grepl("scaled",dataset)==FALSE),aes(x=category,y=sim,fill=paste(dataset,group))) + geom_bar(position="dodge2", stat = "summary") + ylab("Mean In-group and Out-group Similarities") +scale_fill_manual(name = "", values=c("#90EE90","#3CB371","#56B4E9","#0072B2","#d7cafb","#483D8B","#f768a1","#980043","#ffee48","#FFB000"),labels=c('BNLP-Events - In', "BNLP-Events - Out",'BNLP-Modifiers - In', "BNLP-Modifiers - Out",'BNLP-Quotes - In', "BNLP-Quotes - Out",'FFNLP-Assertions - In', "FFNLP-Assertions - Out",'FFNLP-Quotes - In', "FFNLP-Quotes - Out")) + theme(text=element_text(size=14),axis.text.x = element_text(size=14, face="bold", color = "black"),legend.position="bottom") + scale_x_discrete(name ="Role Category", labels=str_to_title)
+
+ggsave("simdiffs.pdf",height=5,width=12)
+```
+

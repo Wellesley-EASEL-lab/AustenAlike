@@ -1,0 +1,110 @@
+name	novel	startIncome	endIncome	gender	age	estAge	rank	maritalStatus
+Anna Weston	E			F		36	new gentle	M
+Augusta Elton	E	500		F		24	new gentle	M
+Emma Woodhouse	E	1500		F	20	20	gentle	S
+Frank Churchill	E			M	25	25	gentle	S
+George Knightley	E			M	37	37	gentle	S
+Harriet Smith	E			F	17	17	profession	S
+Isabella Knightley	E			F	23	23	profession	M
+Jane Fairfax	E			F	20	20	gentle	S
+John Knightley	E			M	34	34	profession	M
+Miss Bates	E	100		F		40	gentle	S
+Mr. Weston	E			M		48	new gentle	M
+Mr. Woodhouse	E			M		55	gentle	W
+Mr. Perry	E			M		40	profession	M
+Mrs. Cole	E			F		40	new gentle	M
+Philip Elton	E			M	26	26	clergy	C
+Robert Martin	E	300		M	24	24	profession	S
+Dr. Grant	MP	1000	1250	M	45	45	clergy	M
+Edmund Bertram	MP	700		M	24	24	clergy	S
+Fanny Price	MP			F	18	18	new gentle	S
+Henry Crawford	MP	4000		M		24	gentle	S
+Julia Bertram	MP			F	20	20	gentry	S
+Lady Bertram	MP	350		F		50	gentry	M
+Maria Bertram	MP			F	21	21	gentry	C
+Mary Crawford	MP	1000		F		21	gentle	S
+Lieutenant Price	MP			M		50	soldier	M
+Mr. Rushworth	MP	12000		M		25	gentle	C
+Mr. Yates	MP			M		25	gentry	S
+Mrs. Grant	MP	250		F	30	30	clergy	M
+Mrs. Norris	MP	350	600	F		48	clergy	W
+Mrs. Price	MP			F		47	soldier	M
+Mrs. Rushworth	MP			F		50	gentle	W
+Sir Thomas Bertram	MP			M		55	gentry	M
+Susan Price	MP			F	14	14	soldier	S
+Tom Bertram	MP			M	25	25	gentry	S
+William Price	MP			M	19	19	soldier	M
+Catherine Morland	NA	150		F	17	17	clergy	S
+Eleanor Tilney	NA			F	23	23	gentle	S
+Frederick Tilney	NA			M	27	27	soldier	S
+General Tilney	NA			M	 	55	gentle	W
+Henry Tilney	NA			M	25	25	clergy	S
+Isabella Thorpe	NA			F	19	19	gentle	S
+James Morland	NA	400		M	20	20	clergy	S
+John Thorpe	NA			M	20	20	gentle	S
+Mr. Allen	NA			M		45	gentle	M
+Mrs. Allen	NA			F		40	gentle	M
+Mrs. Morland	NA			F		45	clergy	M
+Mrs. Thorpe	NA			F		45	gentle	W
+Admiral Croft	P			M		45	soldier	M
+Anne Elliot	P	500		F	27	27	gentry	S
+Captain Benwick	P	700		M		29	soldier	S
+Captain Harville	P		150	M		31	soldier	M
+Charles Hayter	P			M		25	clergy	S
+Charles Musgrove	P			M		27	gentle	M
+Elizabeth Elliot	P	500		F	30	30	gentry	S
+Henrietta Musgrove	P			F	20	20	gentle	S
+Lady Russell	P			F		52	gentry	W
+Louisa Musgrove	P			F	19	19	gentle	S
+Mary Musgrove	P	500		F	23	23	gentry	S
+Mr. Shepherd	P			M		50	profession	W
+Mrs. Clay	P			F		27	profession	W
+Mrs. Croft	P			F	38	38	soldier	M
+Mrs. Harville	P			F		30	soldier	M
+Mrs. Musgrove	P			F		48	gentle	M
+Mr. Musgrove	P			M		50	gentle	M
+Mrs. Smith	P			F	30	30	gentle	W
+Sir Walter Elliot	P	1500		M	54	54	gentry	M
+William Elliot	P			M	26	26	gentle	W
+Captain Wentworth	P	1250		M	33	33	soldier	S
+Caroline Bingley	P&P	1000		F		23	gentle	S
+Charles Bingley	P&P	5000		M	22	22	gentle	S
+Charlotte Lucas	P&P			F	27	27	gentle	C
+Colonel Fitzwilliam	P&P			M	30	30	peer	M
+Mr. Gardiner	P&P			M		48	profession	M
+Elizabeth Bennet	P&P	40		F	20	20	gentle	S
+Fitzwilliam Darcy	P&P	10000		M	28	28	gentle	S
+George Wickham	P&P	150		M	28	28	soldier	S
+Georgiana Darcy	P&P	1500		F	16	16	gentle	S
+Jane Bennet	P&P	40		F	22	22	gentle	S
+Kitty Bennet	P&P	40		F	17	17	gentle	S
+Lady Catherine de Bourgh	P&P			F		50	peer	W
+Lady Lucas	P&P			F		53	gentry	M
+Lydia Bennet	P&P	40		F	15	15	gentle	S
+Mary Bennet	P&P	40		F	19	19	gentle	S
+Mr. Bennet	P&P		2000	M		57	gentle	M
+Mrs. Bennet	P&P	200		F		50	gentle	M
+Mr. Phillips	P&P			M		55	profession	M
+Mrs. Gardiner	P&P			F		43	profession	M
+Mrs. Hurst	P&P	1000		F		25	gentle	M
+Mr. Hurst	P&P			M		30	gentle	M
+Mrs. Phillips	P&P			F		50	profession	M
+Sir William Lucas	P&P			M		60	gentry	M
+William Collins	P&P			M	25	25	clergy	C
+Anne Steele	S&S			F	29	29	profession	S
+Charlotte Palmer	S&S			F		23	gentle	M
+Colonel Brandon	S&S	2000		M	35	35	soldier	S
+Edward Ferrars	S&S	100	850	M	23	23	clergy	S
+Elinor Dashwood	S&S	50		F	19	19	gentle	S
+Fanny Dashwood	S&S			F		25	gentle	M
+John Dashwood	S&S		6000	M		30	gentle	M
+John Willoughby	S&S	600	3100	M	25	25	gentle	C
+Lady Middleton	S&S			F		30	gentry	M
+Lucy Steele	S&S			F	22	22	profession	S
+Margaret Dashwood	S&S	50		F		13	gentle	S
+Marianne Dashwood	S&S	50		F	17	17	gentle	S
+Mrs. Dashwood	S&S		500	F	40	40	gentle	W
+Mrs. Jennings	S&S			F		55	profession	W
+Robert Ferrars	S&S	1000		M	22	22	gentle	S
+Sir John Middleton	S&S			M		40	gentry	M
+Thomas Palmer	S&S			M	25	25	gentle	M

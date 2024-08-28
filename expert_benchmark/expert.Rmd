@@ -1,0 +1,115 @@
+---
+title: "Expert benchmark"
+output:
+  pdf_document: default
+  html_document: default
+date: '2023-07-25'
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+library(tidyverse)
+library(reshape2)
+```
+
+```{r}
+bd = read.csv('expert-benchmark.csv',header=TRUE)
+bd$Character <- str_replace(bd$Character,' ','.')
+bd$Character2 <- str_replace(bd$Character2,' ','.')
+```
+```{r}
+ffe <- read.csv('../data/scaled_fanfic_quotes_similarities.csv')
+data1 <- ffe %>% gather(key="Character2",value="FFQ_Sim",2:104)
+data1$Character <- str_replace(data1$character,' ','.')
+```
+
+```{r}
+ffa <- read.csv('../data/scaled_fanfic_assertions_similarities.csv')
+data2 <- ffa %>% gather(key="Character2",value="FFA_Sim",2:111)
+data2$Character <- str_replace(data2$character,' ','.')
+```
+
+```{r}
+be <- read.csv('../data/scaled_booknlp_events_similarities.csv')
+data3 <- be %>% gather(key="Character2",value="BE_Sim",2:104)
+data3$Character <- str_replace(data3$character,' ','.')
+```
+
+```{r}
+bm <- read.csv('../data/scaled_booknlp_modifiers_similarities.csv')
+data4 <- bm %>% gather(key="Character2",value="BM_Sim",2:104)
+data4$Character <- str_replace(data4$character,' ','.')
+```
+
+```{r}
+bq <- read.csv('../data/scaled_booknlp_quotes_similarities.csv')
+data5 <- bq %>% gather(key="Character2",value="BQ_Sim",2:99)
+data5$Character <- str_replace(data5$character,' ','.')
+```
+
+```{r}
+all <- merge(data1,bd,all=TRUE,row.names=c('Character','Character2'))
+```
+```{r}
+all1 <- merge(data2,all,all=TRUE,row.names=c('Character','Character2'))
+all2 <- merge(data3,all1,all=TRUE,row.names=c('Character','Character2'))
+all3 <- merge(data4,all2,all=TRUE,row.names=c('Character','Character2'))
+all4 <- merge(data5,all3,all=TRUE,row.names=c('Character','Character2'))
+benchmark <- subset(subset(all4,Character!=Character2),Count>0)
+```
+
+```{r}
+gathered <- na.omit(benchmark) %>% gather(key="dataset",value="sim",4:8)
+sum <- gathered %>% group_by(Novel,dataset)  %>% summarize(corSim = cor(sim,Count))
+ium <- subset(gathered,Novel!=Novel1) %>% group_by(Novel,dataset)  %>% summarize(corSim = cor(sim,Count))
+gathered %>% group_by(dataset)  %>% summarize(corSim = cor(sim,Count))
+```
+
+```{r}
+b <- gather(benchmark,key="Representation",value="Sim",4:8)
+ggplot(data=subset(b,Count>1&Character=="Elizabeth.Bennet")) + geom_point(aes(x=reorder(Character2,Count),y=Sim)) + geom_point(aes(x=reorder(Character2,Count),y=Count,color="blue")) + facet_wrap(~Representation) + theme(axis.text.x = element_text(angle = 90, vjust = 0.5, hjust=1))
+```
+
+```{r}
+prop <- b %>% group_by(Character,Representation) %>%  mutate(totalMeanS = mean(Sim,na.rm = TRUE),
+                                             totalMeanC = mean(Count,na.rm = TRUE),
+                                             seS = sd(Sim,na.rm = TRUE),
+                                             seC = sd(Count,na.rm = TRUE))
+
+prop <- prop %>% group_by(Character,Representation,Character2)%>% mutate(zSim = (Sim-totalMeanS)/seS,
+                                                          zCount = (Count-totalMeanC)/seC)
+```
+
+```{r}
+ggplot(data=subset(prop,Count>10&Character=="Elizabeth.Bennet"&is.na(zSim)==FALSE),aes(color=Representation)) + geom_point(aes(x=reorder(Character2,zCount),y=zSim)) + geom_point(aes(x=reorder(Character2,zCount),y=zCount,shape="star",color="purple")) + theme(axis.text.x = element_text(angle = 90, vjust = 0.5, hjust=1))
+```
+
+```{r}
+ggplot(data=subset(prop,Count>6&Character=="Anne.Elliot"&is.na(zSim)==FALSE),aes(color=Representation)) + geom_point(aes(x=reorder(Character2,zCount),y=zSim)) + geom_point(aes(x=reorder(Character2,zCount),y=zCount,shape="star",color="purple")) + theme(axis.text.x = element_text(angle = 90, vjust = 0.5, hjust=1))
+```
+
+```{r}
+ggplot(data=subset(prop,Count>10&Character=="Fanny.Price"&is.na(zSim)==FALSE),aes(color=Representation)) + geom_point(aes(x=reorder(Character2,zCount),y=zSim)) + geom_point(aes(x=reorder(Character2,zCount),y=zCount,shape="star",color="purple")) + theme(axis.text.x = element_text(angle = 90, vjust = 0.5, hjust=1))
+```
+
+```{r}
+ggplot(data=subset(prop,Count>10&Character=="Elinor.Dashwood"&is.na(zSim)==FALSE),aes(color=Representation)) + geom_point(aes(x=reorder(Character2,zCount),y=zSim)) + geom_point(aes(x=reorder(Character2,zCount),y=zCount,shape="star",color="purple")) + theme(axis.text.x = element_text(angle = 90, vjust = 0.5, hjust=1))
+```
+
+```{r}
+ggplot(data=subset(prop,Count>5&Character=="Catherine.Morland"&is.na(zSim)==FALSE),aes(color=Representation)) + geom_point(aes(x=reorder(Character2,zCount),y=zSim)) + geom_point(aes(x=reorder(Character2,zCount),y=zCount,shape="star",color="purple")) + theme(axis.text.x = element_text(angle = 90, vjust = 0.5, hjust=1))
+```
+
+```{r}
+ggplot(data=subset(prop,Count>14&Character=="Emma.Woodhouse"&is.na(zSim)==FALSE),aes(color=Representation)) + geom_point(aes(x=reorder(Character2,zCount),y=zSim)) + geom_point(aes(x=reorder(Character2,zCount),y=zCount,shape="star",color="purple")) + theme(axis.text.x = element_text(angle = 90, vjust = 0.5, hjust=1))
+```
+
+```{r}
+results = read.csv('results/all_results.csv',header=TRUE,stringsAsFactors = FALSE)
+```
+
+```{r}
+subset(results,metric=="Top10success") %>% group_by(excludeNovel,dataset) %>% summarize(meanTop10 = mean(result))
+subset(results,metric=="Jaccard") %>% group_by(excludeNovel,dataset) %>% summarize(meanJaccard = mean(result))
+subset(results,metric=="KendallTau") %>% group_by(excludeNovel,dataset) %>% summarize(meanTau = mean(result))
+```

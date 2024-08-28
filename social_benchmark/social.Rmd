@@ -1,0 +1,99 @@
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+library(tidyverse)
+```
+
+```{r}
+benchmark <- read.csv('austen-social.tsv',header=TRUE,stringsAsFactors = FALSE,sep="\t")
+```
+
+```{r}
+topsim = read.csv('results/all_topsim.csv',header=TRUE,stringsAsFactors = FALSE)
+topsim$dataset <- str_remove(topsim$dataset,"scaled-")
+simdiffs = read.csv('results/all_simdiffs.csv',header=TRUE,stringsAsFactors = FALSE)
+simdiffs$dataset <- str_remove(simdiffs$dataset,"scaled-")
+```
+
+```{r}
+ggplot(data=topsim,aes(x=category,y=`Top_in_group`,fill=dataset)) + geom_bar(position="dodge2", stat = "summary") + ylab("Most Similiar Character In Same Role Category (%)") + xlab("Role Category") + facet_wrap(~comparison,scales = "free_x")
+```
+
+```{r}
+ggplot(data=topsim,aes(x=comparison,y=`Top_in_group`,fill=dataset)) + geom_bar(position="dodge2", stat = "summary") + ylab("Most Similiar Character In Same Role Category (%)") + xlab("Novel")+ facet_wrap(~novel,scales = "free_x")
+```
+
+```{r}
+subset(topsim,dataset=="fanfic-assertions") %>% group_by(comparison,category) %>% summarize(meanTopSim = mean(Top_in_group))
+subset(topsim,dataset=="fanfic-quotes") %>% group_by(comparison,category) %>% summarize(meanTopSim = mean(Top_in_group))
+subset(topsim,dataset=="booknlp-events") %>% group_by(comparison,category) %>% summarize(meanTopSim = mean(Top_in_group))
+subset(topsim,dataset=="fanfic-assertions") %>% group_by(comparison) %>% summarize(meanTopSim = mean(Top_in_group))
+subset(topsim,dataset=="fanfic-quotes") %>% group_by(comparison) %>% summarize(meanTopSim = mean(Top_in_group))
+subset(topsim,dataset=="booknlp-events") %>% group_by(comparison) %>% summarize(meanTopSim = mean(Top_in_group))
+sum<-topsim %>% group_by(dataset,comparison) %>% summarize(meanTopSim = mean(Top_in_group))
+topsim %>% group_by(dataset) %>% summarize(meanTopSim = mean(Top_in_group))
+sum
+```
+
+```{r}
+subset(topsim,dataset=="fanfic-quotes"&novel!=topNovel) %>% group_by(comparison,category) %>% summarize(meanTopSim = mean(Top_in_group))
+subset(topsim,dataset=="fanfic-assertions"&novel!=topNovel) %>% group_by(comparison,category) %>% summarize(meanTopSim = mean(Top_in_group))
+subset(topsim,dataset=="booknlp-events"&novel!=topNovel) %>% group_by(comparison,category) %>% summarize(meanTopSim = mean(Top_in_group))
+subset(topsim,dataset=="fanfic-quotes"&novel!=topNovel) %>% group_by(comparison) %>% summarize(meanTopSim = mean(Top_in_group))
+subset(topsim,dataset=="fanfic-assertions"&novel!=topNovel) %>% group_by(comparison) %>% summarize(meanTopSim = mean(Top_in_group))
+subset(topsim,dataset=="booknlp-events"&novel!=topNovel) %>% group_by(comparison) %>% summarize(meanTopSim = mean(Top_in_group))
+sim <- subset(topsim,novel!=topNovel) %>% group_by(dataset,comparison) %>% summarize(meanTopSim = mean(Top_in_group))
+subset(topsim,novel!=topNovel) %>% group_by(dataset) %>% summarize(meanTopSim = mean(Top_in_group))
+sim
+```
+
+```{r}
+topsim1 = read.csv('../gpt4-baseline/results/gpt4-plain_social_topsim.csv',header=TRUE,stringsAsFactors = FALSE)
+topsim2 = read.csv('../gpt4-baseline/results/gpt4-reasoning_social_topsim.csv',header=TRUE,stringsAsFactors = FALSE)
+gpt <- rbind(topsim1,topsim2)
+subset(gpt) %>% group_by(dataset,comparison) %>% summarize(meanTopSim = mean(Top_in_group))
+```
+
+```{r}
+ggplot(data=simdiffs,aes(x=category,y=`Sim_diffs`,fill=dataset)) + geom_bar(position="dodge2", stat = "summary") + ylab("Difference Between In-group and Out-group Similarity") + xlab("Role Category") + facet_wrap(~comparison,scales = "free_x")
+```
+
+```{r}
+gathered <- simdiffs %>% gather(key="group",value="sim",8:9)
+ggplot(data=subset(gathered,dataset="fanfic-events"),aes(x=category,y=sim,fill=group)) + geom_bar(position="dodge2", stat = "summary") + ylab("Difference Between In-group and Out-group Event Similarity") + xlab("Role Category") + facet_wrap(~comparison,scales = "free_x") +scale_fill_discrete(labels =c("Same Role","Other"))
+```
+
+```{r}
+gathered <- simdiffs %>% gather(key="group",value="sim",8:9)
+ggplot(data=subset(gathered,dataset="scaled-fanfic-events"),aes(x=category,y=sim,fill=group)) + geom_bar(position="dodge2", stat = "summary") + ylab("Difference Between In-group and Out-group Event Similarity") + xlab("Role Category") + facet_wrap(~comparison,scales = "free_x") +scale_fill_discrete(labels =c("Same Role","Other"))
+```
+
+```{r}
+ggplot(data=subset(gathered,dataset="fanFiction_assertions"),aes(x=category,y=sim,fill=group)) + geom_bar(position="dodge2", stat = "summary") + ylab("Difference Between In-group and Out-group Assertion Similarity") + xlab("Role Category") + facet_wrap(~comparison,scales = "free_x") +scale_fill_discrete(labels =c("Same Role","Other"))
+```
+
+```{r}
+ggplot(data=gathered,aes(x=category,y=sim,fill=paste(dataset,group))) + geom_bar(position="dodge2", stat = "summary") + ylab("Difference Between In-group and Out-group Assertion Similarity") + xlab("Role Category") + facet_wrap(~comparison,scales = "free_x") + scale_fill_manual(name = "Dataset", values=c("#90EE90","#3CB371","#56B4E9","#0072B2","#d7cafb","#483D8B","#f768a1","#980043","#ffee48","#FFB000"),labels=c('BNLP-Events - In', "BNLP-Events - Out",'BNLP-Modifiers - In', "BNLP-Modifiers - Out",'BNLP-Quotes - In', "BNLP-Quotes - Out",'FFNLP-Assertions - In', "FFNLP-Assertions - Out",'FFNLP-Quotes - In', "FFNLP-Quotes - Out"))
+```
+
+```{r}
+gathered$comparison <- ifelse(gathered$comparison=="maritalStatus","Marital Status",gathered$comparison)
+ggplot(data=gathered,aes(x=comparison,y=sim,fill=paste(dataset,group))) + geom_bar(position="dodge2", stat = "summary") + ylab("Mean In-group and Out-group Similarities") + scale_fill_manual(name = "Dataset", values=c("#90EE90","#3CB371","#56B4E9","#0072B2","#d7cafb","#483D8B","#f768a1","#980043","#ffee48","#FFB000"),labels=c('BNLP-Events - In', "BNLP-Events - Out",'BNLP-Modifiers - In', "BNLP-Modifiers - Out",'BNLP-Quotes - In', "BNLP-Quotes - Out",'FFNLP-Assertions - In', "FFNLP-Assertions - Out",'FFNLP-Quotes - In', "FFNLP-Quotes - Out")) + theme(text=element_text(size=14),axis.text.x = element_text(size=14, face="bold", color = "black"),legend.position="bottom") + scale_x_discrete(name ="Role Category", labels=str_to_title)
+
+ggsave("soc_simdiffs.pdf",height=5,width=13)
+```
+
+```{r}
+clusters = read.csv('all_clusters.csv',header=TRUE,stringsAsFactors = FALSE)
+```
+
+```{r}
+clusters$Category <- str_trim(str_replace_all(str_replace(clusters$Category,fixed('('),''),fixed("'"),''))
+clusters$Group <- str_trim(str_replace_all(str_replace(clusters$Group,fixed(')'),''),fixed("'"),''))
+```
+
+```{r}
+run_averages <- clusters %>% group_by(Dataset,Category,Group) %>% summarize(runMean = mean(Purity))
+s<- subset(run_averages,Dataset=="fanFictionAssertions") %>% group_by(Category)
+run_averages %>% group_by(Dataset,Category) %>% summarize(meanPurity = mean(runMean))
+```

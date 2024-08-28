@@ -1,0 +1,110 @@
+Character	MostCommon	C1	C2	C3	C4	C5
+Anna Weston	Emma Woodhouse	Emma Woodhouse	Emma Woodhouse	Emma Woodhouse	Emma Woodhouse	Emma Woodhouse
+Augusta Elton	Philip Elton	Philip Elton	Philip Elton	Philip Elton	Philip Elton	Philip Elton
+Emma Woodhouse	Harriet Smith	Harriet Smith	Harriet Smith	Jane Fairfax	Harriet Smith	Harriet Smith
+Frank Churchill	Captain Wentworth	Captain Wentworth	Captain Wentworth	John Willoughby	Captain Wentworth	John Willoughby
+George Knightley	Frank Churchill	Frank Churchill	Frank Churchill	Frank Churchill	Frank Churchill	Frank Churchill
+Harriet Smith	Isabella Knightley	Isabella Knightley	Emma Woodhouse	Isabella Knightley	Isabella Knightley	Emma Woodhouse
+Isabella Knightley	Emma Woodhouse	Emma Woodhouse	Emma Woodhouse	Emma Woodhouse	Emma Woodhouse	Emma Woodhouse
+Jane Fairfax	Fanny Price	Fanny Price	Fanny Price	Fanny Price	Fanny Price	Fanny Price
+John Knightley	Jane Fairfax	Jane Fairfax	Jane Fairfax	Sir Thomas Bertram	John Knightley	Mr. Yates
+Miss Bates	Mr. Weston	Mr. Weston	Mr. Weston	Augusta Elton	Augusta Elton	Mr. Weston
+Mr. Weston	George Knightley	George Knightley	Anna Weston	George Knightley	Frank Churchill	Frank Churchill
+Mr. Woodhouse	Mr. Perry	Mr. Perry	Mr. Perry	Mr. Perry	Mr. Perry	Mr. Perry
+Mr. Perry	Dr. Grant	Dr. Grant	Dr. Grant	Dr. Grant	Mrs. Cole	Dr. Grant
+Mrs. Cole	Miss Bates	Miss Bates	Miss Bates	Miss Bates	Miss Bates	Miss Bates
+Philip Elton	Augusta Elton	Augusta Elton	Augusta Elton	Augusta Elton	Augusta Elton	Augusta Elton
+Robert Martin	John Willoughby	Philip Elton	John Willoughby	John Willoughby	John Willoughby	John Willoughby
+Dr. Grant	Mrs. Grant	Mrs. Grant	Mrs. Grant	Mrs. Grant	Mrs. Grant	Mrs. Grant
+Edmund Bertram	Edward Ferrars	Edward Ferrars	Edward Ferrars	Edward Ferrars	Edward Ferrars	Edward Ferrars
+Fanny Price	Henry Crawford	Henry Crawford	Henry Crawford	Henry Crawford	Henry Crawford	Henry Crawford
+Henry Crawford	John Willoughby	John Willoughby	John Willoughby	John Willoughby	John Willoughby	John Willoughby
+Julia Bertram	Maria Bertram	Maria Bertram	Maria Bertram	Maria Bertram	Maria Bertram	Maria Bertram
+Lady Bertram	Maria Bertram	Maria Bertram	Maria Bertram	Maria Bertram	Maria Bertram	Maria Bertram
+Maria Bertram	Mary Crawford	Mary Crawford	Mary Crawford	Mary Crawford	Mary Crawford	Mary Crawford
+Mary Crawford	John Willoughby	John Willoughby	John Willoughby	John Willoughby	John Willoughby	John Willoughby
+Lieutenant Price	William Price	William Price	William Price	William Price	William Price	William Price
+Mr. Rushworth	Mr. Yates	Mr. Yates	Mr. Yates	Mr. Yates	Mr. Yates	Mr. Yates
+Mr. Yates	Mr. Rushworth	John Thorpe	Mr. Rushworth	Mr. Rushworth	Mr. Rushworth	John Thorpe
+Mrs. Grant	Mrs. Norris	Mrs. Norris	Mrs. Jennings	Mrs. Norris	Mrs. Norris	Mrs. Jennings
+Mrs. Norris	Fanny Dashwood	Fanny Dashwood	Fanny Dashwood	Fanny Dashwood	Fanny Dashwood	Fanny Dashwood
+Mrs. Price	Mrs. Morland	Mrs. Morland	Mrs. Morland	Mrs. Morland	Mrs. Morland	Mrs. Morland
+Mrs. Rushworth	Maria Bertram	Maria Bertram	Maria Bertram	Maria Bertram	Maria Bertram	Maria Bertram
+Sir Thomas Bertram	Sir Walter Elliot	Sir Walter Elliot	General Tilney	Sir Walter Elliot	Sir Walter Elliot	Sir Walter Elliot
+Susan Price	Fanny Price	Fanny Price	Fanny Price	Fanny Price	Fanny Price	Fanny Price
+Tom Bertram	William Price	William Price	William Price	William Price	William Price	William Price
+William Price	Tom Bertram	Tom Bertram	Tom Bertram	Tom Bertram	Tom Bertram	Tom Bertram
+Catherine Morland	Elizabeth Bennet	Anne Elliot	Elizabeth Bennet	Elizabeth Bennet	Elizabeth Bennet	Elizabeth Bennet
+Eleanor Tilney	Elinor Dashwood	Elinor Dashwood	Elinor Dashwood	Elinor Dashwood	Elinor Dashwood	Elinor Dashwood
+Frederick Tilney	Henry Tilney	Henry Tilney	Henry Tilney	Henry Tilney	Henry Tilney	Henry Tilney
+General Tilney	Sir Walter Elliot	Sir Walter Elliot	Sir Walter Elliot	Sir Walter Elliot	Sir Walter Elliot	Sir Walter Elliot
+Henry Tilney	Fitzwilliam Darcy	Fitzwilliam Darcy	Fitzwilliam Darcy	Fitzwilliam Darcy	Fitzwilliam Darcy	Fitzwilliam Darcy
+Isabella Thorpe	John Thorpe	John Thorpe	John Thorpe	John Thorpe	John Thorpe	John Thorpe
+James Morland	John Thorpe	John Thorpe	John Thorpe	John Thorpe	John Thorpe	John Thorpe
+John Thorpe	Mr. Allen	Mr. Allen	Mr. Allen	Mr. Allen	Mr. Allen	Mr. Allen
+Mr. Allen	Mr. Shepherd	Mr. Shepherd	Mrs. Allen	Mr. Shepherd	Mr. Shepherd	Mr. Shepherd
+Mrs. Allen	Mr. Allen	Mr. Allen	Mr. Allen	Mr. Allen	Mr. Allen	Mr. Allen
+Mrs. Morland	Mrs. Allen	Mrs. Allen	Mrs. Allen	Mrs. Dashwood	Mrs. Allen	Mrs. Dashwood
+Mrs. Thorpe	Mrs. Morland	Mrs. Morland	Mrs. Morland	Mrs. Morland	Mrs. Morland	Mrs. Morland
+Admiral Croft	Mrs. Croft	Mrs. Croft	Mrs. Croft	Mrs. Croft	Mrs. Croft	Mrs. Croft
+Anne Elliot	Elizabeth Bennet	Elizabeth Bennet	Elizabeth Bennet	Elinor Dashwood	Elizabeth Bennet	Anne Elliot
+Captain Benwick	Captain Wentworth	Captain Wentworth	Captain Wentworth	Captain Wentworth	Captain Wentworth	Captain Wentworth
+Captain Harville	Captain Benwick	Captain Benwick	Captain Benwick	Captain Benwick	Captain Wentworth	Captain Benwick
+Charles Hayter	Charles Musgrove	Charles Musgrove	Charles Musgrove	Charles Bingley	Charles Musgrove	Charles Bingley
+Charles Musgrove	Elizabeth Elliot	Elizabeth Elliot	Elizabeth Elliot	Elizabeth Elliot	Elizabeth Elliot	Mary Musgrove
+Elizabeth Elliot	Anne Elliot	Anne Elliot	Anne Elliot	Anne Elliot	Anne Elliot	Anne Elliot
+Henrietta Musgrove	Louisa Musgrove	Louisa Musgrove	Louisa Musgrove	Louisa Musgrove	Louisa Musgrove	Louisa Musgrove
+Lady Russell	Lady Russell	Lady Russell	Lady Russell	Lady Russell	Lady Catherine de Bourgh	Lady Catherine de Bourgh
+Louisa Musgrove	Henrietta Musgrove	Henrietta Musgrove	Henrietta Musgrove	Henrietta Musgrove	Henrietta Musgrove	Henrietta Musgrove
+Mary Musgrove	Mary Musgrove	Mary Musgrove	Mary Musgrove	Mary Musgrove	Mary Musgrove	Mary Musgrove
+Mr. Shepherd	Sir Walter Elliot	Mrs. Clay	Sir Walter Elliot	Sir Walter Elliot	Mrs. Clay	Sir Walter Elliot
+Mrs. Clay	Mrs. Thorpe	Mrs. Thorpe	Mrs. Smith	Mrs. Thorpe	Mrs. Thorpe	Mrs. Thorpe
+Mrs. Croft	Admiral Croft	Admiral Croft	Admiral Croft	Admiral Croft	Admiral Croft	Admiral Croft
+Mrs. Harville	Mrs. Musgrove	Mrs. Musgrove	Mrs. Musgrove	Mrs. Musgrove	Mrs. Musgrove	Mrs. Musgrove
+Mrs. Musgrove	Mr. Musgrove	Mr. Musgrove	Mr. Musgrove	Mr. Musgrove	Mr. Musgrove	Mr. Musgrove
+Mr. Musgrove	Mrs. Musgrove	Mrs. Musgrove	Mrs. Musgrove	Mrs. Musgrove	Mrs. Musgrove	Mrs. Musgrove
+Mrs. Smith	Mrs. Clay	Mrs. Clay	Mrs. Clay	Mrs. Dashwood	Mrs. Clay	Mrs. Dashwood
+Sir Walter Elliot	Lady Catherine de Bourgh	Lady Catherine de Bourgh	Lady Catherine de Bourgh	Lady Catherine de Bourgh	Elizabeth Elliot	Lady Catherine de Bourgh
+William Elliot	Captain Wentworth	Captain Wentworth	Captain Wentworth	George Wickham	Sir Walter Elliot	Captain Wentworth
+Captain Wentworth	Captain Benwick	Captain Benwick	Captain Benwick	Captain Benwick	Captain Benwick	Captain Benwick
+Caroline Bingley	Lady Catherine de Bourgh	Lady Catherine de Bourgh	Lady Catherine de Bourgh	Lady Catherine de Bourgh	Lady Catherine de Bourgh	Charles Bingley
+Charles Bingley	Elizabeth Elliot	Charlotte Lucas	Elizabeth Elliot	Elizabeth Elliot	Elizabeth Elliot	Elizabeth Elliot
+Charlotte Lucas	Charlotte Palmer	William Collins	Charlotte Palmer	Charlotte Palmer	Charlotte Palmer	Charlotte Palmer
+Colonel Fitzwilliam	Colonel Brandon	Colonel Brandon	Colonel Brandon	Colonel Brandon	Colonel Brandon	Colonel Brandon
+Mr. Gardiner	Mrs. Gardiner	Mrs. Gardiner	Mr. Bennet	Mr. Bennet	Mrs. Gardiner	Mr. Phillips
+Elizabeth Bennet	Emma Woodhouse	Emma Woodhouse	Emma Woodhouse	Emma Woodhouse	Emma Woodhouse	Elinor Dashwood
+Fitzwilliam Darcy	Colonel Fitzwilliam	Colonel Fitzwilliam	Colonel Fitzwilliam	Colonel Fitzwilliam	Colonel Fitzwilliam	Colonel Fitzwilliam
+George Wickham	John Willoughby	John Willoughby	John Willoughby	John Willoughby	John Willoughby	John Willoughby
+Georgiana Darcy	Jane Bennet	Jane Bennet	Jane Bennet	Jane Bennet	Jane Bennet	Jane Bennet
+Jane Bennet	Jane Bennet	Jane Bennet	Jane Fairfax	Jane Fairfax	Jane Bennet	Jane Bennet
+Kitty Bennet	Lydia Bennet	Lydia Bennet	Lydia Bennet	Lydia Bennet	Lydia Bennet	Lydia Bennet
+Lady Catherine de Bourgh	Lady Lucas	Lady Russell	Lady Lucas	Lady Lucas	Lady Lucas	Lady Lucas
+Lady Lucas	Lady Catherine de Bourgh	Lady Catherine de Bourgh	Lady Catherine de Bourgh	Lady Catherine de Bourgh	Lady Catherine de Bourgh	Lady Catherine de Bourgh
+Lydia Bennet	George Wickham	George Wickham	George Wickham	George Wickham	George Wickham	George Wickham
+Mary Bennet	Margaret Dashwood	Margaret Dashwood	Margaret Dashwood	Margaret Dashwood	Elinor Dashwood	Margaret Dashwood
+Mr. Bennet	Mr. Bennet	Mrs. Bennet	Mr. Bennet	Mrs. Bennet	Mr. Bennet	Mr. Bennet
+Mrs. Bennet	Mrs. Jennings	Mrs. Thorpe	Mrs. Jennings	Mrs. Dashwood	Mrs. Jennings	Mrs. Jennings
+Mr. Phillips	Mrs. Phillips	Mrs. Phillips	Mrs. Phillips	Mrs. Phillips	Mrs. Phillips	Mrs. Phillips
+Mrs. Gardiner	Charlotte Lucas	Charlotte Lucas	Mrs. Dashwood	Charlotte Lucas	Charlotte Lucas	Charlotte Lucas
+Mrs. Hurst	Caroline Bingley	Mr. Hurst	Mr. Hurst	Caroline Bingley	Caroline Bingley	Caroline Bingley
+Mr. Hurst	Mr. Hurst	Mr. Hurst	Mr. Hurst	Sir William Lucas	Mr. Hurst	Sir William Lucas
+Mrs. Phillips	Mrs. Bennet	Mr. Phillips	Mr. Phillips	Mrs. Bennet	Mrs. Bennet	Mrs. Bennet
+Sir William Lucas	Lady Catherine de Bourgh	Lady Catherine de Bourgh	Lady Catherine de Bourgh	Lady Catherine de Bourgh	Lady Catherine de Bourgh	Lady Catherine de Bourgh
+William Collins	Mr. Rushworth	Mr. Rushworth	Sir Walter Elliot	Mr. Rushworth	Sir Walter Elliot	Mr. Rushworth
+Anne Steele	Lucy Steele	Lucy Steele	Lucy Steele	Lucy Steele	Lucy Steele	Lucy Steele
+Charlotte Palmer	Thomas Palmer	Mrs. Jennings	Thomas Palmer	Thomas Palmer	Thomas Palmer	Thomas Palmer
+Colonel Brandon	Colonel Fitzwilliam	Colonel Fitzwilliam	Colonel Fitzwilliam	Colonel Fitzwilliam	Colonel Fitzwilliam	Colonel Fitzwilliam
+Edward Ferrars	Colonel Brandon	Colonel Brandon	Colonel Brandon	Colonel Brandon	Colonel Brandon	Colonel Brandon
+Elinor Dashwood	Elinor Dashwood	Elinor Dashwood	Elinor Dashwood	Elinor Dashwood	Elinor Dashwood	Fanny Dashwood
+Fanny Dashwood	Lucy Steele	Lucy Steele	Lucy Steele	Lucy Steele	Fanny Dashwood	Lucy Steele
+John Dashwood	Robert Ferrars	William Elliot	Robert Ferrars	Robert Ferrars	Robert Ferrars	Robert Ferrars
+John Willoughby	George Wickham	George Wickham	George Wickham	George Wickham	George Wickham	George Wickham
+Lady Middleton	Lady Middleton	Lady Middleton	Mrs. Jennings	Mrs. Jennings	Lady Middleton	Lady Middleton
+Lucy Steele	Anne Steele	Anne Steele	Anne Steele	Anne Steele	Anne Steele	Anne Steele
+Margaret Dashwood	Marianne Dashwood	Marianne Dashwood	Marianne Dashwood	Marianne Dashwood	Marianne Dashwood	Marianne Dashwood
+Marianne Dashwood	Margaret Dashwood	Margaret Dashwood	Margaret Dashwood	Marianne Dashwood	Margaret Dashwood	Marianne Dashwood
+Mrs. Dashwood	Mrs. Morland	Mrs. Morland	Mrs. Morland	Mrs. Morland	Mrs. Morland	Mrs. Morland
+Mrs. Jennings	Mrs. Dashwood	Mrs. Dashwood	Mrs. Dashwood	Mrs. Dashwood	Charlotte Palmer	Mrs. Dashwood
+Robert Ferrars	John Willoughby	John Willoughby	John Willoughby	John Willoughby	John Willoughby	John Willoughby
+Sir John Middleton	Sir William Lucas	Sir William Lucas	Sir William Lucas	Sir William Lucas	Sir William Lucas	Sir William Lucas
+Thomas Palmer	Charlotte Palmer	Charlotte Palmer	Charlotte Palmer	Charlotte Palmer	Charlotte Palmer	Charlotte Palmer

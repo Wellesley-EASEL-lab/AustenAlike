@@ -1,0 +1,111 @@
+dataset,Top_in_group,category,exclude,novel,character,top,topNovel
+scaled-fanfic-quotes,0,deceiver,0,E,Frank Churchill,Emma Woodhouse,E
+scaled-fanfic-quotes,0,deceiver,0,P&P,George Wickham,Elizabeth Bennet,P&P
+scaled-fanfic-quotes,0,deceiver,0,S&S,John Willoughby,Elinor Dashwood,S&S
+scaled-fanfic-quotes,0,deceiver,0,MP,Henry Crawford,Fanny Price,MP
+scaled-fanfic-quotes,0,deceiver,0,N,John Thorpe,Catherine Morland,N
+scaled-fanfic-quotes,0,deceiver,0,P,William Elliot,Anne Elliot,P
+scaled-fanfic-quotes,0,hero,0,E,George Knightley,Emma Woodhouse,E
+scaled-fanfic-quotes,0,hero,0,MP,Edmund Bertram,Fanny Price,MP
+scaled-fanfic-quotes,0,hero,0,N,Henry Tilney,Catherine Morland,N
+scaled-fanfic-quotes,0,hero,0,P,Captain Wentworth,Anne Elliot,P
+scaled-fanfic-quotes,0,hero,0,P&P,Fitzwilliam Darcy,Elizabeth Bennet,P&P
+scaled-fanfic-quotes,1,hero,0,S&S,Colonel Brandon,Edward Ferrars,S&S
+scaled-fanfic-quotes,1,hero,0,S&S,Edward Ferrars,Colonel Brandon,S&S
+scaled-fanfic-quotes,0,heroine,0,E,Emma Woodhouse,George Knightley,E
+scaled-fanfic-quotes,0,heroine,0,MP,Fanny Price,Sir Thomas Bertram,MP
+scaled-fanfic-quotes,0,heroine,0,N,Catherine Morland,Isabella Thorpe,N
+scaled-fanfic-quotes,0,heroine,0,P,Anne Elliot,Captain Wentworth,P
+scaled-fanfic-quotes,0,heroine,0,P&P,Elizabeth Bennet,Fitzwilliam Darcy,P&P
+scaled-fanfic-quotes,0,heroine,0,S&S,Elinor Dashwood,John Willoughby,S&S
+scaled-fanfic-quotes,0,heroine,0,S&S,Marianne Dashwood,Colonel Brandon,S&S
+scaled-fanfic-quotes,0,parent,0,E,Mr. Woodhouse,Miss Bates,E
+scaled-fanfic-quotes,0,parent,0,MP,Lady Bertram,Fanny Price,MP
+scaled-fanfic-quotes,0,parent,0,MP,Mrs. Norris,Fanny Price,MP
+scaled-fanfic-quotes,1,parent,0,MP,Mrs. Price,Mrs. Norris,MP
+scaled-fanfic-quotes,0,parent,0,MP,Sir Thomas Bertram,Fanny Price,MP
+scaled-fanfic-quotes,0,parent,0,N,Mrs. Morland,Isabella Thorpe,N
+scaled-fanfic-quotes,0,parent,0,P,Lady Russell,Anne Elliot,P
+scaled-fanfic-quotes,0,parent,0,P,Sir Walter Elliot,Mr. Shepherd,P
+scaled-fanfic-quotes,0,parent,0,P&P,Mr. Bennet,Elizabeth Bennet,P&P
+scaled-fanfic-quotes,0,parent,0,P&P,Mrs. Bennet,Elizabeth Bennet,P&P
+scaled-fanfic-quotes,0,parent,0,S&S,Mrs. Dashwood,Elinor Dashwood,S&S
+scaled-fanfic-quotes,0,rival,0,E,Harriet Smith,Emma Woodhouse,E
+scaled-fanfic-quotes,0,rival,0,E,Jane Fairfax,Emma Woodhouse,E
+scaled-fanfic-quotes,0,rival,0,MP,Mary Crawford,Mr. Rushworth,MP
+scaled-fanfic-quotes,0,rival,0,P,Louisa Musgrove,Colonel Brandon,S&S
+scaled-fanfic-quotes,0,rival,0,P&P,Caroline Bingley,Fitzwilliam Darcy,P&P
+scaled-fanfic-quotes,0,rival,0,S&S,Lucy Steele,Elinor Dashwood,S&S
+scaled-fanfic-quotes,0,sibling,0,E,Isabella Knightley,Frank Churchill,E
+scaled-fanfic-quotes,1,sibling,0,MP,Susan Price,William Price,MP
+scaled-fanfic-quotes,0,sibling,0,MP,William Price,Sir Thomas Bertram,MP
+scaled-fanfic-quotes,0,sibling,0,N,James Morland,Mrs. Allen,N
+scaled-fanfic-quotes,0,sibling,0,P,Elizabeth Elliot,Anne Elliot,P
+scaled-fanfic-quotes,0,sibling,0,P,Mary Musgrove,Anne Elliot,P
+scaled-fanfic-quotes,0,sibling,0,P&P,Jane Bennet,Elizabeth Bennet,P&P
+scaled-fanfic-quotes,0,sibling,0,P&P,Kitty Bennet,Mr. Bennet,P&P
+scaled-fanfic-quotes,0,sibling,0,P&P,Lydia Bennet,Charles Bingley,P&P
+scaled-fanfic-quotes,0,sibling,0,P&P,Mary Bennet,Mr. Rushworth,MP
+scaled-fanfic-quotes,0,sibling,0,S&S,John Dashwood,Elinor Dashwood,S&S
+scaled-fanfic-quotes,0,sibling,0,S&S,Margaret Dashwood,Robert Ferrars,S&S
+scaled-fanfic-quotes,0,wooer,0,MP,Henry Crawford,Fanny Price,MP
+scaled-fanfic-quotes,0,wooer,0,N,John Thorpe,Catherine Morland,N
+scaled-fanfic-quotes,0,wooer,0,P,William Elliot,Anne Elliot,P
+scaled-fanfic-quotes,0,wooer,0,E,Philip Elton,Miss Bates,E
+scaled-fanfic-quotes,0,wooer,0,P,Charles Musgrove,Anne Elliot,P
+scaled-fanfic-quotes,0,wooer,0,P&P,William Collins,Mrs. Bennet,P&P
+scaled-fanfic-quotes,0,deceiver,1,E,Frank Churchill,Sir Walter Elliot,P
+scaled-fanfic-quotes,0,deceiver,1,P&P,George Wickham,Henry Tilney,N
+scaled-fanfic-quotes,0,deceiver,1,S&S,John Willoughby,Harriet Smith,E
+scaled-fanfic-quotes,0,deceiver,1,MP,Henry Crawford,Catherine Morland,N
+scaled-fanfic-quotes,0,deceiver,1,N,John Thorpe,Mr. Gardiner,P&P
+scaled-fanfic-quotes,0,deceiver,1,P,William Elliot,Mr. Weston,E
+scaled-fanfic-quotes,0,hero,1,E,George Knightley,Thomas Palmer,S&S
+scaled-fanfic-quotes,0,hero,1,MP,Edmund Bertram,Catherine Morland,N
+scaled-fanfic-quotes,0,hero,1,N,Henry Tilney,Mrs. Hurst,P&P
+scaled-fanfic-quotes,0,hero,1,P,Captain Wentworth,Mrs. Price,MP
+scaled-fanfic-quotes,0,hero,1,P&P,Fitzwilliam Darcy,Mr. Rushworth,MP
+scaled-fanfic-quotes,0,hero,1,S&S,Colonel Brandon,Admiral Croft,P
+scaled-fanfic-quotes,0,hero,1,S&S,Edward Ferrars,Augusta Elton,E
+scaled-fanfic-quotes,0,heroine,1,E,Emma Woodhouse,John Willoughby,S&S
+scaled-fanfic-quotes,1,heroine,1,MP,Fanny Price,Catherine Morland,N
+scaled-fanfic-quotes,1,heroine,1,N,Catherine Morland,Fanny Price,MP
+scaled-fanfic-quotes,0,heroine,1,P,Anne Elliot,Susan Price,MP
+scaled-fanfic-quotes,1,heroine,1,P&P,Elizabeth Bennet,Catherine Morland,N
+scaled-fanfic-quotes,0,heroine,1,S&S,Elinor Dashwood,Harriet Smith,E
+scaled-fanfic-quotes,0,heroine,1,S&S,Marianne Dashwood,Admiral Croft,P
+scaled-fanfic-quotes,1,parent,1,E,Mr. Woodhouse,Sir Walter Elliot,P
+scaled-fanfic-quotes,0,parent,1,MP,Lady Bertram,Catherine Morland,N
+scaled-fanfic-quotes,0,parent,1,MP,Mrs. Norris,Catherine Morland,N
+scaled-fanfic-quotes,0,parent,1,MP,Mrs. Price,Captain Wentworth,P
+scaled-fanfic-quotes,0,parent,1,MP,Sir Thomas Bertram,Catherine Morland,N
+scaled-fanfic-quotes,0,parent,1,N,Mrs. Morland,Susan Price,MP
+scaled-fanfic-quotes,0,parent,1,P,Lady Russell,Philip Elton,E
+scaled-fanfic-quotes,0,parent,1,P,Sir Walter Elliot,Miss Bates,E
+scaled-fanfic-quotes,0,parent,1,P&P,Mr. Bennet,Robert Martin,E
+scaled-fanfic-quotes,1,parent,1,P&P,Mrs. Bennet,Sir Thomas Bertram,MP
+scaled-fanfic-quotes,0,parent,1,S&S,Mrs. Dashwood,Jane Bennet,P&P
+scaled-fanfic-quotes,0,rival,1,E,Harriet Smith,Colonel Brandon,S&S
+scaled-fanfic-quotes,0,rival,1,E,Jane Fairfax,Mrs. Smith,P
+scaled-fanfic-quotes,0,rival,1,MP,Mary Crawford,Catherine Morland,N
+scaled-fanfic-quotes,0,rival,1,P,Louisa Musgrove,Colonel Brandon,S&S
+scaled-fanfic-quotes,0,rival,1,P&P,Caroline Bingley,Mrs. Grant,MP
+scaled-fanfic-quotes,1,rival,1,S&S,Lucy Steele,Harriet Smith,E
+scaled-fanfic-quotes,0,sibling,1,E,Isabella Knightley,Sir Walter Elliot,P
+scaled-fanfic-quotes,0,sibling,1,MP,Susan Price,Mrs. Morland,N
+scaled-fanfic-quotes,0,sibling,1,MP,William Price,Isabella Thorpe,N
+scaled-fanfic-quotes,0,sibling,1,N,James Morland,Lady Catherine de Bourgh,P&P
+scaled-fanfic-quotes,0,sibling,1,P,Elizabeth Elliot,William Collins,P&P
+scaled-fanfic-quotes,1,sibling,1,P,Mary Musgrove,Kitty Bennet,P&P
+scaled-fanfic-quotes,0,sibling,1,P&P,Jane Bennet,Mrs. Grant,MP
+scaled-fanfic-quotes,0,sibling,1,P&P,Kitty Bennet,Sir Thomas Bertram,MP
+scaled-fanfic-quotes,0,sibling,1,P&P,Lydia Bennet,Mrs. Price,MP
+scaled-fanfic-quotes,0,sibling,1,P&P,Mary Bennet,Mr. Rushworth,MP
+scaled-fanfic-quotes,0,sibling,1,S&S,John Dashwood,Lady Russell,P
+scaled-fanfic-quotes,0,sibling,1,S&S,Margaret Dashwood,Mrs. Allen,N
+scaled-fanfic-quotes,0,wooer,1,MP,Henry Crawford,Catherine Morland,N
+scaled-fanfic-quotes,0,wooer,1,N,John Thorpe,Mr. Gardiner,P&P
+scaled-fanfic-quotes,0,wooer,1,P,William Elliot,Mr. Weston,E
+scaled-fanfic-quotes,0,wooer,1,E,Philip Elton,Lady Russell,P
+scaled-fanfic-quotes,0,wooer,1,P,Charles Musgrove,Frederick Tilney,N
+scaled-fanfic-quotes,0,wooer,1,P&P,William Collins,Susan Price,MP

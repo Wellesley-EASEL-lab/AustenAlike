@@ -1,0 +1,607 @@
+dataset,character,topCharacter,result,excludeNovel,metric
+booknlp-events,Admiral Croft,Mrs. Croft,0,0,Top10success
+booknlp-events,Admiral Croft,Frank Churchill,0,1,Top10success
+booknlp-events,Anna Weston,Emma Woodhouse,1,0,Top10success
+booknlp-events,Anna Weston,Anne Elliot,1,1,Top10success
+booknlp-events,Anne Elliot,Fanny Price,1,0,Top10success
+booknlp-events,Anne Elliot,Fanny Price,1,1,Top10success
+booknlp-events,Anne Steele,Lucy Steele,0,0,Top10success
+booknlp-events,Anne Steele,Julia Bertram,0,1,Top10success
+booknlp-events,Anne de Bourgh,Georgiana Darcy,0,0,Top10success
+booknlp-events,Anne de Bourgh,Captain Benwick,1,1,Top10success
+booknlp-events,Captain Benwick,Anne Elliot,0,0,Top10success
+booknlp-events,Captain Benwick,Marianne Dashwood,0,1,Top10success
+booknlp-events,Captain Harville,Admiral Croft,0,0,Top10success
+booknlp-events,Captain Harville,Edmund Bertram,1,1,Top10success
+booknlp-events,Captain Wentworth,Anne Elliot,0,0,Top10success
+booknlp-events,Captain Wentworth,Fitzwilliam Darcy,0,1,Top10success
+booknlp-events,Caroline Bingley,Mrs. Hurst,0,0,Top10success
+booknlp-events,Caroline Bingley,Mary Crawford,1,1,Top10success
+booknlp-events,Catherine Morland,Emma Woodhouse,1,0,Top10success
+booknlp-events,Catherine Morland,Emma Woodhouse,1,1,Top10success
+booknlp-events,Charles Bingley,Caroline Bingley,0,0,Top10success
+booknlp-events,Charles Bingley,Edward Ferrars,1,1,Top10success
+booknlp-events,Charles Musgrove,Mary Musgrove,0,0,Top10success
+booknlp-events,Charles Musgrove,William Collins,0,1,Top10success
+booknlp-events,Charlotte Lucas,Elizabeth Bennet,1,0,Top10success
+booknlp-events,Charlotte Lucas,Lucy Steele,0,1,Top10success
+booknlp-events,Charlotte Palmer,Mrs. Jennings,0,0,Top10success
+booknlp-events,Charlotte Palmer,Mrs. Bennet,0,1,Top10success
+booknlp-events,Colonel Brandon,Edward Ferrars,1,0,Top10success
+booknlp-events,Colonel Brandon,George Knightley,1,1,Top10success
+booknlp-events,Colonel Fitzwilliam,Charles Bingley,1,0,Top10success
+booknlp-events,Colonel Fitzwilliam,Edward Ferrars,1,1,Top10success
+booknlp-events,Dr. Grant,General Tilney,0,0,Top10success
+booknlp-events,Dr. Grant,General Tilney,0,1,Top10success
+booknlp-events,Edmund Bertram,Fanny Price,1,0,Top10success
+booknlp-events,Edmund Bertram,Edward Ferrars,0,1,Top10success
+booknlp-events,Edward Ferrars,Edmund Bertram,0,0,Top10success
+booknlp-events,Edward Ferrars,Edmund Bertram,0,1,Top10success
+booknlp-events,Eleanor Tilney,Henry Tilney,0,0,Top10success
+booknlp-events,Eleanor Tilney,Elinor Dashwood,1,1,Top10success
+booknlp-events,Elinor Dashwood,Marianne Dashwood,1,0,Top10success
+booknlp-events,Elinor Dashwood,Anne Elliot,1,1,Top10success
+booknlp-events,Elizabeth Bennet,Emma Woodhouse,1,0,Top10success
+booknlp-events,Elizabeth Bennet,Emma Woodhouse,1,1,Top10success
+booknlp-events,Elizabeth Elliot,Sir Walter Elliot,0,0,Top10success
+booknlp-events,Elizabeth Elliot,Maria Bertram,0,1,Top10success
+booknlp-events,Emma Woodhouse,Elizabeth Bennet,1,0,Top10success
+booknlp-events,Emma Woodhouse,Elizabeth Bennet,1,1,Top10success
+booknlp-events,Fanny Dashwood,John Dashwood,0,0,Top10success
+booknlp-events,Fanny Dashwood,General Tilney,0,1,Top10success
+booknlp-events,Fanny Price,Anne Elliot,1,0,Top10success
+booknlp-events,Fanny Price,Anne Elliot,1,1,Top10success
+booknlp-events,Fitzwilliam Darcy,George Knightley,1,0,Top10success
+booknlp-events,Fitzwilliam Darcy,George Knightley,1,1,Top10success
+booknlp-events,Frank Churchill,Emma Woodhouse,0,0,Top10success
+booknlp-events,Frank Churchill,Henry Crawford,1,1,Top10success
+booknlp-events,Frederick Tilney,General Tilney,0,0,Top10success
+booknlp-events,Frederick Tilney,George Wickham,1,1,Top10success
+booknlp-events,General Tilney,John Thorpe,0,0,Top10success
+booknlp-events,General Tilney,Sir Walter Elliot,0,1,Top10success
+booknlp-events,George Knightley,Emma Woodhouse,1,0,Top10success
+booknlp-events,George Knightley,Fitzwilliam Darcy,1,1,Top10success
+booknlp-events,George Wickham,John Willoughby,1,0,Top10success
+booknlp-events,George Wickham,John Willoughby,1,1,Top10success
+booknlp-events,Georgiana Darcy,Anne de Bourgh,0,0,Top10success
+booknlp-events,Georgiana Darcy,Emma Woodhouse,0,1,Top10success
+booknlp-events,Harriet Smith,Jane Fairfax,0,0,Top10success
+booknlp-events,Harriet Smith,Fanny Price,1,1,Top10success
+booknlp-events,Henrietta Musgrove,Louisa Musgrove,0,0,Top10success
+booknlp-events,Henrietta Musgrove,Julia Bertram,0,1,Top10success
+booknlp-events,Henry Crawford,Mary Crawford,1,0,Top10success
+booknlp-events,Henry Crawford,John Willoughby,1,1,Top10success
+booknlp-events,Henry Tilney,Edmund Bertram,1,0,Top10success
+booknlp-events,Henry Tilney,Edmund Bertram,1,1,Top10success
+booknlp-events,Isabella Knightley,Mr. Woodhouse,0,0,Top10success
+booknlp-events,Isabella Knightley,Fanny Price,1,1,Top10success
+booknlp-events,Isabella Thorpe,John Thorpe,0,0,Top10success
+booknlp-events,Isabella Thorpe,Mary Crawford,1,1,Top10success
+booknlp-events,James Morland,Edmund Bertram,1,0,Top10success
+booknlp-events,James Morland,Edmund Bertram,1,1,Top10success
+booknlp-events,Jane Bennet,Elizabeth Bennet,1,0,Top10success
+booknlp-events,Jane Bennet,Marianne Dashwood,0,1,Top10success
+booknlp-events,Jane Fairfax,Frank Churchill,1,0,Top10success
+booknlp-events,Jane Fairfax,Marianne Dashwood,0,1,Top10success
+booknlp-events,John Dashwood,Fanny Dashwood,0,0,Top10success
+booknlp-events,John Dashwood,Mrs. Norris,0,1,Top10success
+booknlp-events,John Thorpe,Isabella Thorpe,1,0,Top10success
+booknlp-events,John Thorpe,John Willoughby,0,1,Top10success
+booknlp-events,John Willoughby,George Wickham,1,0,Top10success
+booknlp-events,John Willoughby,George Wickham,1,1,Top10success
+booknlp-events,Julia Bertram,Maria Bertram,0,0,Top10success
+booknlp-events,Julia Bertram,Lydia Bennet,0,1,Top10success
+booknlp-events,Lady Bertram,Mrs. Norris,1,0,Top10success
+booknlp-events,Lady Bertram,Mrs. Bennet,0,1,Top10success
+booknlp-events,Lady Catherine de Bourgh,William Collins,0,0,Top10success
+booknlp-events,Lady Catherine de Bourgh,Emma Woodhouse,1,1,Top10success
+booknlp-events,Lady Lucas,Caroline Bingley,0,0,Top10success
+booknlp-events,Lady Lucas,Fanny Dashwood,0,1,Top10success
+booknlp-events,Lady Middleton,Fanny Dashwood,0,0,Top10success
+booknlp-events,Lady Middleton,Mrs. Bennet,1,1,Top10success
+booknlp-events,Lady Russell,Sir Walter Elliot,0,0,Top10success
+booknlp-events,Lady Russell,General Tilney,0,1,Top10success
+booknlp-events,Louisa Musgrove,Henrietta Musgrove,0,0,Top10success
+booknlp-events,Louisa Musgrove,Caroline Bingley,0,1,Top10success
+booknlp-events,Lucy Steele,Isabella Thorpe,0,0,Top10success
+booknlp-events,Lucy Steele,Isabella Thorpe,0,1,Top10success
+booknlp-events,Lydia Bennet,Elizabeth Bennet,0,0,Top10success
+booknlp-events,Lydia Bennet,Julia Bertram,0,1,Top10success
+booknlp-events,Margaret Dashwood,Anne Elliot,1,0,Top10success
+booknlp-events,Margaret Dashwood,Anne Elliot,1,1,Top10success
+booknlp-events,Maria Bertram,Julia Bertram,0,0,Top10success
+booknlp-events,Maria Bertram,Elizabeth Elliot,0,1,Top10success
+booknlp-events,Marianne Dashwood,Elinor Dashwood,1,0,Top10success
+booknlp-events,Marianne Dashwood,Elizabeth Bennet,1,1,Top10success
+booknlp-events,Mary Bennet,Lydia Bennet,0,0,Top10success
+booknlp-events,Mary Bennet,Fanny Price,0,1,Top10success
+booknlp-events,Mary Crawford,Henry Crawford,1,0,Top10success
+booknlp-events,Mary Crawford,Isabella Thorpe,1,1,Top10success
+booknlp-events,Mary Musgrove,Elizabeth Elliot,0,0,Top10success
+booknlp-events,Mary Musgrove,Mrs. Bennet,0,1,Top10success
+booknlp-events,Miss Bates,Jane Fairfax,1,0,Top10success
+booknlp-events,Miss Bates,Mrs. Jennings,0,1,Top10success
+booknlp-events,Mr. Allen,Mr. Bennet,0,0,Top10success
+booknlp-events,Mr. Allen,Mr. Bennet,0,1,Top10success
+booknlp-events,Mr. Bennet,Elizabeth Bennet,1,0,Top10success
+booknlp-events,Mr. Bennet,Emma Woodhouse,1,1,Top10success
+booknlp-events,William Collins,Lady Catherine de Bourgh,0,0,Top10success
+booknlp-events,William Collins,Philip Elton,1,1,Top10success
+booknlp-events,Philip Elton,Frank Churchill,1,0,Top10success
+booknlp-events,Philip Elton,William Collins,0,1,Top10success
+booknlp-events,Mr. Gardiner,Mrs. Gardiner,0,0,Top10success
+booknlp-events,Mr. Gardiner,Admiral Croft,0,1,Top10success
+booknlp-events,Mr. Hurst,Henry Crawford,0,0,Top10success
+booknlp-events,Mr. Hurst,Henry Crawford,0,1,Top10success
+booknlp-events,Thomas Palmer,Charlotte Palmer,0,0,Top10success
+booknlp-events,Thomas Palmer,Sir Thomas Bertram,1,1,Top10success
+booknlp-events,Mr. Perry,Anne de Bourgh,0,0,Top10success
+booknlp-events,Mr. Perry,Anne de Bourgh,0,1,Top10success
+booknlp-events,Mr. Rushworth,Henry Crawford,1,0,Top10success
+booknlp-events,Mr. Rushworth,John Thorpe,1,1,Top10success
+booknlp-events,Mr. Weston,Mr. Woodhouse,0,0,Top10success
+booknlp-events,Mr. Weston,Henry Crawford,1,1,Top10success
+booknlp-events,Mr. Woodhouse,Isabella Knightley,0,0,Top10success
+booknlp-events,Mr. Woodhouse,Mary Musgrove,0,1,Top10success
+booknlp-events,Mr. Yates,Mary Crawford,1,0,Top10success
+booknlp-events,Mr. Yates,Admiral Croft,0,1,Top10success
+booknlp-events,Mrs. Allen,Isabella Thorpe,0,0,Top10success
+booknlp-events,Mrs. Allen,Mrs. Bennet,1,1,Top10success
+booknlp-events,Mrs. Bates,Jane Fairfax,1,0,Top10success
+booknlp-events,Mrs. Bates,Mrs. Smith,1,1,Top10success
+booknlp-events,Mrs. Bennet,Lydia Bennet,0,0,Top10success
+booknlp-events,Mrs. Bennet,Mrs. Dashwood,1,1,Top10success
+booknlp-events,Mrs. Croft,Anne Elliot,0,0,Top10success
+booknlp-events,Mrs. Croft,Elizabeth Bennet,0,1,Top10success
+booknlp-events,Mrs. Dashwood,Marianne Dashwood,1,0,Top10success
+booknlp-events,Mrs. Dashwood,Mrs. Bennet,1,1,Top10success
+booknlp-events,Augusta Elton,Emma Woodhouse,1,0,Top10success
+booknlp-events,Augusta Elton,Lady Catherine de Bourgh,1,1,Top10success
+booknlp-events,Mrs. Ferrars,Fanny Dashwood,0,0,Top10success
+booknlp-events,Mrs. Ferrars,Lady Catherine de Bourgh,0,1,Top10success
+booknlp-events,Mrs. Gardiner,Mr. Gardiner,0,0,Top10success
+booknlp-events,Mrs. Gardiner,Lady Russell,0,1,Top10success
+booknlp-events,Mrs. Grant,Fanny Price,0,0,Top10success
+booknlp-events,Mrs. Grant,Charlotte Lucas,0,1,Top10success
+booknlp-events,Mrs. Harville,Captain Harville,0,0,Top10success
+booknlp-events,Mrs. Harville,Anna Weston,0,1,Top10success
+booknlp-events,Mrs. Hurst,Caroline Bingley,0,0,Top10success
+booknlp-events,Mrs. Hurst,Emma Woodhouse,0,1,Top10success
+booknlp-events,Mrs. Jennings,Sir John Middleton,0,0,Top10success
+booknlp-events,Mrs. Jennings,Miss Bates,0,1,Top10success
+booknlp-events,Mrs. Morland,Mrs. Dashwood,0,0,Top10success
+booknlp-events,Mrs. Morland,Mrs. Dashwood,0,1,Top10success
+booknlp-events,Mrs. Norris,Lady Bertram,1,0,Top10success
+booknlp-events,Mrs. Norris,Lady Catherine de Bourgh,0,1,Top10success
+booknlp-events,Mrs. Phillips,Mr. Hurst,0,0,Top10success
+booknlp-events,Mrs. Phillips,Admiral Croft,0,1,Top10success
+booknlp-events,Mrs. Price,Lady Bertram,0,0,Top10success
+booknlp-events,Mrs. Price,Mrs. Bennet,0,1,Top10success
+booknlp-events,Mrs. Smith,Anne Elliot,1,0,Top10success
+booknlp-events,Mrs. Smith,Miss Bates,0,1,Top10success
+booknlp-events,Mrs. Thorpe,Mrs. Bates,0,0,Top10success
+booknlp-events,Mrs. Thorpe,Mrs. Bates,0,1,Top10success
+booknlp-events,Mrs. Clay,William Elliot,0,0,Top10success
+booknlp-events,Mrs. Clay,Lucy Steele,1,1,Top10success
+booknlp-events,Robert Ferrars,Lucy Steele,0,0,Top10success
+booknlp-events,Robert Ferrars,Sir Walter Elliot,0,1,Top10success
+booknlp-events,Robert Martin,George Knightley,0,0,Top10success
+booknlp-events,Robert Martin,Anne de Bourgh,0,1,Top10success
+booknlp-events,Sir John Middleton,Mrs. Jennings,0,0,Top10success
+booknlp-events,Sir John Middleton,Catherine Morland,0,1,Top10success
+booknlp-events,Sir Thomas Bertram,Lady Bertram,0,0,Top10success
+booknlp-events,Sir Thomas Bertram,Mr. Bennet,0,1,Top10success
+booknlp-events,Sir Walter Elliot,Elizabeth Elliot,0,0,Top10success
+booknlp-events,Sir Walter Elliot,Lady Catherine de Bourgh,0,1,Top10success
+booknlp-events,Sir William Lucas,Caroline Bingley,0,0,Top10success
+booknlp-events,Sir William Lucas,Admiral Croft,0,1,Top10success
+booknlp-events,Susan Price,Fanny Price,1,0,Top10success
+booknlp-events,Susan Price,Elizabeth Bennet,1,1,Top10success
+booknlp-events,William Elliot,John Willoughby,1,0,Top10success
+booknlp-events,William Elliot,John Willoughby,1,1,Top10success
+booknlp-events,William Price,Edmund Bertram,0,0,Top10success
+booknlp-events,William Price,Captain Wentworth,1,1,Top10success
+booknlp-events,Admiral Croft,,0.0,0,Jaccard
+booknlp-events,Admiral Croft,,0.0,1,Jaccard
+booknlp-events,Anna Weston,,0.17647058823529413,0,Jaccard
+booknlp-events,Anna Weston,,0.05263157894736842,1,Jaccard
+booknlp-events,Anne Elliot,,0.05263157894736842,0,Jaccard
+booknlp-events,Anne Elliot,,0.25,1,Jaccard
+booknlp-events,Anne Steele,,0.0,0,Jaccard
+booknlp-events,Anne Steele,,0.0,1,Jaccard
+booknlp-events,Anne de Bourgh,,0.0,0,Jaccard
+booknlp-events,Anne de Bourgh,,0.0,1,Jaccard
+booknlp-events,Captain Benwick,,0.0,0,Jaccard
+booknlp-events,Captain Benwick,,0.0,1,Jaccard
+booknlp-events,Captain Harville,,0.0,0,Jaccard
+booknlp-events,Captain Harville,,0.0,1,Jaccard
+booknlp-events,Captain Wentworth,,0.0,0,Jaccard
+booknlp-events,Captain Wentworth,,0.0,1,Jaccard
+booknlp-events,Caroline Bingley,,0.0,0,Jaccard
+booknlp-events,Caroline Bingley,,0.0,1,Jaccard
+booknlp-events,Catherine Morland,,0.1111111111111111,0,Jaccard
+booknlp-events,Catherine Morland,,0.25,1,Jaccard
+booknlp-events,Charles Bingley,,0.1111111111111111,0,Jaccard
+booknlp-events,Charles Bingley,,0.05263157894736842,1,Jaccard
+booknlp-events,Charles Musgrove,,0.0,0,Jaccard
+booknlp-events,Charles Musgrove,,0.0,1,Jaccard
+booknlp-events,Charlotte Lucas,,0.0,0,Jaccard
+booknlp-events,Charlotte Lucas,,0.0,1,Jaccard
+booknlp-events,Charlotte Palmer,,0.0,0,Jaccard
+booknlp-events,Charlotte Palmer,,0.0,1,Jaccard
+booknlp-events,Colonel Brandon,,0.05263157894736842,0,Jaccard
+booknlp-events,Colonel Brandon,,0.0,1,Jaccard
+booknlp-events,Colonel Fitzwilliam,,0.0,0,Jaccard
+booknlp-events,Colonel Fitzwilliam,,0.0,1,Jaccard
+booknlp-events,Dr. Grant,,0.0,0,Jaccard
+booknlp-events,Dr. Grant,,0.05263157894736842,1,Jaccard
+booknlp-events,Edmund Bertram,,0.0,0,Jaccard
+booknlp-events,Edmund Bertram,,0.05263157894736842,1,Jaccard
+booknlp-events,Edward Ferrars,,0.0,0,Jaccard
+booknlp-events,Edward Ferrars,,0.05263157894736842,1,Jaccard
+booknlp-events,Eleanor Tilney,,0.05263157894736842,0,Jaccard
+booknlp-events,Eleanor Tilney,,0.05263157894736842,1,Jaccard
+booknlp-events,Elinor Dashwood,,0.0,0,Jaccard
+booknlp-events,Elinor Dashwood,,0.0,1,Jaccard
+booknlp-events,Elizabeth Bennet,,0.17647058823529413,0,Jaccard
+booknlp-events,Elizabeth Bennet,,0.05263157894736842,1,Jaccard
+booknlp-events,Elizabeth Elliot,,0.0,0,Jaccard
+booknlp-events,Elizabeth Elliot,,0.0,1,Jaccard
+booknlp-events,Emma Woodhouse,,0.0,0,Jaccard
+booknlp-events,Emma Woodhouse,,0.1111111111111111,1,Jaccard
+booknlp-events,Fanny Dashwood,,0.0,0,Jaccard
+booknlp-events,Fanny Dashwood,,0.0,1,Jaccard
+booknlp-events,Fanny Price,,0.05263157894736842,0,Jaccard
+booknlp-events,Fanny Price,,0.05263157894736842,1,Jaccard
+booknlp-events,Fitzwilliam Darcy,,0.05263157894736842,0,Jaccard
+booknlp-events,Fitzwilliam Darcy,,0.05263157894736842,1,Jaccard
+booknlp-events,Frank Churchill,,0.0,0,Jaccard
+booknlp-events,Frank Churchill,,0.05263157894736842,1,Jaccard
+booknlp-events,Frederick Tilney,,0.05263157894736842,0,Jaccard
+booknlp-events,Frederick Tilney,,0.0,1,Jaccard
+booknlp-events,General Tilney,,0.0,0,Jaccard
+booknlp-events,General Tilney,,0.0,1,Jaccard
+booknlp-events,George Knightley,,0.0,0,Jaccard
+booknlp-events,George Knightley,,0.0,1,Jaccard
+booknlp-events,George Wickham,,0.05263157894736842,0,Jaccard
+booknlp-events,George Wickham,,0.05263157894736842,1,Jaccard
+booknlp-events,Georgiana Darcy,,0.05263157894736842,0,Jaccard
+booknlp-events,Georgiana Darcy,,0.0,1,Jaccard
+booknlp-events,Harriet Smith,,0.05263157894736842,0,Jaccard
+booknlp-events,Harriet Smith,,0.1111111111111111,1,Jaccard
+booknlp-events,Henrietta Musgrove,,0.0,0,Jaccard
+booknlp-events,Henrietta Musgrove,,0.0,1,Jaccard
+booknlp-events,Henry Crawford,,0.0,0,Jaccard
+booknlp-events,Henry Crawford,,0.0,1,Jaccard
+booknlp-events,Henry Tilney,,0.0,0,Jaccard
+booknlp-events,Henry Tilney,,0.0,1,Jaccard
+booknlp-events,Isabella Knightley,,0.0,0,Jaccard
+booknlp-events,Isabella Knightley,,0.05263157894736842,1,Jaccard
+booknlp-events,Isabella Thorpe,,0.0,0,Jaccard
+booknlp-events,Isabella Thorpe,,0.0,1,Jaccard
+booknlp-events,James Morland,,0.0,0,Jaccard
+booknlp-events,James Morland,,0.0,1,Jaccard
+booknlp-events,Jane Bennet,,0.05263157894736842,0,Jaccard
+booknlp-events,Jane Bennet,,0.0,1,Jaccard
+booknlp-events,Jane Fairfax,,0.1111111111111111,0,Jaccard
+booknlp-events,Jane Fairfax,,0.05263157894736842,1,Jaccard
+booknlp-events,John Dashwood,,0.0,0,Jaccard
+booknlp-events,John Dashwood,,0.0,1,Jaccard
+booknlp-events,John Thorpe,,0.05263157894736842,0,Jaccard
+booknlp-events,John Thorpe,,0.0,1,Jaccard
+booknlp-events,John Willoughby,,0.05263157894736842,0,Jaccard
+booknlp-events,John Willoughby,,0.05263157894736842,1,Jaccard
+booknlp-events,Julia Bertram,,0.0,0,Jaccard
+booknlp-events,Julia Bertram,,0.0,1,Jaccard
+booknlp-events,Lady Bertram,,0.0,0,Jaccard
+booknlp-events,Lady Bertram,,0.0,1,Jaccard
+booknlp-events,Lady Catherine de Bourgh,,0.0,0,Jaccard
+booknlp-events,Lady Catherine de Bourgh,,0.0,1,Jaccard
+booknlp-events,Lady Lucas,,0.0,0,Jaccard
+booknlp-events,Lady Lucas,,0.0,1,Jaccard
+booknlp-events,Lady Middleton,,0.0,0,Jaccard
+booknlp-events,Lady Middleton,,0.0,1,Jaccard
+booknlp-events,Lady Russell,,0.0,0,Jaccard
+booknlp-events,Lady Russell,,0.0,1,Jaccard
+booknlp-events,Louisa Musgrove,,0.0,0,Jaccard
+booknlp-events,Louisa Musgrove,,0.0,1,Jaccard
+booknlp-events,Lucy Steele,,0.0,0,Jaccard
+booknlp-events,Lucy Steele,,0.0,1,Jaccard
+booknlp-events,Lydia Bennet,,0.0,0,Jaccard
+booknlp-events,Lydia Bennet,,0.0,1,Jaccard
+booknlp-events,Margaret Dashwood,,0.0,0,Jaccard
+booknlp-events,Margaret Dashwood,,0.1111111111111111,1,Jaccard
+booknlp-events,Maria Bertram,,0.05263157894736842,0,Jaccard
+booknlp-events,Maria Bertram,,0.05263157894736842,1,Jaccard
+booknlp-events,Marianne Dashwood,,0.05263157894736842,0,Jaccard
+booknlp-events,Marianne Dashwood,,0.0,1,Jaccard
+booknlp-events,Mary Bennet,,0.0,0,Jaccard
+booknlp-events,Mary Bennet,,0.0,1,Jaccard
+booknlp-events,Mary Crawford,,0.0,0,Jaccard
+booknlp-events,Mary Crawford,,0.0,1,Jaccard
+booknlp-events,Mary Musgrove,,0.0,0,Jaccard
+booknlp-events,Mary Musgrove,,0.0,1,Jaccard
+booknlp-events,Miss Bates,,0.0,0,Jaccard
+booknlp-events,Miss Bates,,0.0,1,Jaccard
+booknlp-events,Mr. Allen,,0.0,0,Jaccard
+booknlp-events,Mr. Allen,,0.0,1,Jaccard
+booknlp-events,Mr. Bennet,,0.0,0,Jaccard
+booknlp-events,Mr. Bennet,,0.17647058823529413,1,Jaccard
+booknlp-events,William Collins,,0.0,0,Jaccard
+booknlp-events,William Collins,,0.0,1,Jaccard
+booknlp-events,Philip Elton,,0.05263157894736842,0,Jaccard
+booknlp-events,Philip Elton,,0.0,1,Jaccard
+booknlp-events,Mr. Gardiner,,0.0,0,Jaccard
+booknlp-events,Mr. Gardiner,,0.0,1,Jaccard
+booknlp-events,Mr. Hurst,,0.0,0,Jaccard
+booknlp-events,Mr. Hurst,,0.0,1,Jaccard
+booknlp-events,Thomas Palmer,,0.0,0,Jaccard
+booknlp-events,Thomas Palmer,,0.0,1,Jaccard
+booknlp-events,Mr. Perry,,0.0,0,Jaccard
+booknlp-events,Mr. Perry,,0.0,1,Jaccard
+booknlp-events,Mr. Rushworth,,0.0,0,Jaccard
+booknlp-events,Mr. Rushworth,,0.0,1,Jaccard
+booknlp-events,Mr. Weston,,0.0,0,Jaccard
+booknlp-events,Mr. Weston,,0.0,1,Jaccard
+booknlp-events,Mr. Woodhouse,,0.0,0,Jaccard
+booknlp-events,Mr. Woodhouse,,0.0,1,Jaccard
+booknlp-events,Mr. Yates,,0.0,0,Jaccard
+booknlp-events,Mr. Yates,,0.0,1,Jaccard
+booknlp-events,Mrs. Allen,,0.0,0,Jaccard
+booknlp-events,Mrs. Allen,,0.05263157894736842,1,Jaccard
+booknlp-events,Mrs. Bates,,0.0,0,Jaccard
+booknlp-events,Mrs. Bates,,0.05263157894736842,1,Jaccard
+booknlp-events,Mrs. Bennet,,0.0,0,Jaccard
+booknlp-events,Mrs. Bennet,,0.0,1,Jaccard
+booknlp-events,Mrs. Croft,,0.05263157894736842,0,Jaccard
+booknlp-events,Mrs. Croft,,0.05263157894736842,1,Jaccard
+booknlp-events,Mrs. Dashwood,,0.0,0,Jaccard
+booknlp-events,Mrs. Dashwood,,0.0,1,Jaccard
+booknlp-events,Augusta Elton,,0.05263157894736842,0,Jaccard
+booknlp-events,Augusta Elton,,0.0,1,Jaccard
+booknlp-events,Mrs. Ferrars,,0.0,0,Jaccard
+booknlp-events,Mrs. Ferrars,,0.0,1,Jaccard
+booknlp-events,Mrs. Gardiner,,0.0,0,Jaccard
+booknlp-events,Mrs. Gardiner,,0.1111111111111111,1,Jaccard
+booknlp-events,Mrs. Grant,,0.0,0,Jaccard
+booknlp-events,Mrs. Grant,,0.0,1,Jaccard
+booknlp-events,Mrs. Harville,,0.0,0,Jaccard
+booknlp-events,Mrs. Harville,,0.0,1,Jaccard
+booknlp-events,Mrs. Hurst,,0.0,0,Jaccard
+booknlp-events,Mrs. Hurst,,0.05263157894736842,1,Jaccard
+booknlp-events,Mrs. Jennings,,0.0,0,Jaccard
+booknlp-events,Mrs. Jennings,,0.05263157894736842,1,Jaccard
+booknlp-events,Mrs. Morland,,0.0,0,Jaccard
+booknlp-events,Mrs. Morland,,0.0,1,Jaccard
+booknlp-events,Mrs. Norris,,0.0,0,Jaccard
+booknlp-events,Mrs. Norris,,0.0,1,Jaccard
+booknlp-events,Mrs. Phillips,,0.0,0,Jaccard
+booknlp-events,Mrs. Phillips,,0.0,1,Jaccard
+booknlp-events,Mrs. Price,,0.0,0,Jaccard
+booknlp-events,Mrs. Price,,0.0,1,Jaccard
+booknlp-events,Mrs. Smith,,0.0,0,Jaccard
+booknlp-events,Mrs. Smith,,0.0,1,Jaccard
+booknlp-events,Mrs. Thorpe,,0.0,0,Jaccard
+booknlp-events,Mrs. Thorpe,,0.0,1,Jaccard
+booknlp-events,Mrs. Clay,,0.0,0,Jaccard
+booknlp-events,Mrs. Clay,,0.0,1,Jaccard
+booknlp-events,Robert Ferrars,,0.0,0,Jaccard
+booknlp-events,Robert Ferrars,,0.05263157894736842,1,Jaccard
+booknlp-events,Robert Martin,,0.0,0,Jaccard
+booknlp-events,Robert Martin,,0.0,1,Jaccard
+booknlp-events,Sir John Middleton,,0.0,0,Jaccard
+booknlp-events,Sir John Middleton,,0.05263157894736842,1,Jaccard
+booknlp-events,Sir Thomas Bertram,,0.0,0,Jaccard
+booknlp-events,Sir Thomas Bertram,,0.0,1,Jaccard
+booknlp-events,Sir Walter Elliot,,0.0,0,Jaccard
+booknlp-events,Sir Walter Elliot,,0.05263157894736842,1,Jaccard
+booknlp-events,Sir William Lucas,,0.0,0,Jaccard
+booknlp-events,Sir William Lucas,,0.0,1,Jaccard
+booknlp-events,Susan Price,,0.1111111111111111,0,Jaccard
+booknlp-events,Susan Price,,0.0,1,Jaccard
+booknlp-events,William Elliot,,0.05263157894736842,0,Jaccard
+booknlp-events,William Elliot,,0.05263157894736842,1,Jaccard
+booknlp-events,William Price,,0.0,0,Jaccard
+booknlp-events,William Price,,0.05263157894736842,1,Jaccard
+booknlp-events,Admiral Croft,,-0.06666666666666667,0,KendallTau
+booknlp-events,Admiral Croft,,0.24444444444444444,1,KendallTau
+booknlp-events,Anna Weston,,0.3333333333333333,0,KendallTau
+booknlp-events,Anna Weston,,-0.022222222222222223,1,KendallTau
+booknlp-events,Anne Elliot,,0.6888888888888888,0,KendallTau
+booknlp-events,Anne Elliot,,0.7333333333333333,1,KendallTau
+booknlp-events,Anne Steele,,0.15555555555555553,0,KendallTau
+booknlp-events,Anne Steele,,0.022222222222222223,1,KendallTau
+booknlp-events,Anne de Bourgh,,-0.15555555555555553,0,KendallTau
+booknlp-events,Anne de Bourgh,,0.28888888888888886,1,KendallTau
+booknlp-events,Captain Benwick,,0.28888888888888886,0,KendallTau
+booknlp-events,Captain Benwick,,-0.19999999999999998,1,KendallTau
+booknlp-events,Captain Harville,,-0.1111111111111111,0,KendallTau
+booknlp-events,Captain Harville,,0.5555555555555555,1,KendallTau
+booknlp-events,Captain Wentworth,,0.28888888888888886,0,KendallTau
+booknlp-events,Captain Wentworth,,0.1111111111111111,1,KendallTau
+booknlp-events,Caroline Bingley,,0.1111111111111111,0,KendallTau
+booknlp-events,Caroline Bingley,,0.19999999999999998,1,KendallTau
+booknlp-events,Catherine Morland,,0.6888888888888888,0,KendallTau
+booknlp-events,Catherine Morland,,0.6444444444444444,1,KendallTau
+booknlp-events,Charles Bingley,,-0.19999999999999998,0,KendallTau
+booknlp-events,Charles Bingley,,0.4666666666666666,1,KendallTau
+booknlp-events,Charles Musgrove,,0.1111111111111111,0,KendallTau
+booknlp-events,Charles Musgrove,,0.28888888888888886,1,KendallTau
+booknlp-events,Charlotte Lucas,,-0.022222222222222223,0,KendallTau
+booknlp-events,Charlotte Lucas,,0.06666666666666667,1,KendallTau
+booknlp-events,Charlotte Palmer,,0.19999999999999998,0,KendallTau
+booknlp-events,Charlotte Palmer,,0.5111111111111111,1,KendallTau
+booknlp-events,Colonel Brandon,,0.4666666666666666,0,KendallTau
+booknlp-events,Colonel Brandon,,0.19999999999999998,1,KendallTau
+booknlp-events,Colonel Fitzwilliam,,0.6444444444444444,0,KendallTau
+booknlp-events,Colonel Fitzwilliam,,0.28888888888888886,1,KendallTau
+booknlp-events,Dr. Grant,,0.022222222222222223,0,KendallTau
+booknlp-events,Dr. Grant,,0.4222222222222222,1,KendallTau
+booknlp-events,Edmund Bertram,,0.3333333333333333,0,KendallTau
+booknlp-events,Edmund Bertram,,-0.19999999999999998,1,KendallTau
+booknlp-events,Edward Ferrars,,-0.15555555555555553,0,KendallTau
+booknlp-events,Edward Ferrars,,0.15555555555555553,1,KendallTau
+booknlp-events,Eleanor Tilney,,0.28888888888888886,0,KendallTau
+booknlp-events,Eleanor Tilney,,0.5555555555555555,1,KendallTau
+booknlp-events,Elinor Dashwood,,0.4666666666666666,0,KendallTau
+booknlp-events,Elinor Dashwood,,0.6888888888888888,1,KendallTau
+booknlp-events,Elizabeth Bennet,,0.19999999999999998,0,KendallTau
+booknlp-events,Elizabeth Bennet,,0.5111111111111111,1,KendallTau
+booknlp-events,Elizabeth Elliot,,-0.1111111111111111,0,KendallTau
+booknlp-events,Elizabeth Elliot,,0.28888888888888886,1,KendallTau
+booknlp-events,Emma Woodhouse,,0.24444444444444444,0,KendallTau
+booknlp-events,Emma Woodhouse,,0.6444444444444444,1,KendallTau
+booknlp-events,Fanny Dashwood,,0.1111111111111111,0,KendallTau
+booknlp-events,Fanny Dashwood,,0.06666666666666667,1,KendallTau
+booknlp-events,Fanny Price,,0.4222222222222222,0,KendallTau
+booknlp-events,Fanny Price,,0.6,1,KendallTau
+booknlp-events,Fitzwilliam Darcy,,0.1111111111111111,0,KendallTau
+booknlp-events,Fitzwilliam Darcy,,0.19999999999999998,1,KendallTau
+booknlp-events,Frank Churchill,,0.28888888888888886,0,KendallTau
+booknlp-events,Frank Churchill,,0.4666666666666666,1,KendallTau
+booknlp-events,Frederick Tilney,,0.3333333333333333,0,KendallTau
+booknlp-events,Frederick Tilney,,0.24444444444444444,1,KendallTau
+booknlp-events,General Tilney,,-0.022222222222222223,0,KendallTau
+booknlp-events,General Tilney,,-0.06666666666666667,1,KendallTau
+booknlp-events,George Knightley,,0.1111111111111111,0,KendallTau
+booknlp-events,George Knightley,,-0.15555555555555553,1,KendallTau
+booknlp-events,George Wickham,,0.1111111111111111,0,KendallTau
+booknlp-events,George Wickham,,0.06666666666666667,1,KendallTau
+booknlp-events,Georgiana Darcy,,-0.022222222222222223,0,KendallTau
+booknlp-events,Georgiana Darcy,,0.37777777777777777,1,KendallTau
+booknlp-events,Harriet Smith,,0.24444444444444444,0,KendallTau
+booknlp-events,Harriet Smith,,0.4222222222222222,1,KendallTau
+booknlp-events,Henrietta Musgrove,,0.022222222222222223,0,KendallTau
+booknlp-events,Henrietta Musgrove,,0.022222222222222223,1,KendallTau
+booknlp-events,Henry Crawford,,0.24444444444444444,0,KendallTau
+booknlp-events,Henry Crawford,,-0.022222222222222223,1,KendallTau
+booknlp-events,Henry Tilney,,0.28888888888888886,0,KendallTau
+booknlp-events,Henry Tilney,,0.6444444444444444,1,KendallTau
+booknlp-events,Isabella Knightley,,-0.4666666666666666,0,KendallTau
+booknlp-events,Isabella Knightley,,0.5111111111111111,1,KendallTau
+booknlp-events,Isabella Thorpe,,-0.15555555555555553,0,KendallTau
+booknlp-events,Isabella Thorpe,,0.5111111111111111,1,KendallTau
+booknlp-events,James Morland,,0.3333333333333333,0,KendallTau
+booknlp-events,James Morland,,0.37777777777777777,1,KendallTau
+booknlp-events,Jane Bennet,,0.15555555555555553,0,KendallTau
+booknlp-events,Jane Bennet,,0.4666666666666666,1,KendallTau
+booknlp-events,Jane Fairfax,,0.37777777777777777,0,KendallTau
+booknlp-events,Jane Fairfax,,0.24444444444444444,1,KendallTau
+booknlp-events,John Dashwood,,-0.022222222222222223,0,KendallTau
+booknlp-events,John Dashwood,,-0.28888888888888886,1,KendallTau
+booknlp-events,John Thorpe,,-0.022222222222222223,0,KendallTau
+booknlp-events,John Thorpe,,0.24444444444444444,1,KendallTau
+booknlp-events,John Willoughby,,0.4222222222222222,0,KendallTau
+booknlp-events,John Willoughby,,-0.022222222222222223,1,KendallTau
+booknlp-events,Julia Bertram,,0.5111111111111111,0,KendallTau
+booknlp-events,Julia Bertram,,-0.24444444444444444,1,KendallTau
+booknlp-events,Lady Bertram,,0.5111111111111111,0,KendallTau
+booknlp-events,Lady Bertram,,0.37777777777777777,1,KendallTau
+booknlp-events,Lady Catherine de Bourgh,,-0.06666666666666667,0,KendallTau
+booknlp-events,Lady Catherine de Bourgh,,0.24444444444444444,1,KendallTau
+booknlp-events,Lady Lucas,,0.06666666666666667,0,KendallTau
+booknlp-events,Lady Lucas,,-0.15555555555555553,1,KendallTau
+booknlp-events,Lady Middleton,,-0.3333333333333333,0,KendallTau
+booknlp-events,Lady Middleton,,0.37777777777777777,1,KendallTau
+booknlp-events,Lady Russell,,-0.06666666666666667,0,KendallTau
+booknlp-events,Lady Russell,,0.06666666666666667,1,KendallTau
+booknlp-events,Louisa Musgrove,,-0.28888888888888886,0,KendallTau
+booknlp-events,Louisa Musgrove,,-0.06666666666666667,1,KendallTau
+booknlp-events,Lucy Steele,,-0.06666666666666667,0,KendallTau
+booknlp-events,Lucy Steele,,-0.06666666666666667,1,KendallTau
+booknlp-events,Lydia Bennet,,0.06666666666666667,0,KendallTau
+booknlp-events,Lydia Bennet,,0.3333333333333333,1,KendallTau
+booknlp-events,Margaret Dashwood,,0.4666666666666666,0,KendallTau
+booknlp-events,Margaret Dashwood,,0.6888888888888888,1,KendallTau
+booknlp-events,Maria Bertram,,-0.19999999999999998,0,KendallTau
+booknlp-events,Maria Bertram,,0.5111111111111111,1,KendallTau
+booknlp-events,Marianne Dashwood,,0.6888888888888888,0,KendallTau
+booknlp-events,Marianne Dashwood,,0.5555555555555555,1,KendallTau
+booknlp-events,Mary Bennet,,0.28888888888888886,0,KendallTau
+booknlp-events,Mary Bennet,,-0.19999999999999998,1,KendallTau
+booknlp-events,Mary Crawford,,-0.06666666666666667,0,KendallTau
+booknlp-events,Mary Crawford,,0.5555555555555555,1,KendallTau
+booknlp-events,Mary Musgrove,,0.022222222222222223,0,KendallTau
+booknlp-events,Mary Musgrove,,-0.1111111111111111,1,KendallTau
+booknlp-events,Miss Bates,,0.3333333333333333,0,KendallTau
+booknlp-events,Miss Bates,,-0.28888888888888886,1,KendallTau
+booknlp-events,Mr. Allen,,0.24444444444444444,0,KendallTau
+booknlp-events,Mr. Allen,,-0.06666666666666667,1,KendallTau
+booknlp-events,Mr. Bennet,,0.28888888888888886,0,KendallTau
+booknlp-events,Mr. Bennet,,0.3333333333333333,1,KendallTau
+booknlp-events,William Collins,,0.28888888888888886,0,KendallTau
+booknlp-events,William Collins,,-0.19999999999999998,1,KendallTau
+booknlp-events,Philip Elton,,-0.37777777777777777,0,KendallTau
+booknlp-events,Philip Elton,,0.37777777777777777,1,KendallTau
+booknlp-events,Mr. Gardiner,,0.24444444444444444,0,KendallTau
+booknlp-events,Mr. Gardiner,,0.37777777777777777,1,KendallTau
+booknlp-events,Mr. Hurst,,0.24444444444444444,0,KendallTau
+booknlp-events,Mr. Hurst,,0.022222222222222223,1,KendallTau
+booknlp-events,Thomas Palmer,,0.022222222222222223,0,KendallTau
+booknlp-events,Thomas Palmer,,0.1111111111111111,1,KendallTau
+booknlp-events,Mr. Perry,,-0.06666666666666667,0,KendallTau
+booknlp-events,Mr. Perry,,-0.022222222222222223,1,KendallTau
+booknlp-events,Mr. Rushworth,,0.3333333333333333,0,KendallTau
+booknlp-events,Mr. Rushworth,,0.4222222222222222,1,KendallTau
+booknlp-events,Mr. Weston,,-0.19999999999999998,0,KendallTau
+booknlp-events,Mr. Weston,,0.15555555555555553,1,KendallTau
+booknlp-events,Mr. Woodhouse,,-0.15555555555555553,0,KendallTau
+booknlp-events,Mr. Woodhouse,,0.15555555555555553,1,KendallTau
+booknlp-events,Mr. Yates,,0.37777777777777777,0,KendallTau
+booknlp-events,Mr. Yates,,-0.19999999999999998,1,KendallTau
+booknlp-events,Mrs. Allen,,0.28888888888888886,0,KendallTau
+booknlp-events,Mrs. Allen,,0.15555555555555553,1,KendallTau
+booknlp-events,Mrs. Bates,,0.19999999999999998,0,KendallTau
+booknlp-events,Mrs. Bates,,0.022222222222222223,1,KendallTau
+booknlp-events,Mrs. Bennet,,0.37777777777777777,0,KendallTau
+booknlp-events,Mrs. Bennet,,0.6,1,KendallTau
+booknlp-events,Mrs. Croft,,-0.19999999999999998,0,KendallTau
+booknlp-events,Mrs. Croft,,0.4666666666666666,1,KendallTau
+booknlp-events,Mrs. Dashwood,,0.4222222222222222,0,KendallTau
+booknlp-events,Mrs. Dashwood,,0.4222222222222222,1,KendallTau
+booknlp-events,Augusta Elton,,0.28888888888888886,0,KendallTau
+booknlp-events,Augusta Elton,,0.5111111111111111,1,KendallTau
+booknlp-events,Mrs. Ferrars,,-0.19999999999999998,0,KendallTau
+booknlp-events,Mrs. Ferrars,,-0.15555555555555553,1,KendallTau
+booknlp-events,Mrs. Gardiner,,0.19999999999999998,0,KendallTau
+booknlp-events,Mrs. Gardiner,,-0.022222222222222223,1,KendallTau
+booknlp-events,Mrs. Grant,,0.19999999999999998,0,KendallTau
+booknlp-events,Mrs. Grant,,0.28888888888888886,1,KendallTau
+booknlp-events,Mrs. Harville,,-0.022222222222222223,0,KendallTau
+booknlp-events,Mrs. Harville,,-0.24444444444444444,1,KendallTau
+booknlp-events,Mrs. Hurst,,-0.24444444444444444,0,KendallTau
+booknlp-events,Mrs. Hurst,,0.28888888888888886,1,KendallTau
+booknlp-events,Mrs. Jennings,,-0.37777777777777777,0,KendallTau
+booknlp-events,Mrs. Jennings,,0.1111111111111111,1,KendallTau
+booknlp-events,Mrs. Morland,,0.24444444444444444,0,KendallTau
+booknlp-events,Mrs. Morland,,0.19999999999999998,1,KendallTau
+booknlp-events,Mrs. Norris,,0.4666666666666666,0,KendallTau
+booknlp-events,Mrs. Norris,,-0.24444444444444444,1,KendallTau
+booknlp-events,Mrs. Phillips,,-0.15555555555555553,0,KendallTau
+booknlp-events,Mrs. Phillips,,-0.24444444444444444,1,KendallTau
+booknlp-events,Mrs. Price,,-0.28888888888888886,0,KendallTau
+booknlp-events,Mrs. Price,,-0.022222222222222223,1,KendallTau
+booknlp-events,Mrs. Smith,,0.3333333333333333,0,KendallTau
+booknlp-events,Mrs. Smith,,0.06666666666666667,1,KendallTau
+booknlp-events,Mrs. Thorpe,,0.06666666666666667,0,KendallTau
+booknlp-events,Mrs. Thorpe,,-0.19999999999999998,1,KendallTau
+booknlp-events,Mrs. Clay,,0.28888888888888886,0,KendallTau
+booknlp-events,Mrs. Clay,,0.5555555555555555,1,KendallTau
+booknlp-events,Robert Ferrars,,0.1111111111111111,0,KendallTau
+booknlp-events,Robert Ferrars,,-0.06666666666666667,1,KendallTau
+booknlp-events,Robert Martin,,-0.19999999999999998,0,KendallTau
+booknlp-events,Robert Martin,,0.37777777777777777,1,KendallTau
+booknlp-events,Sir John Middleton,,-0.19999999999999998,0,KendallTau
+booknlp-events,Sir John Middleton,,0.4666666666666666,1,KendallTau
+booknlp-events,Sir Thomas Bertram,,0.3333333333333333,0,KendallTau
+booknlp-events,Sir Thomas Bertram,,0.06666666666666667,1,KendallTau
+booknlp-events,Sir Walter Elliot,,0.4222222222222222,0,KendallTau
+booknlp-events,Sir Walter Elliot,,-0.15555555555555553,1,KendallTau
+booknlp-events,Sir William Lucas,,0.24444444444444444,0,KendallTau
+booknlp-events,Sir William Lucas,,0.022222222222222223,1,KendallTau
+booknlp-events,Susan Price,,0.19999999999999998,0,KendallTau
+booknlp-events,Susan Price,,-0.022222222222222223,1,KendallTau
+booknlp-events,William Elliot,,0.19999999999999998,0,KendallTau
+booknlp-events,William Elliot,,0.5111111111111111,1,KendallTau
+booknlp-events,William Price,,0.06666666666666667,0,KendallTau
+booknlp-events,William Price,,-0.15555555555555553,1,KendallTau
