@@ -1,0 +1,6 @@
+Northanger: 2
+Pride: 2
+Sense: 2
+Mansfield: 2
+Persuasion: 1
+Emma: 1
