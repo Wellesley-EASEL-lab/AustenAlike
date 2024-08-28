@@ -60,5 +60,4 @@ Scoring scripts are included for each benchmark.
 
 # Attribution
 
-Please cite our ArviX preprint:
 
