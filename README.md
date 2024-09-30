@@ -60,4 +60,15 @@ Scoring scripts are included for each benchmark.
 
 # Attribution
 
+Please cite the following paper:
 
+```
+@inproceedings{austenalike,
+	title = "Evaluating Computational Representations of Character: An {A}usten Character Similarity Benchmark",
+	booktitle = "Proceedings of the 4th International Workshop on Natural Language Processing for Digital Humanities",
+	author = {Yang, Funing and Anderson, Carolyn Jane},
+	year = "2024",
+	address = "Miami, USA",
+	publisher = "Association for Computational Linguistics",
+}
+```
